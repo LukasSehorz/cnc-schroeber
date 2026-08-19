@@ -1,0 +1,88 @@
+===== HEADER =====
+header#site-header .announcement-active [1440x178 @x0 y0] bg:#ffffff bd:0px/0px/1px/0px #e5e7eb
+  div#announcment-banner .hidden.md:block.text-center.bg-brand-primary-3.text-white.uppercase.p-2 [1440x60 @x0 y0] bg:#004987
+    div .banner-logos [1440x60 @x0 y0] disp:flex gap:30px
+      div .banner-logo-item [120x60 @x435 y0] disp:flex pad:10px
+        a [100x47 @x445 y7] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x545 y20]
+      div .banner-logo-item [120x60 @x585 y0] disp:flex pad:10px
+        a [100x36 @x595 y12] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x695 y20]
+      div .banner-logo-item [120x60 @x735 y0] disp:flex pad:10px
+        a [80x34 @x755 y13] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x845 y20]
+      div .banner-logo-item [120x60 @x885 y0] disp:flex pad:10px
+        a [115x28 @x888 y16] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x995 y20]
+  div .mx-auto.max-w-[1275px].relative.z-50 [1275x117 @x83 y60] mar:0px 82.5px maxw:1275px
+    div .md:flex.flex-wrap.md:justify-between.md:items-center.py-6.relative [1275x117 @x83 y60] disp:flex pad:24px 0px
+      div .inline-flex.justify-between.items-center.w-full.md:w-auto.flex-initial [275x69 @x83 y84] disp:flex
+        a .font-extrabold.text-lg.uppercase [275x69 @x83 y84] {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+      div#offcanvas .offcanvas.md:flex.justify-between.items-center [857x46 @x500 y95] disp:flex
+        nav#nav .md:mr-10.lg:mr-24 [530x26 @x500 y105] mar:0px 96px 0px 0px
+        div .items-center.gap-11.hidden.md:inline-flex.self-end [231x46 @x1127 y95] disp:flex gap:44px
+  form#search-form [1440x60 @x0 y-100] disp:flex gap:8px pad:12px bg:#ffffff
+    input#search-field .search-field [192x36 @x579 y-88] pad:4px bg:#ffffff r:6px bd:1px/1px/1px/1px #9ca3af
+    input .btn-search [82x34 @x779 y-87] pad:4px 16px bg:#5b7e96 r:6px
+    button .cursor-pointer.absolute.right-1 [32x32 @x1404 y-86] {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:center}
+      svg [32x32 @x1404 y-86]
+        path [16x16 @x1412 y-78] disp:inline
+
+===== HERO =====
+section#hero .relative.overlay.bg-black.text-white.py-20.relative.flex.flex-col.justify-center.lg:min-h-[425px].overflow-hidden [1440x502 @x0 y178] disp:flex pad:80px 0px bg:#000000
+  div .p-container.w-full.relative.z-20 [1170x342 @x135 y258] pad:0px 16px mar:0px 135px maxw:1170px
+    div .hero-content [540x342 @x151 y258] maxw:540px
+      div .eyebrow.uppercase.text-r-16.tracking-wider.text-brand-primary-2 [540x26 @x151 y258] {Roboto 16px/26px w400 ls:0.8px uppercase #8dc6e8 ta:start} "CNC MACHINING"
+      h1#hero-headline .text-white.font-semibold.text-r-44 [540x158 @x151 y284] {Raleway 44px/52.8px w600 ls:normal none #ffffff ta:start} "Precision CNC Machining Services for Prototypes & Production"
+      div#hero-copy .py-3 [540x112 @x151 y442] pad:12px 0px
+        p [540x88 @x151 y454] {Roboto 18px/29.25px w400 ls:normal none #ffffff ta:start}
+          span [516x81 @x151 y457] disp:inline {Roboto 18px/29.25px w400 ls:normal none #ffffff ta:start} "Powered by Stanfordville Precision Machining, we’re your partner for c"
+      div .hero-cta [540x46 @x151 y554] disp:flex gap:16px
+        a .btn [191x46 @x151 y554] pad:10px 65px 10px 30px bg:#193768 maxw:370px r:8px {Raleway 16px/26px w700 ls:0.4px none #ffffff ta:start}
+          div .btn-arrow [42x46 @x301 y554] disp:flex pad:4px 12px bg:#98cbeb r:0px 8px 8px 0px
+  img#hero-img .object-cover.object-left.h-full.w-full.absolute.top-0.left-0.z-10 [1440x502 @x0 y178] maxw:100% IMG fit:cover src:Setting-Up-Machine-2048x1368-1-1536x1026.web
+
+===== MAIN SECTIONS =====
+
+--- SECTION 0 ---
+div .p-container [1170x6285 @x135 y720] pad:0px 16px mar:0px 135px maxw:1170px
+  div .breadcrumbs [1138x76 @x151 y720] pad:12px 0px 40px
+    a [63x16 @x151 y735] disp:inline {Raleway 14px/22.75px w400 ls:0.35px none #193768 ta:start} "Solutions"
+    span [14x23 @x218 y733] disp:inline-block pad:0px 4px {Roboto 14px/22.75px w400 ls:0.35px none #193768 ta:start} "/"
+  div .md:grid.grid-cols-[25%_1fr].gap-6 [1138x6209 @x151 y796] disp:grid cols:284.5px 829.5px gap:24px
+    div .md:order-2 [830x6209 @x460 y796]
+      section .page-cards [830x116 @x460 y796] pad:0px 0px 48px
+        div .p-container [830x68 @x460 y796] maxw:1170px
+      section [830x1084 @x460 y912] pad:48px 0px
+        div .p-container [830x988 @x460 y960] maxw:1170px
+      section .page-cards [830x1247 @x460 y1995] pad:48px 0px
+        div .p-container [830x1151 @x460 y2043] maxw:1170px
+      section [830x1520 @x460 y3242] pad:48px 0px
+        div .p-container [830x1424 @x460 y3290] maxw:1170px
+      section .page-cards [830x349 @x460 y4762] pad:48px 0px
+        div .p-container [830x253 @x460 y4810] maxw:1170px
+      section [830x528 @x460 y5111] pad:48px 0px
+        div .p-container.mb-10 [830x392 @x460 y5159] mar:0px 0px 40px maxw:1170px
+      section [830x643 @x460 y5639] pad:48px 0px
+        div .p-container [830x547 @x460 y5687] maxw:1170px
+      section [830x722 @x460 y6282] pad:48px 0px
+        div .p-container [830x626 @x460 y6330] maxw:1170px
+    aside .hidden.md:block.md:order-1 [285x6209 @x151 y796]
+      nav .section-nav-container [285x406 @x151 y796] mar:0px 0px 3px
+        ul .section-nav.anchor-l [328x406 @x65 y796] mar:0px 0px 0px -43.2px
+
+===== FOOTER =====
+footer#colophon .site-footer [1440x782 @x0 y7115]
+  div .p-container.py-8.md:py-20 [1170x721 @x135 y7115] pad:80px 16px mar:0px 135px maxw:1170px
+    div .md:grid.grid-cols-2 [1138x561 @x151 y7195] disp:grid cols:569px 569px
+      div [569x561 @x151 y7195]
+        a .font-extrabold.text-lg.uppercase [569x69 @x151 y7195] disp:inline {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+        div .columns-2.column-gap.gap-8.gap-x-8.text-neutral-100.text-p-14 [569x365 @x151 y7295] gap:32px
+      div .pt-10.sm:pt-0 [569x561 @x720 y7195]
+        nav#footer-nav .menu-header-container [569x541 @x720 y7195]
+        div [569x20 @x720 y7736]
+  div .bg-brand-primary-1.py-5.text-brand-primary-2.text-[13px].font-bold [1440x61 @x0 y7836] pad:20px 0px bg:#193768
+    div .p-container.flex.flex-wrap.justify-between.tracking-wider [1170x21 @x135 y7856] disp:flex pad:0px 16px mar:0px 135px maxw:1170px
+      div [239x21 @x151 y7856] {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "© 2026 UPTIVE. All Rights Reserved."
+      div [92x21 @x1197 y7856]
+        a .text-brand-primary-2 [92x15 @x1197 y7859] disp:inline {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "Privacy Policy"

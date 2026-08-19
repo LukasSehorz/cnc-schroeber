@@ -1,0 +1,88 @@
+===== HEADER =====
+header#site-header .announcement-active [1440x178 @x0 y0] bg:#ffffff bd:0px/0px/1px/0px #e5e7eb
+  div#announcment-banner .hidden.md:block.text-center.bg-brand-primary-3.text-white.uppercase.p-2 [1440x60 @x0 y0] bg:#004987
+    div .banner-logos [1440x60 @x0 y0] disp:flex gap:30px
+      div .banner-logo-item [120x60 @x435 y0] disp:flex pad:10px
+        a [100x47 @x445 y7] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x545 y20]
+      div .banner-logo-item [120x60 @x585 y0] disp:flex pad:10px
+        a [100x36 @x595 y12] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x695 y20]
+      div .banner-logo-item [120x60 @x735 y0] disp:flex pad:10px
+        a [80x34 @x755 y13] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x845 y20]
+      div .banner-logo-item [120x60 @x885 y0] disp:flex pad:10px
+        a [115x28 @x888 y16] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x995 y20]
+  div .mx-auto.max-w-[1275px].relative.z-50 [1275x117 @x83 y60] mar:0px 82.5px maxw:1275px
+    div .md:flex.flex-wrap.md:justify-between.md:items-center.py-6.relative [1275x117 @x83 y60] disp:flex pad:24px 0px
+      div .inline-flex.justify-between.items-center.w-full.md:w-auto.flex-initial [275x69 @x83 y84] disp:flex
+        a .font-extrabold.text-lg.uppercase [275x69 @x83 y84] {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+      div#offcanvas .offcanvas.md:flex.justify-between.items-center [857x46 @x500 y95] disp:flex
+        nav#nav .md:mr-10.lg:mr-24 [530x26 @x500 y105] mar:0px 96px 0px 0px
+        div .items-center.gap-11.hidden.md:inline-flex.self-end [231x46 @x1127 y95] disp:flex gap:44px
+  form#search-form [1440x60 @x0 y-100] disp:flex gap:8px pad:12px bg:#ffffff
+    input#search-field .search-field [192x36 @x579 y-88] pad:4px bg:#ffffff r:6px bd:1px/1px/1px/1px #9ca3af
+    input .btn-search [82x34 @x779 y-87] pad:4px 16px bg:#5b7e96 r:6px
+    button .cursor-pointer.absolute.right-1 [32x32 @x1404 y-86] {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:center}
+      svg [32x32 @x1404 y-86]
+        path [16x16 @x1412 y-78] disp:inline
+
+===== HERO =====
+section#hero .relative.overlay.bg-black.text-white.py-20.relative.flex.flex-col.justify-center.lg:min-h-[425px].overflow-hidden [1440x555 @x0 y178] disp:flex pad:80px 0px bg:#000000
+  div .p-container.w-full.relative.z-20 [1170x395 @x135 y258] pad:0px 16px mar:0px 135px maxw:1170px
+    div .hero-content [540x395 @x151 y258] maxw:540px
+      div .eyebrow.uppercase.text-r-16.tracking-wider.text-brand-primary-2 [540x26 @x151 y258] {Roboto 16px/26px w400 ls:0.8px uppercase #8dc6e8 ta:start} "DIGITAL MANUFACTURING SOLUTIONS"
+      h1#hero-headline .text-white.font-semibold.text-r-44 [540x211 @x151 y284] {Raleway 44px/52.8px w600 ls:normal none #ffffff ta:start} "Transforming Product Development with Uptive’s Digital Manufacturing S"
+      div#hero-copy .py-3 [540x112 @x151 y495] pad:12px 0px
+        p [540x88 @x151 y507] {Roboto 18px/29.25px w400 ls:normal none #ffffff ta:start}
+          span [524x81 @x151 y510] disp:inline {Roboto 18px/29.25px w400 ls:normal none #ffffff ta:start} "With our consultative approach, digital manufacturing is about more th"
+      div .hero-cta [540x46 @x151 y607] disp:flex gap:16px
+        a .btn [191x46 @x151 y607] pad:10px 65px 10px 30px bg:#193768 maxw:370px r:8px {Raleway 16px/26px w700 ls:0.4px none #ffffff ta:start}
+          div .btn-arrow [42x46 @x301 y607] disp:flex pad:4px 12px bg:#98cbeb r:0px 8px 8px 0px
+  img#hero-img .object-cover.object-left.h-full.w-full.absolute.top-0.left-0.z-10 [1440x555 @x0 y178] maxw:100% IMG fit:cover src:Solutions-Hero-1536x1024.webp
+
+===== MAIN SECTIONS =====
+
+--- SECTION 0 ---
+div .p-container [1170x2606 @x135 y773] pad:0px 16px mar:0px 135px maxw:1170px
+  section .page-cards [1138x1898 @x151 y773] pad:0px 0px 48px
+    div .p-container [1138x1850 @x151 y773] maxw:1170px
+      div .text-center [1138x192 @x151 y773]
+        h2 .headline.fade-in.on-view-ready.active [1138x82 @x151 y773] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:center} "Proven Digital Manufacturing Solutions"
+        div .prose.fade-in.on-view-ready.active [1138x110 @x151 y855]
+      div .grid.md:grid-cols-2.lg:grid-cols-3.gap-x-6.gap-y-20.py-4 [1138x1657 @x151 y965] disp:grid cols:363.328px 363.328px 363.344px gap:80px 24px pad:16px 0px
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready.active [363x488 @x151 y981] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready.active [363x488 @x538 y981] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready.active [363x488 @x926 y981] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready [363x488 @x151 y1549] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready [363x488 @x538 y1549] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready [363x488 @x926 y1549] disp:flex
+        div .card.flex.flex-col.justify-start.fade-in.on-view-ready [363x488 @x151 y2118] disp:flex
+  section [1138x206 @x151 y2670] pad:48px 0px
+    div .p-container.text-center.max-w-sm [615x110 @x413 y2718] mar:0px 261.5px maxw:615px
+      h3 .font-display.text-r-22.font-semibold.uppercase.text-brand-copy.pb-4 [615x42 @x413 y2718] pad:0px 0px 16px {Raleway 22px/26.4px w600 ls:normal uppercase #505050 ta:center} "NOT SURE WHAT YOU’RE LOOKING FOR?"
+      div .prose [615x68 @x413 y2761]
+        p [615x68 @x413 y2761] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:center}
+  section [1138x502 @x151 y2877] pad:48px 0px
+    div .p-container.mb-10 [1138x366 @x151 y2925] mar:0px 0px 40px maxw:1170px
+      h2#why-customers-choose-uptive .headline.text-center.fade-in.on-view-ready [1138x82 @x151 y2925] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:center} "Why Customers Choose UPTIVE"
+      div#splide01 .splide.splide-custom.fade-in.on-view-ready.splide--slide.splide--ltr.splide--draggable.is-active.is-initialized [1138x284 @x151 y3007]
+        div .splide__arrows.splide__arrows--ltr [1138x0 @x151 y3007]
+        div#splide01-track .splide__track.splide__track--slide.splide__track--ltr.splide__track--draggable [1138x284 @x151 y3007] pad:0px 16px
+
+===== FOOTER =====
+footer#colophon .site-footer [1440x782 @x0 y3489]
+  div .p-container.py-8.md:py-20 [1170x721 @x135 y3489] pad:80px 16px mar:0px 135px maxw:1170px
+    div .md:grid.grid-cols-2 [1138x561 @x151 y3569] disp:grid cols:569px 569px
+      div [569x561 @x151 y3569]
+        a .font-extrabold.text-lg.uppercase [569x69 @x151 y3569] disp:inline {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+        div .columns-2.column-gap.gap-8.gap-x-8.text-neutral-100.text-p-14 [569x365 @x151 y3670] gap:32px
+      div .pt-10.sm:pt-0 [569x561 @x720 y3569]
+        nav#footer-nav .menu-header-container [569x541 @x720 y3569]
+        div [569x20 @x720 y4110]
+  div .bg-brand-primary-1.py-5.text-brand-primary-2.text-[13px].font-bold [1440x61 @x0 y4210] pad:20px 0px bg:#193768
+    div .p-container.flex.flex-wrap.justify-between.tracking-wider [1170x21 @x135 y4230] disp:flex pad:0px 16px mar:0px 135px maxw:1170px
+      div [239x21 @x151 y4230] {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "© 2026 UPTIVE. All Rights Reserved."
+      div [92x21 @x1197 y4230]
+        a .text-brand-primary-2 [92x15 @x1197 y4233] disp:inline {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "Privacy Policy"

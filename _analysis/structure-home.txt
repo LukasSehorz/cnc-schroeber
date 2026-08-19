@@ -1,0 +1,190 @@
+===== HEADER =====
+header#site-header .announcement-active [1440x178 @x0 y0] bg:#ffffff bd:0px/0px/1px/0px #e5e7eb
+  div#announcment-banner .hidden.md:block.text-center.bg-brand-primary-3.text-white.uppercase.p-2 [1440x60 @x0 y0] bg:#004987
+    div .banner-logos [1440x60 @x0 y0] disp:flex gap:30px
+      div .banner-logo-item [120x60 @x435 y0] disp:flex pad:10px
+        a [100x47 @x445 y7] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x545 y20]
+      div .banner-logo-item [120x60 @x585 y0] disp:flex pad:10px
+        a [100x36 @x595 y12] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x695 y20]
+      div .banner-logo-item [120x60 @x735 y0] disp:flex pad:10px
+        a [80x34 @x755 y13] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x845 y20]
+      div .banner-logo-item [120x60 @x885 y0] disp:flex pad:10px
+        a [115x28 @x888 y16] {Roboto 16px/26px w400 ls:normal uppercase #ffffff ta:center}
+        br [0x19 @x995 y20]
+  div .mx-auto.max-w-[1275px].relative.z-50 [1275x117 @x83 y60] mar:0px 82.5px maxw:1275px
+    div .md:flex.flex-wrap.md:justify-between.md:items-center.py-6.relative [1275x117 @x83 y60] disp:flex pad:24px 0px
+      div .inline-flex.justify-between.items-center.w-full.md:w-auto.flex-initial [275x69 @x83 y84] disp:flex
+        a .font-extrabold.text-lg.uppercase [275x69 @x83 y84] {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+      div#offcanvas .offcanvas.md:flex.justify-between.items-center [857x46 @x500 y95] disp:flex
+        nav#nav .md:mr-10.lg:mr-24 [530x26 @x500 y105] mar:0px 96px 0px 0px
+        div .items-center.gap-11.hidden.md:inline-flex.self-end [231x46 @x1127 y95] disp:flex gap:44px
+  form#search-form [1440x60 @x0 y-100] disp:flex gap:8px pad:12px bg:#ffffff
+    input#search-field .search-field [192x36 @x579 y-88] pad:4px bg:#ffffff r:6px bd:1px/1px/1px/1px #9ca3af
+    input .btn-search [82x34 @x779 y-87] pad:4px 16px bg:#5b7e96 r:6px
+    button .cursor-pointer.absolute.right-1 [32x32 @x1404 y-86] {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:center}
+      svg [32x32 @x1404 y-86]
+        path [16x16 @x1412 y-78] disp:inline
+
+===== HERO =====
+section#hero .relative.overlay.bg-black.text-white.py-20.relative.flex.flex-col.justify-center.lg:min-h-[425px].overflow-hidden [1440x648 @x0 y178] disp:flex pad:80px 0px bg:#000000
+  aside .hidden.lg:flex.absolute.flex-col.justify-center.right-0.z-30 [239x329 @x1201 y338] disp:flex
+    nav [239x329 @x1201 y338]
+      ul .section-nav.anchor-r.rounded-md [239x329 @x1201 y338] r:6px
+        li [239x55 @x1201 y338] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y338] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb r:6px 0px 0px {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+        li [239x55 @x1201 y392] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y392] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+        li [239x55 @x1201 y447] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y447] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+        li [239x55 @x1201 y502] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y502] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+        li [239x55 @x1201 y557] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y557] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+        li [239x55 @x1201 y611] disp:list-item {Roboto 16px/26px w400 ls:normal none #ffffff ta:start}
+          a .section-nav-link [239x55 @x1201 y611] disp:inline-flex pad:16px 16px 16px 20px bg:#98cbeb r:0px 0px 0px 6px {Raleway 14px/22.75px w700 ls:normal none #193768 ta:start}
+  div .p-container.w-full.relative.z-20 [1170x254 @x135 y375] pad:0px 16px mar:117.203px 135px maxw:1170px
+    div .hero-content [578x254 @x151 y375] maxw:578px
+      h1#hero-headline .text-white.font-semibold.text-r-44 [578x106 @x151 y375] {Raleway 44px/52.8px w600 ls:normal none #ffffff ta:start} "Rapid, Reliable, Predictable Custom Manufacturing"
+      div#hero-copy .py-3 [578x102 @x151 y481] pad:12px 0px
+        p [578x39 @x151 y493] {Roboto 24px/39px w400 ls:normal none #ffffff ta:start} "Custom Parts, Any Quantity."
+        p [578x39 @x151 y532] {Roboto 24px/39px w400 ls:normal none #ffffff ta:start} "ISO 9001:2015 | AS9100D | ITAR"
+      div .hero-cta [578x46 @x151 y583] disp:flex gap:16px
+        a .btn [191x46 @x151 y583] pad:10px 65px 10px 30px bg:#193768 maxw:370px r:8px {Raleway 16px/26px w700 ls:0.4px none #ffffff ta:start}
+          div .btn-arrow [42x46 @x301 y583] disp:flex pad:4px 12px bg:#98cbeb r:0px 8px 8px 0px
+        a .btn [268x46 @x358 y583] pad:10px 65px 10px 30px bg:#193768 maxw:370px r:8px {Raleway 16px/26px w700 ls:0.4px none #ffffff ta:start}
+          div .btn-arrow [42x46 @x586 y583] disp:flex pad:4px 12px bg:#98cbeb r:0px 8px 8px 0px
+  img#hero-img .object-cover.object-left.h-full.w-full.absolute.top-0.left-0.z-10 [1440x648 @x0 y178] maxw:100% IMG fit:cover src:home-hero.webp
+
+===== MAIN SECTIONS =====
+
+--- SECTION 0 ---
+section [1440x593 @x0 y866] pad:0px 0px 48px
+  div .images_section.p-container.md:grid.grid-cols-2.gap-14 [1170x545 @x135 y866] disp:grid cols:541px 541px gap:56px pad:0px 16px mar:0px 135px maxw:1170px
+    div .pb-10.lg:pb-0 [541x545 @x151 y866]
+      h2 .headline [541x133 @x151 y866] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "Customer-Centric Service, Cutting-Edge Technology"
+      div .pb-4.prose [541x341 @x151 y999] pad:0px 0px 16px
+        p [541x146 @x151 y999] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:start} "Welcome to UPTIVE. We’re creating a disruptive force in the rapid manu"
+        ul [533x179 @x159 y1145] pad:11.2px 0px 0px mar:0px 0px 0px 8px
+      a .btn [186x46 @x151 y1340] disp:inline-block pad:10px 65px 10px 30px bg:#193768 r:8px {Raleway 16px/26px w700 ls:0.4px none #ffffff ta:start}
+        div .btn-arrow [42x46 @x296 y1340] disp:flex pad:4px 12px bg:#98cbeb r:0px 8px 8px 0px
+    section [541x545 @x748 y866]
+      div .p-container [541x545 @x748 y866] maxw:1170px
+        div .gallery.img-4.gallery-grid.home-grid.fade-in.on-view-ready.active [541x545 @x748 y866] disp:grid cols:131.5px 131.5px 131.5px 131.5px gap:5px
+
+--- SECTION 1 ---
+section [1440x272 @x0 y1459] pad:48px 0px
+  div .p-container.text-center [1170x176 @x135 y1507] pad:0px 16px mar:0px 135px maxw:1170px
+    h2 .headline [1138x82 @x151 y1507] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:center} "The UPTIVE Way"
+    div .prose.mx-auto.max-w-md.text-brand-copy [870x94 @x285 y1589] mar:0px 134px maxw:870px
+      p [870x94 @x285 y1589] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #505050 ta:center} "Let’s be real, technology, automation, and robotics have stripped away"
+
+--- SECTION 2 ---
+section [1440x612 @x0 y1731] pad:48px 0px
+  div .md:border.border-brand-secondary-2.rounded-md.relative.py-8.px-8.max-w-[1248px].mx-auto [1248x516 @x96 y1779] pad:32px mar:0px 96px maxw:1248px r:6px bd:1px/1px/1px/1px #a5d1ec
+    h3 .fade-in-left.text-r-22.text-center.font-semibold.uppercase.text-brand-copy.relative.md:-top-11.mx-auto.w-56.bg-white.px-5.on-view-ready [224x26 @x508 y1768] pad:0px 20px mar:0px 479px bg:#ffffff {Raleway 22px/26.4px w600 ls:normal uppercase #505050 ta:center} "OUR PROCESS"
+    div .fade-in-right.prose.mx-auto.max-w-md.text-center.pb-8.on-view-ready [870x100 @x385 y1839] pad:0px 0px 32px mar:0px 156px maxw:870px
+      p [870x68 @x385 y1839] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #3d3d3d ta:center} "While other rapid manufacturing companies want to take your design fil"
+    div .sm:grid.grid-cols-2.gap-14.justify-items.md:grid-cols-4.md:gap-8.max-w-lg.mx-auto [1175x324 @x133 y1939] disp:grid cols:269.75px 269.75px 269.75px 269.75px gap:32px mar:0px 3.5px maxw:1175px
+      div .mb-20.md:mb-0.fade-in.on-view-ready [270x324 @x133 y1939]
+        div .flip-card.text-center [270x324 @x133 y1939] r:8px
+      div .mb-20.md:mb-0.fade-in.on-view-ready [270x324 @x434 y1939]
+        div .flip-card.text-center [270x324 @x434 y1939] r:8px
+      div .mb-20.md:mb-0.fade-in.on-view-ready [270x324 @x736 y1939]
+        div .flip-card.text-center [270x324 @x736 y1939] r:8px
+      div .mb-20.md:mb-0.fade-in.on-view-ready [270x324 @x1038 y1939]
+        div .flip-card.text-center [270x324 @x1038 y1939] r:8px
+
+--- SECTION 3 ---
+section [1440x1131 @x0 y2344] pad:48px 0px
+  div .p-container.relative.pb-20.md:pb-0 [1170x1035 @x135 y2392] pad:0px 16px mar:0px 135px maxw:1170px
+    div .md:grid.grid-cols-40-60.gap-16 [1138x1035 @x151 y2392] disp:grid cols:455.188px 618.812px gap:64px
+      div .fade-in-left.on-view-ready [455x1035 @x51 y2392]
+        h2 .headline [455x133 @x51 y2392] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "Our Partnership Doesn’t End There"
+        div .prose [455x120 @x51 y2524]
+        div .py-8.md:py-0 [455x46 @x51 y2644]
+      div .pt-10.md:pt-0.fade-in-right.on-view-ready [619x1035 @x770 y2392]
+        strong .block.font-normal.text-r-22.uppercase.text-center.pb-8.tracking-wider [619x68 @x770 y2392] pad:0px 0px 32px {Roboto 22px/35.75px w400 ls:1.1px uppercase #3d3d3d ta:center} "TRUSTED BY THE BEST"
+        div .grid.grid-cols-2.justify-content-center.md:grid-cols-3.items-center.gap-8 [619x769 @x770 y2459] disp:grid cols:184.938px 184.938px 184.938px gap:32px
+        div .relative.p-10.mt-8.md:mt-0 [619x198 @x770 y3228] pad:40px
+
+--- SECTION 4 ---
+section [1440x481 @x0 y3474] pad:48px 0px
+  div .p-container [1170x385 @x135 y3522] pad:0px 16px mar:0px 135px maxw:1170px
+    div .md:grid.items-center.gap-16.grid-cols-40-60 [1138x385 @x151 y3522] disp:grid cols:455.188px 618.812px gap:64px
+      div .break-out.md:order-2.break-out-right.fade-in-right.on-view-ready [806x385 @x770 y3522]
+        img .pb-4.fill-img.max-h-[385px].section-img [806x385 @x770 y3522] pad:0px 0px 16px maxw:100% IMG fit:cover src:R3FS3161-HiRes-1536x1024-1-1024x683.webp
+      div .fade-in-right.on-view-ready [455x331 @x251 y3549]
+        h2 .headline [455x133 @x251 y3549] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "What Drives Us to be Different"
+        div .prose [455x172 @x251 y3682]
+        a .text-brand-primary-1.uppercase.font-bold.text-r-16.inline-flex.gap-1.items-center.more-link [119x26 @x251 y3854] disp:inline-flex gap:4px {Roboto 16px/26px w700 ls:normal uppercase #193768 ta:start}
+
+--- SECTION 5 ---
+section [1440x481 @x0 y3955] pad:48px 0px
+  div .p-container [1170x385 @x135 y4003] pad:0px 16px mar:0px 135px maxw:1170px
+    div .md:grid.items-center.gap-16.grid-cols-60-40 [1138x385 @x151 y4003] disp:grid cols:618.812px 455.188px gap:64px
+      div .break-out.fade-in-left.break-out-left.on-view-ready [806x385 @x-136 y4003]
+        img .pb-4.fill-img.max-h-[385px].section-img [806x385 @x-136 y4003] pad:0px 0px 16px maxw:100% IMG fit:cover src:Placement-Area-ASSETsmallSIZEDefaultSTATEDEF
+      div .fade-in-right.on-view-ready [455x254 @x934 y4069]
+        h2 .headline [455x82 @x934 y4069] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "What We Do"
+        div .prose [455x146 @x934 y4151]
+        a .text-brand-primary-1.uppercase.font-bold.text-r-16.inline-flex.gap-1.items-center.more-link [119x26 @x934 y4297] disp:inline-flex gap:4px {Roboto 16px/26px w700 ls:normal uppercase #193768 ta:start}
+
+--- SECTION 6 ---
+section [1440x481 @x0 y4436] pad:48px 0px
+  div .p-container [1170x385 @x135 y4484] pad:0px 16px mar:0px 135px maxw:1170px
+    div .md:grid.items-center.gap-16.grid-cols-40-60 [1138x385 @x151 y4484] disp:grid cols:455.188px 618.812px gap:64px
+      div .break-out.md:order-2.break-out-right.fade-in-right.on-view-ready [806x385 @x770 y4484]
+        img .pb-4.fill-img.max-h-[385px].section-img [806x385 @x770 y4484] pad:0px 0px 16px maxw:100% IMG fit:cover src:R3FS3239-HiRes-1536x1024-1-1024x683.webp
+      div .fade-in-right.on-view-ready [455x254 @x251 y4550]
+        h2 .headline [455x82 @x251 y4550] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "Why We Educate"
+        div .prose [455x146 @x251 y4632]
+        a .text-brand-primary-1.uppercase.font-bold.text-r-16.inline-flex.gap-1.items-center.more-link [119x26 @x251 y4778] disp:inline-flex gap:4px {Roboto 16px/26px w700 ls:normal uppercase #193768 ta:start}
+
+--- SECTION 7 ---
+section [1440x481 @x0 y4917] pad:48px 0px
+  div .p-container [1170x385 @x135 y4965] pad:0px 16px mar:0px 135px maxw:1170px
+    div .md:grid.items-center.gap-16.grid-cols-60-40 [1138x385 @x151 y4965] disp:grid cols:618.812px 455.188px gap:64px
+      div .break-out.fade-in-left.break-out-left.on-view-ready [806x385 @x-136 y4965]
+        img .pb-4.fill-img.max-h-[385px].section-img [806x385 @x-136 y4965] pad:0px 0px 16px maxw:100% IMG fit:cover src:group-546.webp
+      div .fade-in-right.on-view-ready [455x228 @x934 y5044]
+        h2 .headline [455x82 @x934 y5044] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:start} "Why It Matters"
+        div .prose [455x146 @x934 y5126]
+
+--- SECTION 8 ---
+section [1440x366 @x0 y5398] pad:48px 0px
+  div .p-container.text-center [1170x270 @x135 y5446] pad:0px 16px mar:0px 135px maxw:1170px
+    h2 .headline [1138x82 @x151 y5446] pad:0px 0px 32px {Raleway 42px/50.4px w500 ls:1.05px none #193768 ta:center}
+      strong .uptive [133x49 @x856 y5446] disp:inline {Raleway 42px/50.4px w700 ls:1.05px none #193768 ta:center} "uptive"
+    div .prose.mx-auto.max-w-md.text-brand-copy [870x188 @x285 y5529] mar:0px 134px maxw:870px
+      p [870x120 @x285 y5529] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #505050 ta:center} "In an industry full of automated quotes, limited personalization, and "
+      p [870x68 @x285 y5649] pad:0px 0px 16px {Roboto 16px/26px w400 ls:normal none #505050 ta:center} "By putting you, the customer, first and providing personalized support"
+
+--- SECTION 9 ---
+section [1440x1330 @x0 y5765] pad:48px 0px 0px
+  div .bg-uptive-pattern [1440x1282 @x0 y5813] bgimg:url("https://uptivemfg.com/wp-content/themes/industrial/resources/img/uptive-pat
+    div .p-container.pb-10 [1170x1282 @x135 y5813] pad:0px 16px 40px mar:0px 135px maxw:1170px
+      h3 .text-center.text-r-22.font-semibold.text-brand-copy.uppercase.pb-10.tracking-wide [1138x66 @x151 y5813] pad:0px 0px 40px {Raleway 22px/26.4px w600 ls:0.55px uppercase #505050 ta:center} "THE UPTIVE WAY VS. THE OTHER WAY"
+      div .border.bg-white.rounded-lg.max-w-[1045px].mx-auto.relative [1045x1176 @x198 y5879] mar:0px 46.5px bg:#ffffff maxw:1045px r:8px bd:1px/1px/1px/1px #e5e7eb
+        div .grid.grid-cols-2.text-center.rounded-t-lg.p-4.mb-8.bg-brand-primary-1.text-white.uppercase.font-semibold.font-display.text-r-22 [1043x68 @x199 y5880] disp:grid cols:505.5px 505.5px pad:16px mar:0px 0px 32px bg:#193768 r:8px 8px 0px 0px
+        div .grid.grid-cols-2.text-center.gap-8.text-r-18.font-medium [1043x948 @x199 y5980] disp:grid cols:505.5px 505.5px gap:32px
+        div .absolute.abs-h-center [1x939 @x720 y5975] bg:#a5d1ec
+        div .text-center.py-10 [1043x126 @x199 y6928] pad:40px 0px
+
+===== FOOTER =====
+footer#colophon .site-footer [1440x782 @x0 y7205]
+  div .p-container.py-8.md:py-20 [1170x721 @x135 y7205] pad:80px 16px mar:0px 135px maxw:1170px
+    div .md:grid.grid-cols-2 [1138x561 @x151 y7285] disp:grid cols:569px 569px
+      div [569x561 @x151 y7285]
+        a .font-extrabold.text-lg.uppercase [569x69 @x151 y7285] disp:inline {Roboto 18px/28px w800 ls:normal uppercase #3d3d3d ta:start}
+        div .columns-2.column-gap.gap-8.gap-x-8.text-neutral-100.text-p-14 [569x365 @x151 y7386] gap:32px
+      div .pt-10.sm:pt-0 [569x561 @x720 y7285]
+        nav#footer-nav .menu-header-container [569x541 @x720 y7285]
+        div [569x20 @x720 y7826]
+  div .bg-brand-primary-1.py-5.text-brand-primary-2.text-[13px].font-bold [1440x61 @x0 y7926] pad:20px 0px bg:#193768
+    div .p-container.flex.flex-wrap.justify-between.tracking-wider [1170x21 @x135 y7946] disp:flex pad:0px 16px mar:0px 135px maxw:1170px
+      div [239x21 @x151 y7946] {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "© 2026 UPTIVE. All Rights Reserved."
+      div [92x21 @x1197 y7946]
+        a .text-brand-primary-2 [92x15 @x1197 y7949] disp:inline {Roboto 13px/21.125px w700 ls:0.65px none #8dc6e8 ta:start} "Privacy Policy"

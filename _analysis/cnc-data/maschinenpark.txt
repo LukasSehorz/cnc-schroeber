@@ -1,0 +1,327 @@
+Zum Inhalt springen
++49 8121 93 000
+schoebel@cnc-schoebel.de
+Produktion
+Unternehmen
+Kontakt
+Maschinenpark
+
+Mit einem fortschrittlichen Maschinenpark setzen wir auf modernste CNC-Technologie. Dies ermöglicht nicht nur höchste Präzision, sondern auch eine effiziente Umsetzung Ihrer Aufträge. 
+
+Bearbeitungszentren
+Hermle C22U Dynamic mit Roboter System Sherpa M25
+Fräsmaschine	
+
+Baujahr
+	
+2023
+
+
+Steuerung
+	
+Heidenhain TNC 640
+
+
+Verfahrwege X/Y/Z (mm)
+	
+450/600/330
+
+
+Vorschub (m/min)
+	
+50
+
+
+Spindeldrehzahl (U/min)
+	
+18.000
+
+
+Werkzeugmagazin Plätze
+	
+55
+
+
+Messtechnik
+	
+Blum Laser zur Werkzeugvermessung
+
+Messtaster zur Bauteilvermessung
+
+
+Sonstiges
+	
+Innere Kühlmittelzufuhr sowie innere Blasluft 
+
+Simultanbearbeitung möglich (Torqueantrieb in C- Achse) 
+
+Nullpunktspannsystem 
+Automation	
+
+Typ
+	
+Sherpa M25
+
+
+Art
+	
+Rohteilhandling
+
+
+Bauteilgröße X/Y/Z (mm)
+	
+bis 250/200/200
+
+
+Max. Bauteilgewicht (kg)
+	
+18
+
+
+Sonstiges
+	
+OP20 durch Ausrichtstation möglich Automatische Teilereinigung
+Automation	
+
+Typ
+	
+Sherpa M25
+
+
+Art
+	
+Rohteilhandling
+
+
+Bauteilgröße X/Y/Z (mm)
+	
+250/200/200
+
+
+Max. Bauteilgewicht X/Y/Z (mm)
+	
+12
+
+
+Sonstiges
+	
+OP20 durch Ausrichtstation möglich
+GF HEM 500U mit Roboter System Sherpa M20
+Fräsmaschine	
+
+Baujahr
+	
+2015
+
+
+Steuerung
+	
+Heidenhain iTNC 530
+
+
+Verfahrwege X/Y/Z (mm)
+	
+500/450/400
+
+
+Vorschub (m/min)
+	
+30
+
+
+Spindeldrehzahl (U/min)
+	
+20.000
+
+
+Werkzeugmagazin Plätze
+	
+60
+
+
+Messtechnik
+	
+Blum Laser zur Werkzeugvermessung
+
+Messtaster zur Bauteilvermessung
+
+
+Sonstiges
+	
+Innere Kühlmittelzufuhr sowie innere Blasluft 
+
+Simultanbearbeitung möglich (Torqueantrieb in der B- und C- Achse) 
+
+Nullpunktspannsystem 
+GF VCE1000 Pro
+Bearbeitungszentrum	
+
+Baujahr
+	
+2017
+
+
+Steuerung
+	
+Heidenhain TNC 620
+
+
+Verfahrwege X/Y/Z (mm)
+	
+1020/560/600
+
+
+Vorschub (m/min)
+	
+40
+
+
+Spindeldrehzahl (U/min)
+	
+16.000
+
+
+Werkzeugmagazin Plätze
+	
+40
+
+
+Messtechnik
+	
+Integrierte Werkzeugvermessung von Renishaw
+
+Messtaster zur Bauteilvermessung
+
+
+Sonstiges
+	
+Innere Kühlmittelzufuhr sowie innere Blasluft 
+Mikron VCE1000 Pro-x
+Bearbeitungszentrum	
+
+Baujahr
+	
+2008
+
+
+Steuerung
+	
+Heidenhain iTNC 530
+
+
+Verfahrwege X/Y/Z (mm)
+	
+1020/560/600
+
+
+Vorschub (m/min)
+	
+36
+
+
+Spindeldrehzahl (U/min)
+	
+16.000
+
+
+Werkzeugmagazin Plätze
+	
+24
+
+
+Messtechnik
+	
+Integrierte Werkzeugvermessung von Renishaw
+
+Messtaster zur Bauteilvermessung
+
+
+Sonstiges
+	
+Innere Kühlmittelzufuhr
+
+3+2 Achsen durch Lehmann Zusatztisch
+Mikron VCE800W Pro
+Bearbeitungszentrum	
+
+Baujahr
+	
+2006
+
+
+Steuerung
+	
+Heidenhain iTNC 530
+
+
+Verfahrwege X/Y/Z (mm)
+	
+860/560/600
+
+
+Vorschub (m/min)
+	
+24
+
+
+Spindeldrehzahl (U/min)
+	
+14.000
+
+
+Werkzeugmagazin Plätze
+	
+24
+
+
+Messtechnik
+	
+Integrierte Werkzeugvermessung von Renishaw
+
+Messtaster zur Bauteilvermessung
+
+
+Sonstiges
+	
+Innere Kühlmittelzufuhr sowie innere Blasluft 
+Sägen
+Berg & Schmid GBS 230/60 VA-I
+Vollautomatisch / CNC gesteuert 
+Zuschnitt für Stahl, Edelstahl, Aluminium uvm. 
+Schnittgeschwindigkeit 25 bis 120 m/min 
+Stufenlose Vorschubregelung 
+Gleitschleifmaschinen
+Assfalg TV 95
+Entgraten, Polieren und Veredeln von Oberflächen 
+Füllvolumen 70l 
+Inkl. Wasserfilteranlage 
+Unsere Projekte
+
+Zu unseren Kunden zählen namhafte Unternehmen der verschiedensten Branchen wie z.B. der Medizintechnik, der Konsumgüterindustrie, des Anlagen- und Maschinenbau sowie der optischen Industrie.  
+
+Unverbindlich anfragen
+
+Ihr Partner für Zerspanung. Wir fertigen Ihre Teile.
+
+Produktion
+Zerspanung
+Oberlächenbearbeitung
+Baugruppenmontage
+Service
+Unternehmen
+Unternehmen
+Maschinenpark
+Kontaktieren Sie Uns
+
+Wiegenfeldring 4
+85570 Markt Schwaben
+
+schoebel@cnc-schoebel.de
+Facebook-f
+ 
+ 
+Twitter
+Impressum
+Datenschutz
+
+© 2024 All Rights Reserved.

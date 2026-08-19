@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="de" data-page="home">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Schöbel CNC — Ihr Partner für Zerspanung</title>
+<meta name="description" content="Jedes Projekt ist einzigartig. Wir liefern Ihnen seit über 20 Jahren maßgeschneiderte CNC-Dienstleistungen, mit Präzision bis ins kleinste Detail.">
+<link rel="icon" href="assets/img/cropped-Favicon_Schoebel.jpg">
+<link rel="preload" as="video" href="assets/video/hero-cnc.webm" type="video/webm">
+<link rel="stylesheet" href="css/site.css">
+
+<!--
+  DIRECTION CONTRACT
+  THESIS  Die Seite zeigt die Fertigung bei der Arbeit, statt sie zu behaupten. Sie
+          verweigert die Branchenvorlage aus Stockfoto-Hero, drei Icon-Karten und Formular.
+  WORLD   Anthrazit, Papierweiß, Signalrot. Rechtwinklig, Radius 0 auf Bildern. Trennung
+          durch 1-px-Linien statt Schatten. Bilder brechen über die Containerkante hinaus.
+          Ein rotes Quadrat von 14 px markiert jede Aktion. Jost für Display, Archivo für
+          Daten mit tabellarischen Ziffern.
+  STORY   Ein Einkäufer mit einer Zeichnung sieht echte Maschinen arbeiten, liest das
+          Versprechen von 24 Stunden, findet Verfahrwege und Losgrößen ohne zu suchen.
+  VIEWPORT Wortzeichen randbreit über dem Fertigungsvideo, flankiert von zwei Kleinlabels.
+          Unten links die Überschrift, unten rechts die Aktion. Beim Scrollen schrumpft
+          das Wortzeichen in die Navigationsleiste.
+  FORM    Vom Auftraggeber gepinnt: Hero von barriergroup.com, Sektionen von uptivemfg.com.
+-->
+</head>
+<body>
+
+<a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+<!-- Kopfzeile. Liegt zu Beginn oberhalb des Viewports, das Wortzeichen darin ist der Hero. -->
+<header class="hdr" id="hdr">
+  <div class="hdr__bg" id="hdrBg"></div>
+  <div class="hdr__inner">
+    <nav class="hdr__nav" aria-label="Hauptnavigation">
+      <a class="hdr__link" href="produktion.html">Produktion</a>
+      <a class="hdr__link" href="produktion.html#oberflaeche">Oberfläche</a>
+      <a class="hdr__link" href="produktion.html#montage">Montage</a>
+      <a class="hdr__link" href="produktion.html#service">Service</a>
+    </nav>
+
+    <a class="brand" id="brand" href="index.html" aria-label="Schöbel CNC, zur Startseite">
+      <span class="brand__chip" id="brandChip" aria-hidden="true"></span>
+      <img src="assets/img/Schoebel-CNC_Logo.png" alt="Schöbel CNC">
+    </a>
+
+    <div class="hdr__end">
+      <a class="hdr__tel num" href="tel:+49812193000">+49 8121 93 000</a>
+      <a class="act" href="#anfrage">Anfragen</a>
+      <button class="burger" id="burger" aria-expanded="false" aria-controls="mobileNav">
+        <span></span><span></span><span></span>
+        <span class="visually-hidden">Menü</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobileNav" data-open="false" aria-label="Navigation">
+  <a href="produktion.html">Produktion</a>
+  <a href="produktion.html#zerspanung">Zerspanung</a>
+  <a href="produktion.html#oberflaeche">Oberflächenbearbeitung</a>
+  <a href="produktion.html#montage">Baugruppenmontage</a>
+  <a href="produktion.html#service">Service</a>
+  <a class="act act--fill" href="#anfrage">Angebot anfragen</a>
+</nav>
+
+<main id="main">
+
+  <!-- ===================================================== Hero -->
+  <section class="hero" id="hero">
+    <div class="hero__media" id="heroMedia">
+      <video autoplay muted loop playsinline poster="assets/video/hero-poster.jpg">
+        <source src="assets/video/hero-cnc.webm" type="video/webm">
+        <source src="assets/video/hero-cnc.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="hero__scrim"></div>
+
+    <div class="hero__labels" id="heroLabels" aria-hidden="true">
+      <span>Zerspanung seit 2003</span>
+      <span>Markt Schwaben, Bayern</span>
+    </div>
+
+    <div class="hero__body">
+      <div class="wrap">
+        <div class="hero__grid">
+          <div>
+            <h1>Ihr Partner für<br>Zerspanung.</h1>
+            <p class="hero__sub">Maßgeschneiderte CNC-Fertigung von der Einzelteilzeichnung bis zur montierten Baugruppe. 5-Achs-Simultanbearbeitung, Roboterautomation und Serien bis 50.000 Stück.</p>
+          </div>
+          <a class="act act--light" href="#anfrage">Angebot in unter 24 Stunden</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero__scroll" aria-hidden="true"><i></i> Scrollen</div>
+  </section>
+
+  <!-- ===================================================== Einordnung -->
+  <section class="section">
+    <div class="wrap">
+      <div class="two-col two-col--60-40">
+        <div data-reveal>
+          <span class="kicker">Über uns</span>
+          <h2 class="d-l">Präzision, Partnerschaft, Innovation</h2>
+          <div class="prose" style="margin-top:28px">
+            <p>Wir verstehen, dass jedes Projekt einzigartig ist. Daher bieten wir seit mehr als 20 Jahren maßgeschneiderte CNC-Dienstleistungen, die sich exakt an Ihren Anforderungen orientieren. Von Prototypen bis zur Serienproduktion liefern wir Präzision bis ins kleinste Detail.</p>
+            <p>Dabei setzen wir auf modernste Technik, um den Anforderungen unserer Kunden bestmöglich gerecht zu werden. Gegründet 2003 von Hermann Schöbel, seit 2022 geführt von Martin Herzog und Johannes Seilbeck.</p>
+          </div>
+          <div style="margin-top:34px">
+            <a class="act" href="produktion.html">Unsere Fertigung ansehen</a>
+          </div>
+        </div>
+        <figure class="bleed bleed--right" data-reveal>
+          <img src="assets/img/Schoebel_Automation.jpg" alt="Roboterarm Sherpa M20 vor dem Bearbeitungszentrum GF Mikron HEM 500U, davor Aluminium-Rohteile auf einem Rollwagen" loading="lazy">
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Kennzahlen -->
+  <section class="section section--tight section--flush">
+    <div class="wrap">
+      <div class="stats" data-reveal>
+        <div class="stat">
+          <span class="stat__n num" data-count="15073">15.073</span>
+          <span class="stat__l">Maschinenstunden Kapazität pro Jahr</span>
+        </div>
+        <div class="stat">
+          <span class="stat__n num" data-count="27473">27.473</span>
+          <span class="stat__l">Produzierte Kundenteile pro Jahr</span>
+        </div>
+        <div class="stat">
+          <span class="stat__n num" data-count="9072">9.072</span>
+          <span class="stat__l">Stunden automatisierte Produktion</span>
+        </div>
+        <div class="stat">
+          <span class="stat__n num" data-count="4">4</span>
+          <span class="stat__l">CAM-Programmierplätze</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Leistungen -->
+  <section class="section section--dark">
+    <div class="wrap">
+      <div class="two-col two-col--60-40" style="margin-bottom:clamp(36px,4.5vw,56px)">
+        <div data-reveal>
+          <span class="kicker">Leistungen</span>
+          <h2 class="d-l">Vier Bereiche, ein Ansprechpartner</h2>
+        </div>
+        <p class="lead" data-reveal>Teilefertigung auf hochmodernen Bearbeitungszentren, anschließende Oberflächenbehandlung und die fertig montierte Baugruppe inklusive Elektronik- und Pneumatikkomponenten.</p>
+      </div>
+
+      <div class="tiles" data-reveal>
+        <a class="tile" href="produktion.html#zerspanung">
+          <img src="assets/img/Schoebel_Zerspanung_Start.jpg" alt="5-Achs-Fräsbearbeitung unter Kühlmittelschwall auf einem Nullpunktspannsystem" loading="lazy">
+          <span class="tile__cap"><b>Zerspanung</b><i></i></span>
+        </a>
+        <a class="tile" href="produktion.html#oberflaeche">
+          <img src="assets/img/Schoebel_Oberflaechenbearbeitung.jpg" alt="Schwarz eloxierte Aluminium-Halter nach der Oberflächenbehandlung" loading="lazy">
+          <span class="tile__cap"><b>Oberflächenbearbeitung</b><i></i></span>
+        </a>
+        <a class="tile" href="produktion.html#montage">
+          <img src="assets/img/Schoebel_CNC_Baugruppenmontage.jpg" alt="Drehmomentschlüssel und Steckschlüsseleinsätze im Schaumstoffinlay" loading="lazy">
+          <span class="tile__cap"><b>Baugruppenmontage</b><i></i></span>
+        </a>
+        <a class="tile" href="produktion.html#service">
+          <img src="assets/img/Schoebel_Service.jpg" alt="Maschinenbedienpult mit Produktions-Monitoring" loading="lazy">
+          <span class="tile__cap"><b>Service</b><i></i></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Weg zum Angebot -->
+  <section class="section">
+    <div class="wrap">
+      <div style="max-width:52ch" data-reveal>
+        <span class="kicker">Vom Modell zum Bauteil</span>
+        <h2 class="d-l">In unter 24 Stunden zum Angebot</h2>
+      </div>
+
+      <div class="panel" data-reveal>
+        <span class="panel__tab">So läuft eine Anfrage</span>
+        <ol class="steps">
+          <li class="step">
+            <span class="step__n num">Schritt 01</span>
+            <h3>Daten senden</h3>
+            <p>Sie schicken uns die Zeichnung als PDF und die 3D-Daten. Wir lesen alle gängigen Formate ein, von STEP über SolidWorks und CATIA bis Siemens NX.</p>
+          </li>
+          <li class="step">
+            <span class="step__n num">Schritt 02</span>
+            <h3>Machbarkeit prüfen</h3>
+            <p>Wir sehen uns Geometrie, Material und Toleranzen an. Wo eine konstruktive Änderung die Fertigung günstiger macht, sagen wir Ihnen das.</p>
+          </li>
+          <li class="step">
+            <span class="step__n num">Schritt 03</span>
+            <h3>Angebot erhalten</h3>
+            <p>Innerhalb von 24 Stunden liegt Ihr unverbindliches Angebot vor. Ihre Daten verwenden wir ausschließlich für Machbarkeit und Kalkulation.</p>
+          </li>
+          <li class="step">
+            <span class="step__n num">Schritt 04</span>
+            <h3>Fertigung starten</h3>
+            <p>Programmierung in hyperMILL, Simulation an der virtuellen Maschine, dann Zerspanung, Oberfläche und Montage aus einer Hand.</p>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Fertigung -->
+  <section class="section section--alt">
+    <div class="wrap">
+      <div class="two-col two-col--40-60">
+        <figure class="bleed bleed--left" data-reveal>
+          <img src="assets/img/Schoebel_Hermle_Aluminium.jpg" alt="Großes gefrästes Aluminiumgehäuse auf dem Rundtisch der Hermle, gespannt im Nullpunktspannsystem" loading="lazy">
+        </figure>
+        <div data-reveal>
+          <span class="kicker">Produktion</span>
+          <h2 class="d-l">Termintreue ist selbstverständlich</h2>
+          <div class="prose" style="margin-top:28px">
+            <p>Bei Schöbel CNC sind wir stolz darauf, innovative CNC-Fertigung anzubieten, die Ihren individuellen Anforderungen gerecht wird. Unser erfahrenes Team und modernste Technologien ermöglichen es uns, anspruchsvolle Projekte mit höchster Effizienz und Genauigkeit umzusetzen.</p>
+            <p>Wir legen dabei großen Wert auf Zuverlässigkeit. Termintreue ist für uns selbstverständlich, damit Sie sich auf unsere Leistungen verlassen können.</p>
+          </div>
+          <ul class="ticks" style="margin-top:32px">
+            <li><strong>5-Achs-Simultanbearbeitung</strong> mit 550 × 450 × 400 mm Verfahrweg</li>
+            <li><strong>3-Achs-Bearbeitung</strong> bis 1000 × 550 × 500 mm</li>
+            <li><strong>Automatisierte Fertigung</strong> ab 12 Stück, Serien bis 50.000 Stück</li>
+            <li><strong>Drehteile</strong> bis Ø 250 mm, Serien bis 10.000 Stück</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Maschinenpark -->
+  <section class="section">
+    <div class="wrap">
+      <div class="two-col two-col--40-60" style="align-items:start">
+        <div data-reveal>
+          <span class="kicker">Maschinenpark</span>
+          <h2 class="d-l">Fünf Bearbeitungs&shy;zentren, zwei Roboter</h2>
+          <p class="prose" style="margin-top:26px">Mit einem fortschrittlichen Maschinenpark setzen wir auf modernste CNC-Technologie. Dies ermöglicht nicht nur höchste Präzision, sondern auch eine effiziente Umsetzung Ihrer Aufträge.</p>
+          <div style="margin-top:32px">
+            <a class="act" href="#anfrage">Kapazität anfragen</a>
+          </div>
+        </div>
+
+        <div data-reveal>
+          <table class="spec">
+            <caption>Hermle C22U Dynamic mit Roboter Sherpa M25</caption>
+            <tbody>
+              <tr><th scope="row">Baujahr</th><td>2023</td></tr>
+              <tr><th scope="row">Steuerung</th><td>Heidenhain TNC 640</td></tr>
+              <tr><th scope="row">Verfahrwege X/Y/Z</th><td>450 / 600 / 330 mm</td></tr>
+              <tr><th scope="row">Spindeldrehzahl</th><td>18.000 U/min</td></tr>
+              <tr><th scope="row">Werkzeugmagazin</th><td>55 Plätze</td></tr>
+              <tr><th scope="row">Automation</th><td>Rohteilhandling bis 250 × 200 × 200 mm, max. 18 kg</td></tr>
+            </tbody>
+          </table>
+
+          <table class="spec" style="margin-top:44px">
+            <caption>GF HEM 500U mit Roboter Sherpa M20</caption>
+            <tbody>
+              <tr><th scope="row">Baujahr</th><td>2015</td></tr>
+              <tr><th scope="row">Steuerung</th><td>Heidenhain iTNC 530</td></tr>
+              <tr><th scope="row">Verfahrwege X/Y/Z</th><td>500 / 450 / 400 mm</td></tr>
+              <tr><th scope="row">Spindeldrehzahl</th><td>20.000 U/min</td></tr>
+              <tr><th scope="row">Werkzeugmagazin</th><td>60 Plätze</td></tr>
+              <tr><th scope="row">Messtechnik</th><td>Blum Laser, Messtaster zur Bauteilvermessung</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Projekte -->
+  <section class="section section--alt">
+    <div class="wrap">
+      <div class="two-col two-col--60-40" style="margin-bottom:clamp(32px,4vw,48px)">
+        <div data-reveal>
+          <span class="kicker">Referenzen</span>
+          <h2 class="d-l">Gefertigte Kundenbauteile</h2>
+        </div>
+        <p class="lead" data-reveal>Zu unseren Kunden zählen namhafte Unternehmen der verschiedensten Branchen wie der Medizintechnik, der Konsumgüterindustrie, des Anlagen- und Maschinenbaus sowie der optischen Industrie.</p>
+      </div>
+
+      <div class="gallery" data-reveal>
+        <figure><img src="assets/img/Schoebel_Projekte1.jpg" alt="Edelstahlgehäuse mit gebohrtem Lochraster" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte3.jpg" alt="Gefräste Aluminium-Gehäuseschalen mit Taschen und Rippen" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte4.jpg" alt="Aluminium-Sternteil mit radialen Speichen" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte6.jpg" alt="Aluminium-Riemenscheibe mit Verzahnung und vier Durchbrüchen" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte9.jpg" alt="Edelstahl-Kettenrad" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte2.jpg" alt="Aluminium-Spannbacken mit V-Nut" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte5.jpg" alt="Zylindrische Aluminiumgehäuse mit Fenstern und Bohrbildern" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte7.jpg" alt="Rechteckige Aluminium-Formeinsätze" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Projekte8.jpg" alt="Serie gedrehter Aluminiumflansche mit Lochkreis" loading="lazy"></figure>
+        <figure><img src="assets/img/Schoebel_Lagerblock.jpg" alt="Edelstahl-Lagerblock mit eingepressten Kugellagern und Bronzebuchse" loading="lazy"></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Qualität -->
+  <section class="section">
+    <div class="wrap">
+      <div class="two-col two-col--60-40">
+        <div data-reveal>
+          <span class="kicker">Qualität</span>
+          <h2 class="d-l">Nach ISO 9001 zertifiziert</h2>
+          <div class="prose" style="margin-top:26px">
+            <p>Wir legen größten Wert auf Qualitätssicherung. Unsere Prozesse sind nach den neuesten Standards zertifiziert. Dadurch stellen wir sicher, dass jede Komponente, die unsere Fertigung verlässt, höchsten Qualitätsansprüchen genügt.</p>
+            <p>Seit mehr als zehn Jahren setzen wir auf das CAD/CAM-System hyperMILL. Die Bearbeitungen entstehen softwarebasiert und werden vorab an der virtuellen Maschine simuliert, damit sie maßhaltig, prozesssicher und effizient laufen.</p>
+          </div>
+        </div>
+        <div data-reveal>
+          <ul class="ticks">
+            <li><strong>ISO 9001:2015</strong> für spanabhebende Bearbeitung und Baugruppenmontage</li>
+            <li><strong>Blum Laser</strong> und Renishaw zur Werkzeugvermessung</li>
+            <li><strong>Messtaster</strong> zur Bauteilvermessung in jeder Maschine</li>
+            <li><strong>Mitutoyo CRYSTA-APEX</strong> Koordinatenmessmaschine seit 2025</li>
+            <li><strong>Simulation</strong> jeder Bearbeitung an der virtuellen Maschine</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================================================== Angebot -->
+  <section class="section offer" id="anfrage">
+    <div class="wrap">
+      <div class="offer__grid">
+        <div data-reveal>
+          <span class="kicker">Ihr individuelles Angebot</span>
+          <h2 class="d-l">Erhalten Sie in unter 24 Stunden Ihr Angebot</h2>
+          <div class="prose" style="margin-top:26px">
+            <p>Senden Sie uns eine Zeichnung als PDF sowie die 3D-Daten zum gewünschten Bauteil. Ihre Daten verwenden wir ausschließlich für die Prüfung der Machbarkeit und die Kalkulation Ihres Auftrags.</p>
+          </div>
+          <div class="offer__acts">
+            <a class="act act--fill" href="mailto:schoebel@cnc-schoebel.de?subject=Anfrage%20Bauteil">Anfrage senden</a>
+            <a class="act act--light num" href="tel:+49812193000">+49 8121 93 000</a>
+          </div>
+        </div>
+        <img class="offer__sign" src="assets/img/Schoebel_Icon.png" alt="" aria-hidden="true" loading="lazy" data-reveal>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===================================================== Fußzeile -->
+<footer class="foot">
+  <div class="wrap">
+    <div class="foot__top">
+      <div>
+        <img class="foot__logo" src="assets/img/Schoebel-CNC_Logo.png" alt="Schöbel CNC">
+        <p>Ihr Partner für Zerspanung.<br>Wir fertigen Ihre Teile.</p>
+      </div>
+
+      <div>
+        <h3>Produktion</h3>
+        <ul class="foot__list">
+          <li><a href="produktion.html#zerspanung">Zerspanung</a></li>
+          <li><a href="produktion.html#oberflaeche">Oberflächenbearbeitung</a></li>
+          <li><a href="produktion.html#montage">Baugruppenmontage</a></li>
+          <li><a href="produktion.html#service">Service</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Unternehmen</h3>
+        <ul class="foot__list">
+          <li><a href="produktion.html">Fertigung</a></li>
+          <li><a href="index.html#anfrage">Angebot anfragen</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Kontakt</h3>
+        <address>
+          Schöbel Hermann CNC Frästechnik GmbH<br>
+          Wiegenfeldring 4<br>
+          85570 Markt Schwaben<br><br>
+          <a class="num" href="tel:+49812193000">+49 8121 93 000</a><br>
+          <a href="mailto:schoebel@cnc-schoebel.de">schoebel@cnc-schoebel.de</a>
+        </address>
+      </div>
+    </div>
+
+    <div class="foot__bar">
+      <p>© 2026 Schöbel Hermann CNC Frästechnik GmbH</p>
+      <p>HRB 148536, Amtsgericht München &nbsp;·&nbsp; USt-IdNr. DE229129476</p>
+    </div>
+  </div>
+</footer>
+
+<script src="vendor/gsap.min.js"></script>
+<script src="vendor/ScrollTrigger.min.js"></script>
+<script src="vendor/lenis.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

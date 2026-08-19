@@ -1,0 +1,90 @@
+{
+  "perPage": {
+    "home": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Oberflaechenbearbeitung.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Automation.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC_Baugruppenmontage.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Hermle_Aluminium.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Service.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zerspanung_Start.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg"
+    ],
+    "produktion": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Bauteile_Fertigung.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CAM-Programmierung.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC-Fraesen.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Lager.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Serienfertigung.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zuschnitt.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Baugruppe_Getriebe.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_CNC-Drehen.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Gleitschleifen_Aluminium.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Lagerblock.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Pnaumatikanlage.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Vorrichtungsbau.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_chemische_Oberflaechenbearbeitung.jpg"
+    ],
+    "unternehmen": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Fertigung_Kontakt.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Johannes-Seilbeck.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Martin-Herzog.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/08/Schoebel-Zertifikat-2024-1.png"
+    ],
+    "maschinenpark": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg"
+    ],
+    "kontakt": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte8.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/08/Hermle_Automation_Kontakt.jpg"
+    ],
+    "impressum": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg"
+    ],
+    "datenschutz": [
+      "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg"
+    ]
+  },
+  "all": [
+    "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Bauteile_Fertigung.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Fertigung_Kontakt.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Oberflaechenbearbeitung.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Automation.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CAM-Programmierung.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC-Fraesen.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC_Baugruppenmontage.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Hermle_Aluminium.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Lager.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte8.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Serienfertigung.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Service.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zerspanung_Start.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zuschnitt.png",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Johannes-Seilbeck.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Martin-Herzog.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Baugruppe_Getriebe.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_CNC-Drehen.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Gleitschleifen_Aluminium.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Lagerblock.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Pnaumatikanlage.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Vorrichtungsbau.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_chemische_Oberflaechenbearbeitung.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/08/Hermle_Automation_Kontakt.jpg",
+    "https://cnc-schoebel.de/wp-content/uploads/2024/08/Schoebel-Zertifikat-2024-1.png"
+  ]
+}

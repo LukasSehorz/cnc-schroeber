@@ -1,0 +1,258 @@
+{
+  "title": "UPTIVE | Custom Manufacturing for Prototypes & Production",
+  "generator": "All in One SEO Pro (AIOSEO) 5.0.0.1",
+  "bodyClass": "home wp-singular page-template-default page page-id-3700 wp-theme-industrial",
+  "htmlClass": "wf-inactive wf-kallisto-n8-inactive wf-kallisto-n3-inactive wf-kallisto-n5-inactive crjs",
+  "fontLinks": [
+    "https://uptivemfg.com/wp-includes/css/dashicons.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/css/admin.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/components/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/preferences/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/block-editor/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/reusable-blocks/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/patterns/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/editor/style.min.css",
+    "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/gutenberg/slider-hero-block/dist/blocks.style.build.css",
+    "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/css/font-awesome.min.css",
+    "https://uptivemfg.com/wp-content/themes/industrial/resources/css/site.css?v=52cbac6"
+  ],
+  "styleSheets": [
+    "https://uptivemfg.com/wp-includes/css/dashicons.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/css/admin.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css",
+    "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/components/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/preferences/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/block-editor/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/reusable-blocks/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/patterns/style.min.css",
+    "https://uptivemfg.com/wp-includes/css/dist/editor/style.min.css",
+    "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/gutenberg/slider-hero-block/dist/blocks.style.build.css",
+    "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/css/font-awesome.min.css",
+    "https://uptivemfg.com/wp-content/themes/industrial/resources/css/site.css?v=52cbac6"
+  ],
+  "urls": [
+    {
+      "url": "https://uptivemfg.com/solutions",
+      "text": "",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com",
+      "text": "",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/rapid-prototyping",
+      "text": "Rapid Prototyping",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/additive-manufacturing-services",
+      "text": "Additive Manufacturing",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/cnc-machining",
+      "text": "CNC Machining",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/sheet-metal-fabrication",
+      "text": "Sheet Metal Fabrication",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/injection-tooling-and-molding",
+      "text": "Injection Molding and Tooling",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/post-processing-finishing",
+      "text": "Post Processing & Finishing",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/solutions/urethane-casting",
+      "text": "Urethane Casting",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/get-quote",
+      "text": "Upload Your Design File",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/materials",
+      "text": "Materials",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/materials/metal-prototyping",
+      "text": "Metals",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/materials/polymer-prototyping",
+      "text": "Polymers",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/materials/composite-prototyping",
+      "text": "Composites",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/knowledge-base",
+      "text": "Knowledge Base",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/faq",
+      "text": "Frequently Asked Questions",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/case-studies",
+      "text": "Case Studies",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/videos",
+      "text": "Videos",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/spec-sheets",
+      "text": "Spec Sheets",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/guides",
+      "text": "Guides",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/webinars",
+      "text": "Webinars",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/blog",
+      "text": "Blog",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served",
+      "text": "Industries",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/aerospace-manufacturing",
+      "text": "Aerospace & Defense",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/automotive-manufacturing",
+      "text": "Automotive & Transportation",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/custom-drone-parts",
+      "text": "Drones",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/electronics-manufacturing",
+      "text": "Electronics & Technology",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/industrial-equipment-manufacturing",
+      "text": "Industrial Equipment & Automation",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/industries-served/medical-device-manufacturing",
+      "text": "Medical",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/about-uptive-manufacturing",
+      "text": "About",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/about-uptive-manufacturing/quality-control",
+      "text": "Quality Control",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/our-brands",
+      "text": "Our Brands",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/contact",
+      "text": "Contact",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "https://uptivemfg.com/about-uptive-manufacturing/careers",
+      "text": "Careers",
+      "nav": true,
+      "footer": false
+    },
+    {
+      "url": "mailto:hello@uptivemfg.com",
+      "text": "hello@uptivemfg.com",
+      "nav": false,
+      "footer": true
+    },
+    {
+      "url": "https://uptivemfg.com/privacy-policy-2",
+      "text": "Privacy Policy",
+      "nav": false,
+      "footer": true
+    }
+  ]
+}

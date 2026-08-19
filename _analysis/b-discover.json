@@ -1,0 +1,2126 @@
+{
+  "info": {
+    "title": "Built for safety. Engineered to last - Barrier Group",
+    "generator": "WordPress 7.0.2",
+    "htmlClass": "lenis",
+    "bodyClass": "home wp-singular page-template-default page page-id-8 wp-embed-responsive wp-theme-cargopresstheme cmplz-functional cmplz-uk cmplz-optin",
+    "docHeight": 5247,
+    "vh": 900,
+    "vw": 1440,
+    "libs": {
+      "gsap": false,
+      "ScrollTrigger": false,
+      "ScrollSmoother": false,
+      "Lenis": "function",
+      "lenis": "object",
+      "locomotive": false,
+      "LocomotiveScroll": false,
+      "barba": false,
+      "Swiper": "function",
+      "THREE": false,
+      "SplitType": false,
+      "SplitText": false,
+      "Alpine": false,
+      "React": false,
+      "__NEXT_DATA__": false,
+      "__NUXT__": false,
+      "Webflow": false,
+      "$": false,
+      "jQuery": "function",
+      "Framer": false,
+      "motion": false,
+      "ScrollMagic": false,
+      "anime": false,
+      "Rellax": false,
+      "AOS": false,
+      "matter": false,
+      "lottie": false
+    },
+    "scriptSrcs": [
+      "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-L1JHHT97NB&cx=c&gtm=4e6831",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WQGNHHGL",
+      "https://barriergroup.com/wp-includes/js/jquery/jquery.min.js",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/js/packages.min.js?ver=0.1.0",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/js/script.min.js?ver=0.1.0",
+      "https://www.google.com/recaptcha/enterprise.js?render=6Le3I4csAAAAADvGMHzEzpNOq4P_SmK3O156Atxm&ver=2.1.0",
+      "https://barriergroup.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.1.0",
+      "https://barriergroup.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1770655251",
+      "https://barriergroup.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js?ver=6.7.0.2",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/primary-hero/view.js?ver=1770645151",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/two-col-with-stats/view.js?ver=1772629544",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/card-slider/view.js?ver=1770645151",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/latest-news/view.js?ver=1770645151"
+    ],
+    "inlineScriptHeads": [
+      "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\t\t})(win",
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://barriergroup.com/\",\"url\":\"https://barriergroup.com/\",\"name\":\"Built for safety. Engineered to last - Barrier Group\",\"isPartOf\":{\"@id\":\"https://barriergroup.com/#website\"},\"datePublished\":\"2025-07-15T15:52:12+00:00\",\"dateModi",
+      "\n{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/cargopress/theme/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\"",
+      "\nvar myAjax = {\"ajaxurl\":\"https://barriergroup.com/wp-admin/admin-ajax.php\",\"nonce\":\"7fee6566f5\"};\n//# sourceURL=cargopress-script-js-extra\n",
+      "\nvar gforms_recaptcha_recaptcha_strings = {\"nonce\":\"b6de5b7d2f\",\"disconnect\":\"Disconnecting\",\"change_connection_type\":\"Resetting\",\"spinner\":\"https://barriergroup.com/wp-content/plugins/gravityforms/images/spinner.svg\",\"connection_type\":\"enterprise\",\"disable_badge\":\"\",\"change_connection_type_title\":\"",
+      "\nvar complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"29\",\"version\":\"7.4.4.2\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"uk\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\","
+    ],
+    "styleLinks": [
+      "https://barriergroup.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1770655251",
+      "https://barriergroup.com/wp-content/themes/cargopress/theme/style.css?ver=0.1.0",
+      "https://barriergroup.com/wp-content/uploads/complianz/css/banner-1-optin.css?v=29"
+    ],
+    "barrierTextCands": [],
+    "svgs": [
+      {
+        "cls": "svg-inline--fa fa-times fa-w-11",
+        "vb": "0 0 352 512",
+        "w": 20,
+        "h": 20,
+        "t": 625,
+        "l": 1390,
+        "parentCls": "cmplz-close",
+        "inner": "<path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12."
+      },
+      {
+        "cls": "",
+        "vb": "0 0 1587 242",
+        "w": 1400,
+        "h": 213,
+        "t": 20,
+        "l": 20,
+        "parentCls": "barrier-nav-logo header__logo no-underline group-data-[primary-hero=false]:w-[114px] group-data-[primary-hero=true]:abso",
+        "inner": "\n<path d=\"M150.3 174.743C150.3 158.168 145.904 145.465 137.083 136.619C128.263 127.774 115.608 123.351 99.1043 123.351C97.1869 123.351 94.6668 123.433 91.5168 1"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": -38,
+        "l": 1303,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow]/button:text-brand-yellow group-data-[style=blue]/button:",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 807,
+        "l": 1302,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow]/button:text-brand-yellow group-data-[style=blue]/button:",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 322.72 312.78",
+        "w": 200,
+        "h": 194,
+        "t": 2000,
+        "l": 20,
+        "parentCls": "max-w-[clamp(130px,20vw,200px)] mx-auto md:mx-0 [&_svg]:w-full [&_svg]:h-auto w-full no-underline block mb-[8px]",
+        "inner": "<path fill=\"#151529;\" d=\"m89.32 66.37 68.56-25.06 68.77 25.06 36.05 62.56-12.84 72.09-55.52 47.23h-73.33l-55.1-47.23-12.64-72.09z\"></path><path fill=\"#ffd007\" d"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 14,
+        "h": 14,
+        "t": 2219,
+        "l": 31,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] text-brand-yellow group-data-[style=blue-yellow-blue]/item:text-brand-yellow group",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 14,
+        "h": 14,
+        "t": 2219,
+        "l": -4,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] absolute group-hover/item:left-[50%] group-data-[style=blue-yellow-blue]/item:text",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 15,
+        "h": 15,
+        "t": 2604,
+        "l": 1355,
+        "parentCls": "w-[15px] h-[15px] rotate-180 [&_svg]:w-full group-disabled/item:text-white [&_svg]:h-auto",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 15,
+        "h": 15,
+        "t": 2604,
+        "l": 1415,
+        "parentCls": "w-[15px] h-[15px] [&_svg]:w-full group-disabled/item:text-white [&_svg]:h-auto",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 3363,
+        "l": 618,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow]/button:text-brand-yellow group-data-[style=blue]/button:",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 14,
+        "h": 14,
+        "t": 4296,
+        "l": 31,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] text-brand-yellow absolute group-hover/item:left-[150%] left-[50%] translate-x-[-5",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 14,
+        "h": 14,
+        "t": 4296,
+        "l": -4,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] absolute group-hover/item:left-[50%] text-brand-blue translate-x-[-50%] left-[-50%",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 20,
+        "h": 20,
+        "t": 3967,
+        "l": 1385,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] absolute left-[50%] translate-x-[-50%]",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 20,
+        "h": 20,
+        "t": 3967,
+        "l": 1335,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[40%] absolute translate-x-[-50%] left-[-50%]",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 444,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 881,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 1319,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 1756,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 2194,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 2631,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 3068,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 3506,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 3943,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 4381,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 4818,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 5255,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 5693,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 6130,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 6567,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 7005,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 7442,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 7880,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 8317,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 8754,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 9192,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 9629,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 10067,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 10504,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 10941,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 11379,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 17 16.8",
+        "w": 8,
+        "h": 8,
+        "t": 4305,
+        "l": 11816,
+        "parentCls": "[&_svg]:w-full [&_svg]:h-full w-[50%] group-data-[style=yellow-blue-blue]/button:text-brand-yellow",
+        "inner": "\n  <path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M1 8.4h14M9 1.4l7 7-7 7\"></path>\n"
+      },
+      {
+        "cls": "",
+        "vb": "0 0 200 50",
+        "w": 200,
+        "h": 50,
+        "t": 4567,
+        "l": 20,
+        "parentCls": "max-w-[clamp(130px,20vw,200px)] mx-auto md:mx-0 [&_svg]:w-full [&_svg]:h-auto w-full no-underline block [&_svg]:mb-[10px",
+        "inner": "\n<path d=\"M200 0H0V50H200V0Z\" fill=\"#141429\"></path>\n<path d=\"M28.9951 30.4882C28.9951 28.642 28.5054 27.227 27.5229 26.2418C26.5405 25.2565 25.1309 24.7639 23."
+      },
+      {
+        "cls": "",
+        "vb": "0 0 72 72",
+        "w": 20,
+        "h": 20,
+        "t": 5034,
+        "l": 20,
+        "parentCls": "w-[20px] h-[20px] flex-shrink-0 [&_svg]:w-full [&_svg]:h-full text-brand-blue group-hover:text-brand-yellow",
+        "inner": "\n  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->\n  <defs>\n    <style>\n      .st0 {\n        fill: #141428;\n  "
+      },
+      {
+        "cls": "",
+        "vb": "0 0 72 72",
+        "w": 20,
+        "h": 20,
+        "t": 5058,
+        "l": 20,
+        "parentCls": "w-[20px] h-[20px] flex-shrink-0 [&_svg]:w-full [&_svg]:h-full text-brand-blue group-hover:text-brand-yellow",
+        "inner": "\n  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->\n  <defs>\n    <style>\n      .st0 {\n        fill: #141428;\n  "
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://barriergroup.com/wp-content/uploads/2025/12/Wind_Farms_At_Sea_Producing_Clean_Energy_From_Powerful_Ocean_Winds_fhd_3397218.mp4",
+        "w": 1440,
+        "h": 900,
+        "t": 0,
+        "position": "static",
+        "objectFit": "cover",
+        "parentPos": "absolute"
+      }
+    ],
+    "headers": [
+      {
+        "tag": "DIV",
+        "cls": "cmplz-header",
+        "rect": {
+          "w": 486,
+          "h": 23,
+          "t": 624,
+          "l": 924
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "DIV",
+        "cls": "cmplz-divider cmplz-divider-header",
+        "rect": {
+          "w": 526,
+          "h": 0,
+          "t": 656,
+          "l": 904
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "SPAN",
+        "cls": "cmplz-category-header",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "SPAN",
+        "cls": "cmplz-category-header",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "SPAN",
+        "cls": "cmplz-category-header",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "SPAN",
+        "cls": "cmplz-category-header",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "HEADER",
+        "cls": "px-[20px] py-[10.5px] xl:py-[16px] fixed barrier-topbar header [body.admin-bar_&]:data-[primary-hero=true]:top-[-26px] data-[primary-hero=tr",
+        "rect": {
+          "w": 1440,
+          "h": 57,
+          "t": -62,
+          "l": 0
+        },
+        "position": "fixed",
+        "zIndex": "30",
+        "bg": "rgb(255, 255, 255)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "DIV",
+        "cls": "max-w-[1600px] biggerContainer header__container mx-auto flex justify-between items-center",
+        "rect": {
+          "w": 1400,
+          "h": 24,
+          "t": -46,
+          "l": 20
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "UL",
+        "cls": "hidden xl:flex gap-[40px] barrier-navigation header__navigation",
+        "rect": {
+          "w": 375,
+          "h": 24,
+          "t": -46,
+          "l": 20
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "header__navigation__item",
+        "rect": {
+          "w": 75,
+          "h": 24,
+          "t": -46,
+          "l": 20
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "header__navigation__item",
+        "rect": {
+          "w": 71,
+          "h": 24,
+          "t": -46,
+          "l": 135
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "DIV",
+        "cls": "z-10 barrier-navigation-dropdown header__navigation__item__dropdown absolute hidden top-[calc(100%+1px)] left-[50%] translate-x-[-50%] w-ful",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "absolute",
+        "zIndex": "10",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "DIV",
+        "cls": "barrier-navigation-dropdown-background header__navigation__item__background bg-brand-yellow w-full h-0 -z-10 absolute top-0 left-[50%] trans",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "absolute",
+        "zIndex": "-10",
+        "bg": "rgb(255, 209, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "A",
+        "cls": "text-[26px] opacity-0 header__navigation__item__parent group/item items-center relative justify-between flex w-full -tracking-[0.015em] no-u",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "relative",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "DIV",
+        "cls": "w-0 h-[1px] barrier-navigation-dropdown__line header__navigation__item__line bg-black mb-[30px]",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgb(0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "w-full header__navigation__item__dropdown__item opacity-0",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "w-full header__navigation__item__dropdown__item opacity-0",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "w-full header__navigation__item__dropdown__item opacity-0",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "w-full header__navigation__item__dropdown__item opacity-0",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      },
+      {
+        "tag": "LI",
+        "cls": "w-full header__navigation__item__dropdown__item opacity-0",
+        "rect": {
+          "w": 0,
+          "h": 0,
+          "t": 0,
+          "l": 0
+        },
+        "position": "static",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "backdrop": "none",
+        "mixBlend": "normal"
+      }
+    ],
+    "stickyFixed": [
+      {
+        "tag": "DIV",
+        "cls": "cmplz-cookiebanner banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences cmplz-show",
+        "position": "fixed",
+        "top": "608.5px",
+        "zIndex": "99999",
+        "w": 526,
+        "h": 282,
+        "rt": 609
+      },
+      {
+        "tag": "HEADER",
+        "cls": "px-[20px] py-[10.5px] xl:py-[16px] fixed barrier-topbar header [body.admin-bar_&]:data-[primary-hero=true]:top-[-26px] d",
+        "position": "fixed",
+        "top": "-62px",
+        "zIndex": "30",
+        "w": 1440,
+        "h": 57,
+        "rt": -62
+      },
+      {
+        "tag": "DIV",
+        "cls": "fixed top-[57px] hidden header__mobileNavigation overflow-hidden left-0 bg-brand-yellow w-full h-0",
+        "position": "fixed",
+        "top": "57px",
+        "zIndex": "auto",
+        "w": 0,
+        "h": 0,
+        "rt": 0
+      },
+      {
+        "tag": "DIV",
+        "cls": "sticky two-col-with-stats__stats md:top-[10%] py-[35px] md:mt-[100px] md:mb-[230px] flex flex-col gap-[50px]",
+        "position": "sticky",
+        "top": "90px",
+        "zIndex": "auto",
+        "w": 675,
+        "h": 357,
+        "rt": 1375
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-dismissed",
+        "position": "fixed",
+        "top": "auto",
+        "zIndex": "9998",
+        "w": 0,
+        "h": 0,
+        "rt": 0
+      },
+      {
+        "tag": "DIV",
+        "cls": "grecaptcha-badge",
+        "position": "fixed",
+        "top": "826px",
+        "zIndex": "auto",
+        "w": 256,
+        "h": 60,
+        "rt": 826
+      }
+    ],
+    "tree": {
+      "tag": "body",
+      "cls": "home wp-singular page-template-default page page-id-8 wp-embed-responsive wp-theme-cargopresstheme cmplz-functional cmplz-uk cmplz-optin",
+      "rect": "1440x5247 @0,0",
+      "kids": [
+        {
+          "tag": "div",
+          "id": "cmplz-cookiebanner-container",
+          "rect": "1440x0 @0,0",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "cmplz-cookiebanner banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences cmplz-show",
+              "rect": "526x282 @904,609",
+              "pos": "fixed",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "cmplz-header",
+                  "rect": "486x23 @924,624",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "cls": "cmplz-logo",
+                      "rect": "100x0 @924,635",
+                      "txt": "",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": "cmplz-header-1-optin",
+                      "cls": "cmplz-title",
+                      "rect": "119x23 @1108,624",
+                      "txt": "Manage Consent",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "cmplz-close",
+                      "rect": "20x20 @1390,625",
+                      "kids": [
+                        {
+                          "tag": "svg",
+                          "cls": "[object SVGAnimatedString]",
+                          "rect": "20x20 @1390,625"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-divider cmplz-divider-header",
+                  "rect": "526x0 @904,656",
+                  "txt": "",
+                  "kids": []
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-body",
+                  "rect": "486x55 @924,666",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "id": "cmplz-message-1-optin",
+                      "cls": "cmplz-message",
+                      "rect": "484x50 @924,666",
+                      "txt": "To provide the best experiences, we use technologies like co",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "cmplz-categories",
+                      "rect": "0x0 @0,0",
+                      "kids": [
+                        {
+                          "tag": "details",
+                          "cls": "cmplz-category cmplz-functional",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "details",
+                          "cls": "cmplz-category cmplz-preferences",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "details",
+                          "cls": "cmplz-category cmplz-statistics",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "details",
+                          "cls": "cmplz-category cmplz-marketing",
+                          "rect": "0x0 @0,0"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-links cmplz-information",
+                  "rect": "0x0 @0,0",
+                  "kids": [
+                    {
+                      "tag": "ul",
+                      "rect": "0x0 @0,0",
+                      "kids": [
+                        {
+                          "tag": "li",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "li",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "li",
+                          "rect": "0x0 @0,0"
+                        },
+                        {
+                          "tag": "li",
+                          "rect": "0x0 @0,0"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-divider cmplz-footer",
+                  "rect": "526x0 @904,731",
+                  "txt": "",
+                  "kids": []
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-buttons",
+                  "rect": "486x100 @924,741",
+                  "kids": [
+                    {
+                      "tag": "button",
+                      "cls": "cmplz-btn cmplz-accept",
+                      "rect": "238x45 @924,741",
+                      "txt": "Accept",
+                      "kids": []
+                    },
+                    {
+                      "tag": "button",
+                      "cls": "cmplz-btn cmplz-deny",
+                      "rect": "238x45 @1172,741",
+                      "txt": "Deny",
+                      "kids": []
+                    },
+                    {
+                      "tag": "button",
+                      "cls": "cmplz-btn cmplz-view-preferences",
+                      "rect": "486x45 @924,796",
+                      "txt": "View preferences",
+                      "kids": []
+                    },
+                    {
+                      "tag": "button",
+                      "cls": "cmplz-btn cmplz-save-preferences",
+                      "rect": "0x0 @0,0",
+                      "txt": "Save preferences",
+                      "kids": []
+                    },
+                    {
+                      "tag": "a",
+                      "cls": "cmplz-btn cmplz-manage-options tcf cookie-statement",
+                      "rect": "0x0 @0,0",
+                      "txt": "View preferences",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "cmplz-documents cmplz-links",
+                  "rect": "486x24 @924,851",
+                  "kids": [
+                    {
+                      "tag": "ul",
+                      "rect": "169x24 @1083,851",
+                      "kids": [
+                        {
+                          "tag": "li",
+                          "rect": "74x24 @1083,851"
+                        },
+                        {
+                          "tag": "li",
+                          "rect": "75x24 @1166,851"
+                        },
+                        {
+                          "tag": "li",
+                          "rect": "0x24 @1251,851"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "noscript",
+          "rect": "0x0 @0,0",
+          "txt": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM",
+          "kids": []
+        },
+        {
+          "tag": "header",
+          "cls": "px-[20px] py-[10.5px] xl:py-[16px] fixed barrier-topbar header [body.admin-bar_&]:data-[primary-hero=true]:top-[-26px] data-[primary-hero=true]:top-[-",
+          "rect": "1440x57 @0,-62",
+          "pos": "fixed",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "max-w-[1600px] biggerContainer header__container mx-auto flex justify-between items-center",
+              "rect": "1400x24 @20,-46",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "grow basis-0 order-3 flex justify-end sm:justify-normal sm:order-1 z-40",
+                  "rect": "467x24 @20,-46",
+                  "kids": [
+                    {
+                      "tag": "ul",
+                      "cls": "hidden xl:flex gap-[40px] barrier-navigation header__navigation",
+                      "rect": "375x24 @20,-46",
+                      "kids": [
+                        {
+                          "tag": "li",
+                          "cls": "header__navigation__item",
+                          "rect": "75x24 @20,-46"
+                        },
+                        {
+                          "tag": "li",
+                          "cls": "header__navigation__item",
+                          "rect": "71x24 @135,-46"
+                        },
+                        {
+                          "tag": "li",
+                          "cls": "header__navigation__item",
+                          "rect": "68x24 @246,-46"
+                        },
+                        {
+                          "tag": "li",
+                          "cls": "header__navigation__item",
+                          "rect": "41x24 @354,-46"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "flex flex-col justify-center items-center header__hamburger gap-[5px] h-[35px] w-[35px] bg-brand-yellow xl:hidden",
+                      "rect": "0x0 @0,0",
+                      "kids": [
+                        {
+                          "tag": "span",
+                          "cls": "header__hamburger--first w-[21px] h-[2px] bg-brand-blue",
+                          "rect": "0x0 @0,0",
+                          "txt": ""
+                        },
+                        {
+                          "tag": "span",
+                          "cls": "header__hamburger--second w-[21px] h-[2px] bg-brand-blue",
+                          "rect": "0x0 @0,0",
+                          "txt": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "fixed top-[57px] hidden header__mobileNavigation overflow-hidden left-0 bg-brand-yellow w-full h-0",
+                  "rect": "0x0 @0,0",
+                  "pos": "fixed",
+                  "kids": [
+                    {
+                      "tag": "nav",
+                      "cls": "h-full header__mobileNavigation--slider pt-[40px] pb-[calc(40px+57px)] px-[15px] overflow-auto",
+                      "rect": "0x0 @0,0",
+                      "kids": [
+                        {
+                          "tag": "ul",
+                          "rect": "0x0 @0,0"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "grow basis-0 order-2 h-[24px] flex justify-center items-center",
+                  "rect": "467x24 @487,-46",
+                  "kids": [
+                    {
+                      "tag": "a",
+                      "cls": "barrier-nav-logo header__logo no-underline group-data-[primary-hero=false]:w-[114px] group-data-[primary-hero=true]:absolute group-data-[primary-hero=",
+                      "rect": "1400x246 @20,20",
+                      "pos": "absolute",
+                      "kids": [
+                        {
+                          "tag": "svg",
+                          "cls": "[object SVGAnimatedString]",
+                          "rect": "1400x213 @20,20"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "flex justify-between w-full group-data-[primary-hero=false]:hidden header__logo__subtext barrier-nav-logo-additional mt-[10px]",
+                          "rect": "1400x23 @20,243"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "barrier-nav-background header__logo__background bg-brand-blue w-0 group-data-[primary-hero=false]:w-[129px] z-10 absolute",
+                      "rect": "129x35 @655,-51",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "grow barrier-navigation header__navigation basis-0 relative z-20 order-1 sm:order-3 flex justify-end",
+                  "rect": "467x23 @953,-45",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "cls": "hidden sm:block relative",
+                      "rect": "121x23 @1299,-45",
+                      "pos": "relative",
+                      "kids": [
+                        {
+                          "tag": "span",
+                          "cls": "absolute block header__navigation__sideLine bg-brand-blue left-[-35px] top-[-17px] w-px h-[calc(100%+17px*2)]",
+                          "rect": "1x57 @1264,-62",
+                          "pos": "absolute",
+                          "txt": ""
+                        },
+                        {
+                          "tag": "a",
+                          "cls": "barrier-box-title pr-[26px] flex items-center relative gap-[8px] text-[clamp(13px,3cqw,15px)] w-fit group/button font-medium uppercase no-underline ho",
+                          "rect": "121x23 @1299,-45",
+                          "pos": "relative"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "cls": "primary-hero overflow-hidden flex bg-brand-blue min-h-screen text-white pb-[78px] relative bg-cover bg-center after:z-0 after:block after:absolute aft",
+          "rect": "1440x900 @0,0",
+          "pos": "relative",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "cwrap primary-hero__container z-10 relative pt-[clamp(100px,17vw,250px)] mt-auto w-full",
+              "rect": "1440x504 @0,318",
+              "pos": "relative",
+              "kids": [
+                {
+                  "tag": "h1",
+                  "cls": "text-[clamp(40px,5vw,70px)] font-light primary-hero__title -tracking-[0.03em] leading-[1em] mb-[68px]",
+                  "rect": "1400x140 @20,563",
+                  "kids": [
+                    {
+                      "tag": "br",
+                      "rect": "0x91 @455,552",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "flex justify-between flex-wrap items-end gap-[30px]",
+                  "rect": "1400x51 @20,771",
+                  "kids": [
+                    {
+                      "tag": "p",
+                      "cls": "max-w-[415px] text-[clamp(15px,3vw,17px)] primary-hero__description -tracking-[0.01em]",
+                      "rect": "415x51 @20,771",
+                      "txt": "Global experts in fire protection, specialist coatings, indu",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "primary-hero__button",
+                      "rect": "122x23 @1298,800",
+                      "kids": [
+                        {
+                          "tag": "a",
+                          "cls": "barrier-box-title pr-[26px] flex items-center relative gap-[8px] text-[clamp(13px,3cqw,15px)] w-fit group/button font-medium uppercase no-underline ho",
+                          "rect": "122x23 @1298,800",
+                          "pos": "relative"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "cls": "absolute z-0 w-full h-full top-0 left-0",
+              "rect": "1440x900 @0,0",
+              "pos": "absolute",
+              "kids": [
+                {
+                  "tag": "video",
+                  "cls": "w-full h-full object-cover object-center",
+                  "rect": "1440x900 @0,0",
+                  "kids": [
+                    {
+                      "tag": "source",
+                      "rect": "0x0 @0,0",
+                      "pos": "",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "cls": "primary-hero__overlay w-full h-full absolute z-10 pointer-events-none select-none bg-brand-blue top-0 left-0",
+              "rect": "1440x900 @0,0",
+              "pos": "absolute",
+              "txt": "",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "cls": "two-col-with-stats @container mt-[clamp(30px,8cqw,90px)]",
+          "rect": "1440x1404 @0,990",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "cwrap",
+              "rect": "1440x1404 @0,990",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "mb-[20px]",
+                  "rect": "1400x27 @20,990",
+                  "kids": [
+                    {
+                      "tag": "span",
+                      "cls": "barrier__folio opacity-0 inline-block data-[colour=grey]:bg-brand-grey data-[colour=yellow]:bg-brand-yellow py-[2px] px-[7px] text-black uppercase tex",
+                      "rect": "100x27 @20,990",
+                      "txt": "Our vision",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "w-0 two-col-with-stats__borderTop h-[1px] bg-brand-blue",
+                  "rect": "0x1 @20,1037",
+                  "txt": "",
+                  "kids": []
+                },
+                {
+                  "tag": "div",
+                  "cls": "flex relative items-stretch",
+                  "rect": "1400x1356 @20,1038",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "cls": "basis-0 grow pt-[20px] flex flex-col md:pr-[25px] pb-[clamp(85px,10cqw,200px)]",
+                      "rect": "700x1356 @20,1038",
+                      "kids": [
+                        {
+                          "tag": "h2",
+                          "cls": "text-[clamp(32px,3vw,44px)] -tracking-[0.03em] opacity-0 two-col-with-stats__title font-medium mb-[clamp(60px,5vw,70px)] max-w-[600px] leading-[1.1362",
+                          "rect": "600x147 @-20,1058",
+                          "txt": "Engineering lasting solutions that drive progress and resili"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "two-col-width-stats__mobileContentPosition block md:hidden [&_h3]:text-[clamp(20px,2.5vw,34px)] [&_h3]:-tracking-[0.015em] [&_h3]:text-brand-blue [&_h",
+                          "rect": "0x0 @0,0",
+                          "txt": ""
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "h-full",
+                          "rect": "675x725 @20,1275"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "max-w-[clamp(130px,20vw,200px)] mx-auto md:mx-0 [&_svg]:w-full [&_svg]:h-auto w-full no-underline block mb-[8px]",
+                          "rect": "200x194 @20,2000"
+                        },
+                        {
+                          "tag": "a",
+                          "cls": "@container/item no-underline arrow-description opacity-0 group/item",
+                          "rect": "675x48 @20,2202"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "w-[1px] absolute hidden md:block two-col-with-stats__borderMiddle left-[50%] translate-x-[-50%] h-0 shrink-0 bg-brand-blue",
+                      "rect": "1x0 @720,1038",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "basis-0 grow pl-[25px] two-col-width-stats__desktopContentPosition hidden md:block pb-[clamp(120px,10cqw,200px)] [&_h3]:text-[clamp(20px,2.5vw,34px)] ",
+                      "rect": "700x1356 @720,1038",
+                      "kids": [
+                        {
+                          "tag": "h3",
+                          "rect": "675x120 @745,1372",
+                          "txt": "We believe progress comes when experience, innovation and pe"
+                        },
+                        {
+                          "tag": "p",
+                          "rect": "675x102 @745,1537",
+                          "txt": "We continually challenge markets with innovative engineering"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "w-full aspect-[714/561] two-col-with-stats__image opacity-0 [clip-path:polygon(15%_0,100%_0%,100%_100%,0_100%,0_15%)] h-auto",
+                          "rect": "675x530 @745,1719"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "cls": "card-slider data-[hasbutton=false]:pb-[clamp(60px,7vw,120px)]! bg-brand-blue group py-[clamp(60px,7vw,120px)] data-[prev-same-bg=true]:pb-0 overflow-c",
+          "rect": "1440x1024 @0,2394",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "cwrap",
+              "rect": "1440x923 @0,2495",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "md:mb-0 mb-[5px] relative pb-[20px]",
+                  "rect": "1400x47 @20,2495",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "span",
+                      "cls": "barrier__folio opacity-0 inline-block data-[colour=grey]:bg-brand-grey data-[colour=yellow]:bg-brand-yellow py-[2px] px-[7px] text-black uppercase tex",
+                      "rect": "120x27 @20,2495",
+                      "txt": "Our Services",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "absolute card-slider__borderTop w-0 h-[1px] -bottom-[0px] left-0 bg-[#39396A]",
+                      "rect": "0x1 @20,2540",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "mb-[clamp(40px,7vw,100px)] flex-col sm:flex-row mt-[20px] flex sm:items-center justify-between gap-[40px]",
+                  "rect": "1400x100 @20,2561",
+                  "kids": [
+                    {
+                      "tag": "h2",
+                      "cls": "text-[clamp(28px,4vw,50px)] card-slider__title opacity-0 -tracking-[0.02em] leading-[1em] font-medium text-white max-w-[520px]",
+                      "rect": "520x100 @0,2561",
+                      "txt": "World leading service and product provider",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "flex gap-[25px] card-slider__controls opacity-0",
+                      "rect": "95x35 @1345,2594",
+                      "kids": [
+                        {
+                          "tag": "button",
+                          "cls": "card-slider__swiper--left group/item transition-all duration-300 hover:bg-brand-yellow disabled:bg-brand-grey/5 disabled:cursor-not-allowed w-[35px] h",
+                          "rect": "35x35 @1345,2594"
+                        },
+                        {
+                          "tag": "button",
+                          "cls": "card-slider__swiper--right group/item transition-all duration-300 hover:bg-brand-yellow disabled:bg-brand-grey/5 disabled:cursor-not-allowed w-[35px] ",
+                          "rect": "35x35 @1405,2594"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "swiper card-slider__swiper !overflow-visible swiper-initialized swiper-horizontal swiper-backface-hidden",
+                  "rect": "1400x452 @20,2761",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "id": "swiper-wrapper-9637426abf56ece8",
+                      "cls": "swiper-wrapper items-stretch",
+                      "rect": "1400x452 @20,2761",
+                      "pos": "relative",
+                      "kids": [
+                        {
+                          "tag": "div",
+                          "cls": "swiper-slide opacity-0 !flex !h-auto pt-[40px] sm:py-[16px] pb-[15px] pl-[clamp(15px,3vw,50px)] group/item flex-col sm:flex-row gap-[clamp(40px,6vw,65",
+                          "rect": "993x452 @20,2761",
+                          "pos": "relative"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "swiper-slide opacity-0 !flex !h-auto pt-[40px] sm:py-[16px] pb-[15px] pl-[clamp(15px,3vw,50px)] group/item flex-col sm:flex-row gap-[clamp(40px,6vw,65",
+                          "rect": "993x452 @1038,2761",
+                          "pos": "relative"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "swiper-slide opacity-0 !flex !h-auto pt-[40px] sm:py-[16px] pb-[15px] pl-[clamp(15px,3vw,50px)] group/item flex-col sm:flex-row gap-[clamp(40px,6vw,65",
+                          "rect": "993x452 @2056,2761",
+                          "pos": "relative"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "cls": "swiper-notification",
+                      "rect": "0x0 @20,2761",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "w-0 card-slider__borderBottom mt-[clamp(60px,7vw,120px)] h-[1px] bg-[#39396A]",
+                  "rect": "0x1 @20,3314",
+                  "txt": "",
+                  "kids": []
+                },
+                {
+                  "tag": "div",
+                  "cls": "py-[clamp(15px,4vw,40px)] flex opacity-0 card-slider__cta justify-center",
+                  "rect": "1400x103 @0,3315",
+                  "kids": [
+                    {
+                      "tag": "a",
+                      "cls": "barrier-box-title pr-[26px] flex items-center relative gap-[8px] text-[clamp(13px,3cqw,15px)] w-fit group/button font-medium uppercase no-underline ho",
+                      "rect": "171x23 @614,3355",
+                      "pos": "relative",
+                      "kids": [
+                        {
+                          "tag": "span",
+                          "cls": "w-[16px] barrier-box-title__box absolute h-[16px] shrink-0 left-0 flex items-center group-hover/button:group-data-[style=yellow-white-white]/button:bg",
+                          "rect": "16x16 @614,3359",
+                          "pos": "absolute"
+                        },
+                        {
+                          "tag": "span",
+                          "cls": "left-[26px] barrier-box-title__title group-data-[style=yellow-white-white]/button:text-white group-data-[style=white-white]/button:text-white relative",
+                          "rect": "145x23 @640,3355",
+                          "pos": "relative",
+                          "txt": "View all services"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "w-full h-[1px] bg-[#39396A] group-data-[prev-same-bg=true]:hidden",
+                  "rect": "0x0 @0,0",
+                  "txt": "",
+                  "kids": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "cls": "latest-news @container data-[theme=light]:my-[clamp(70px,8cqw,120px)] data-[theme=dark]:py-[clamp(70px,8cqw,120px)] group overflow-hidden data-[theme=",
+          "rect": "1440x818 @0,3533",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "cwrap",
+              "rect": "1440x818 @0,3533",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "md:mb-0 mb-[5px] relative pb-[20px]",
+                  "rect": "1400x47 @20,3533",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "span",
+                      "cls": "barrier__folio opacity-0 inline-block data-[colour=grey]:bg-brand-grey data-[colour=yellow]:bg-brand-yellow py-[2px] px-[7px] text-black uppercase tex",
+                      "rect": "145x27 @20,3533",
+                      "txt": "News & Insights",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "absolute latest-news__borderTop w-0 h-[1px] -bottom-[0px] left-0 group-data-[theme=light]:bg-brand-blue group-data-[theme=dark]:bg-[#39396A]",
+                      "rect": "0x1 @20,3578",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "cls": "w-[clamp(300px,35cqw,395px)] pt-[20px] relative leading-[1em] my-0 pb-[30px] md:pb-[clamp(40px,10cqw,165px)] text-[clamp(30px,5cqw,50px)] font-medium ",
+                  "rect": "395x214 @20,3579",
+                  "pos": "relative",
+                  "kids": [
+                    {
+                      "tag": "span",
+                      "cls": "inline-block latest-news__title font-medium opacity-0",
+                      "rect": "277x50 @20,3599",
+                      "txt": "Latest News",
+                      "kids": []
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "absolute hidden md:block latest-news__borderRightOne right-0 w-[1px] top-0 h-0 group-data-[theme=light]:bg-brand-blue group-data-[theme=dark]:bg-[#393",
+                      "rect": "1x0 @414,3579",
+                      "pos": "absolute",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "flex md:flex-row flex-col md:items-stretch",
+                  "rect": "1400x557 @20,3793",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "cls": "w-full pb-[30px] mb-[30px] md:mb-0 md:w-[clamp(300px,35cqw,395px)] shrink-0 md:pr-[45px] flex flex-col z-10 relative",
+                      "rect": "395x557 @20,3793",
+                      "pos": "relative",
+                      "kids": [
+                        {
+                          "tag": "div",
+                          "cls": "absolute hidden md:block latest-news__borderRightTwo right-0 w-[1px] top-0 h-0 group-data-[theme=dark]:bg-[#39396A] group-data-[theme=light]:bg-brand-",
+                          "rect": "1x0 @414,3793",
+                          "pos": "absolute",
+                          "txt": ""
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "absolute block md:hidden latest-news__borderRightMobile right-0 w-0 bottom-0 h-[1px] group-data-[theme=dark]:bg-[#39396A] group-data-[theme=light]:bg-",
+                          "rect": "0x0 @0,0",
+                          "pos": "absolute",
+                          "txt": ""
+                        },
+                        {
+                          "tag": "p",
+                          "cls": "text-[clamp(15px,2vw,17px)] latest-news__description opacity-0 group-data-[theme=dark]:text-white group-data-[theme=light]:text-brand-blue leading-[1.",
+                          "rect": "350x72 @20,3793",
+                          "txt": "Discover the latest from Barrier Group company news, industr"
+                        },
+                        {
+                          "tag": "div",
+                          "cls": "mt-[40px] md:mt-auto latest-news__button opacity-0",
+                          "rect": "350x35 @20,4286"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "w-full md:w-[calc(100%-clamp(300px,35cqw,395px))] md:pl-[25px] group-data-[cta=true]:pb-[30px] [clip-path:polygon(0_0,9999%_0,9999%_100%,0%_100%)]",
+                      "rect": "1005x557 @415,3793",
+                      "kids": [
+                        {
+                          "tag": "div",
+                          "cls": "swiper latest-news__swiper !overflow-visible relative swiper-initialized swiper-horizontal",
+                          "rect": "980x527 @440,3793",
+                          "pos": "relative"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "footer",
+          "id": "footer",
+          "cls": "@container overflow-hidden",
+          "rect": "1440x781 @0,4466",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "relative border-y py-[clamp(60px,7vw,100px)] border-brand-blue bg-brand-grey/50 after:absolute after:hidden md:after:block after:top-0 after:left-[50%",
+              "rect": "1440x717 @0,4466",
+              "pos": "relative",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "cwrap flex md:flex-row flex-col items-stretch gap-[100px] md:gap-0",
+                  "rect": "1440x515 @0,4567",
+                  "kids": [
+                    {
+                      "tag": "div",
+                      "cls": "relative basis-0 grow md:pr-[25px] flex flex-col gap-[12px]! after:absolute after:bottom-[-50px] after:left-[-25px] after:w-[calc(100%+50px)] after:h-",
+                      "rect": "700x515 @20,4567",
+                      "pos": "relative",
+                      "kids": [
+                        {
+                          "tag": "a",
+                          "cls": "max-w-[clamp(130px,20vw,200px)] mx-auto md:mx-0 [&_svg]:w-full [&_svg]:h-auto w-full no-underline block [&_svg]:mb-[10px]!",
+                          "rect": "200x60 @20,4567"
+                        },
+                        {
+                          "tag": "ul",
+                          "cls": "mt-auto",
+                          "rect": "675x48 @20,5034"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "cls": "basis-0 grow md:pl-[25px]",
+                      "rect": "700x515 @720,4567",
+                      "kids": [
+                        {
+                          "tag": "ul",
+                          "cls": "flex flex-col gap-[10px] md:border-t md:border-brand-blue md:pt-[10px] office-locations",
+                          "rect": "675x515 @745,4567"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "cls": "cwrap flex flex-wrap gap-y-[10px] justify-center md:justify-between gap-[40px] items-center py-[20px]",
+              "rect": "1440x64 @0,5183",
+              "kids": [
+                {
+                  "tag": "p",
+                  "cls": "text-[15px] -tracking-[0.02em] text-brand-blue",
+                  "rect": "338x23 @20,5203",
+                  "txt": "Copyright © 2026 Barrier Group. All rights reserved.",
+                  "kids": []
+                },
+                {
+                  "tag": "ul",
+                  "cls": "flex flex-wrap gap-y-[10px] gap-[5px]",
+                  "rect": "331x24 @1089,5203",
+                  "kids": [
+                    {
+                      "tag": "li",
+                      "rect": "111x24 @1089,5203",
+                      "kids": [
+                        {
+                          "tag": "a",
+                          "cls": "text-[15px] relative hover:text-brand-yellow px-[10px] py-[3px] after:transition-all after:duration-400 after:ease-in-out transition-all duration-400 ",
+                          "rect": "111x26 @1089,5202",
+                          "pos": "relative",
+                          "txt": "Privacy policy"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "rect": "102x24 @1205,5203",
+                      "kids": [
+                        {
+                          "tag": "a",
+                          "cls": "text-[15px] relative hover:text-brand-yellow px-[10px] py-[3px] after:transition-all after:duration-400 after:ease-in-out transition-all duration-400 ",
+                          "rect": "102x26 @1205,5202",
+                          "pos": "relative",
+                          "txt": "Accessibility"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "rect": "108x24 @1312,5203",
+                      "kids": [
+                        {
+                          "tag": "a",
+                          "cls": "text-[15px] relative hover:text-brand-yellow px-[10px] py-[3px] after:transition-all after:duration-400 after:ease-in-out transition-all duration-400 ",
+                          "rect": "108x26 @1312,5202",
+                          "pos": "relative",
+                          "txt": "Cookie Policy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "script",
+          "rect": "0x0 @0,0",
+          "txt": "{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_mat",
+          "kids": []
+        },
+        {
+          "tag": "div",
+          "id": "cmplz-manage-consent",
+          "rect": "1440x0 @0,5247",
+          "kids": [
+            {
+              "tag": "button",
+              "cls": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-dismissed",
+              "rect": "0x0 @0,0",
+              "pos": "fixed",
+              "txt": "Manage consent",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "tag": "script",
+          "id": "jquery-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "cargopress-packages-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "cargopress-script-js-extra",
+          "rect": "0x0 @0,0",
+          "txt": "var myAjax = {\"ajaxurl\":\"https://barriergroup.com/wp-admin/a",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "cargopress-script-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "gforms_recaptcha_recaptcha-js-extra",
+          "rect": "0x0 @0,0",
+          "txt": "var gforms_recaptcha_recaptcha_strings = {\"nonce\":\"b6de5b7d2",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "gforms_recaptcha_recaptcha-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "gforms_recaptcha_frontend-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "cmplz-cookiebanner-js-extra",
+          "rect": "0x0 @0,0",
+          "txt": "var complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "cmplz-cookiebanner-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "acf-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "block-primary-hero-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "block-two-col-with-stats-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "block-card-slider-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "script",
+          "id": "block-latest-news-js",
+          "rect": "0x0 @0,0",
+          "txt": "",
+          "kids": []
+        },
+        {
+          "tag": "div",
+          "rect": "1440x0 @0,5247",
+          "kids": [
+            {
+              "tag": "div",
+              "cls": "grecaptcha-badge",
+              "rect": "256x60 @1370,826",
+              "pos": "fixed",
+              "kids": [
+                {
+                  "tag": "div",
+                  "cls": "grecaptcha-logo",
+                  "rect": "256x60 @1370,826",
+                  "kids": [
+                    {
+                      "tag": "iframe",
+                      "rect": "256x60 @1370,826",
+                      "txt": "",
+                      "kids": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "cls": "grecaptcha-error",
+                  "rect": "256x0 @1370,886",
+                  "txt": "",
+                  "kids": []
+                },
+                {
+                  "tag": "textarea",
+                  "id": "g-recaptcha-response-100000",
+                  "cls": "g-recaptcha-response",
+                  "rect": "0x0 @0,0",
+                  "txt": "",
+                  "kids": []
+                }
+              ]
+            },
+            {
+              "tag": "iframe",
+              "rect": "0x0 @0,0",
+              "txt": "",
+              "kids": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "network": [
+    {
+      "url": "https://www.google.com/recaptcha/enterprise.js?render=6Le3I4csAAAAADvGMHzEzpNOq4P_SmK3O156Atxm&ver=2.1.0",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WQGNHHGL",
+      "status": 200,
+      "type": "application/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1770655251",
+      "status": 200,
+      "type": "text/css"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/uploads/2025/12/Wind_Farms_At_Sea_Producing_Clean_Energy_From_Powerful_Ocean_Winds_fhd_3397218.mp4",
+      "status": 206,
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/style.css?ver=0.1.0",
+      "status": 200,
+      "type": "text/css"
+    },
+    {
+      "url": "https://barriergroup.com/wp-includes/js/jquery/jquery.min.js",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/js/script.min.js?ver=0.1.0",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/js/packages.min.js?ver=0.1.0",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js?ver=6.7.0.2",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.1.0",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/primary-hero/view.js?ver=1770645151",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1770655251",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/uploads/2025/12/Wind_Farms_At_Sea_Producing_Clean_Energy_From_Powerful_Ocean_Winds_fhd_3397218.mp4",
+      "status": 206,
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/uploads/complianz/css/banner-1-optin.css?v=29",
+      "status": 200,
+      "type": "text/css"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/fonts/DMSans-Medium.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/fonts/DMSans-Light.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/fonts/DMSans-Regular.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/fonts/DMSans-Bold.woff2",
+      "status": 200,
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/two-col-with-stats/view.js?ver=1772629544",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/card-slider/view.js?ver=1770645151",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/themes/cargopress/theme/blocks/latest-news/view.js?ver=1770645151",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://barriergroup.com/wp-content/uploads/2025/12/Wind_Farms_At_Sea_Producing_Clean_Energy_From_Powerful_Ocean_Winds_fhd_3397218.mp4",
+      "status": 206,
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/styles__ltr.css",
+      "status": 200,
+      "type": "text/css"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=w_Yb7dGGXaKesJ7BMiqFJqBG",
+      "status": 200,
+      "type": "text/javascript"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js",
+      "status": 200,
+      "type": "text/javascript"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Abhängigkeiten
+node_modules/
+
+# Analyse-Artefakte: Screenshots und heruntergeladene Originalmedien.
+# Zusammen rund 300 MB, für den Neubau nicht erforderlich.
+_analysis/shots/
+_analysis/vframes/
+_analysis/assets/
+_analysis/html/
+_analysis/src/
+_analysis/package-lock.json
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log

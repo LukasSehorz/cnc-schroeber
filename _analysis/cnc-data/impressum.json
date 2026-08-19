@@ -1,0 +1,1349 @@
+{
+  "url": "https://cnc-schoebel.de/impressum/",
+  "title": "Impressum - Schöbel CNC",
+  "meta": {
+    "viewport": "width=device-width, initial-scale=1",
+    "description": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+    "robots": "follow, noindex",
+    "og:locale": "de_DE",
+    "og:type": "article",
+    "og:title": "Impressum - Schöbel CNC",
+    "og:description": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+    "og:url": "https://cnc-schoebel.de/impressum/",
+    "og:site_name": "Schöbel CNC",
+    "og:updated_time": "2024-08-13T10:17:01+02:00",
+    "article:published_time": "2024-05-09T22:18:52+02:00",
+    "article:modified_time": "2024-08-13T10:17:01+02:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Impressum - Schöbel CNC",
+    "twitter:description": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+    "twitter:label1": "Lesedauer",
+    "twitter:data1": "Weniger als eine Minute",
+    "generator": "Elementor 4.2.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "msapplication-TileImage": "https://cnc-schoebel.de/wp-content/uploads/2024/06/cropped-Favicon_Schoebel-270x270.jpg"
+  },
+  "lang": "de",
+  "bodyText": "Zum Inhalt springen\n+49 8121 93 000\nschoebel@cnc-schoebel.de\nProduktion\nUnternehmen\nKontakt\nImpressum\n\nSchöbel Hermann CNC Frästechnik GmbH\nWiegenfeldring 4\n85570 Markt Schwaben\n\n\n\n\nHandelsregister: HRB 148536\nRegistergericht: Amtsgericht München\n\n\n\n\nVertreten durch:\nJohannes Seilbeck\nMartin Herzog\n\n\n\nKontakt\n\nTelefon: +49 8121 93000\nTelefax: +49 8121 93008\nE-Mail: schoebel@cnc-schoebel.de\n\n\n\nUmsatzsteuer-ID\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\nDE229129476\n\n\n\nRedaktionell verantwortlich\n\nJohannes Seilbeck\nMartin Herzog\nWiegenfeldring 4\n85570 Markt Schwaben\n\n\n\nVerbraucher­streit­beilegung/Universal­schlichtungs­stelle\n\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nIhr Partner für Zerspanung. Wir fertigen Ihre Teile.\n\nProduktion\nZerspanung\nOberlächenbearbeitung\nBaugruppenmontage\nService\nUnternehmen\nUnternehmen\nMaschinenpark\nKontaktieren Sie Uns\n\nWiegenfeldring 4\n85570 Markt Schwaben\n\nschoebel@cnc-schoebel.de\nFacebook-f\n \n \nTwitter\nImpressum\nDatenschutz\n\n© 2024 All Rights Reserved.",
+  "order": [
+    {
+      "tag": "a",
+      "text": "Zum Inhalt springen",
+      "href": "https://cnc-schoebel.de/impressum/#content",
+      "cls": "skip-link screen-reader-text"
+    },
+    {
+      "tag": "li",
+      "text": "+49 8121 93 000",
+      "href": null,
+      "cls": "elementor-icon-list-item elementor-inline-item"
+    },
+    {
+      "tag": "li",
+      "text": "schoebel@cnc-schoebel.de",
+      "href": null,
+      "cls": "elementor-icon-list-item elementor-inline-item"
+    },
+    {
+      "tag": "li",
+      "text": "Produktion",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-182"
+    },
+    {
+      "tag": "a",
+      "text": "Produktion",
+      "href": "https://cnc-schoebel.de/produktion/",
+      "cls": "elementor-item has-submenu"
+    },
+    {
+      "tag": "li",
+      "text": "Unternehmen",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"
+    },
+    {
+      "tag": "a",
+      "text": "Unternehmen",
+      "href": "https://cnc-schoebel.de/unternehmen/",
+      "cls": "elementor-item has-submenu"
+    },
+    {
+      "tag": "li",
+      "text": "Kontakt",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30"
+    },
+    {
+      "tag": "a",
+      "text": "Kontakt",
+      "href": "https://cnc-schoebel.de/kontakt/",
+      "cls": "elementor-item"
+    },
+    {
+      "tag": "h1",
+      "text": "Impressum",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Schöbel Hermann CNC Frästechnik GmbH Wiegenfeldring 4 85570 Markt Schwaben",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Handelsregister: HRB 148536 Registergericht: Amtsgericht München",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Vertreten durch: Johannes Seilbeck Martin Herzog",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "strong",
+      "text": "Vertreten durch:",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Kontakt",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Telefon: +49 8121 93000 Telefax: +49 8121 93008 E-Mail: schoebel@cnc-schoebel.de",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Umsatzsteuer-ID",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE229129476",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Redaktionell verantwortlich",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Johannes Seilbeck Martin Herzog Wiegenfeldring 4 85570 Markt Schwaben",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Verbraucher­streit­beilegung/Universal­schlichtungs­stelle",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "p",
+      "text": "Ihr Partner für Zerspanung. Wir fertigen Ihre Teile.",
+      "href": null,
+      "cls": "elementor-image-box-description"
+    },
+    {
+      "tag": "h6",
+      "text": "Produktion",
+      "href": null,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "li",
+      "text": "Zerspanung",
+      "href": null,
+      "cls": "menu-item menu-item-type-custom menu-item-object-custom menu-item-706"
+    },
+    {
+      "tag": "a",
+      "text": "Zerspanung",
+      "href": "https://cnc-schoebel.de/produktion/#zerspanung",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "tag": "li",
+      "text": "Oberlächenbearbeitung",
+      "href": null,
+      "cls": "menu-item menu-item-type-custom menu-item-object-custom menu-item-707"
+    },
+    {
+      "tag": "a",
+      "text": "Oberlächenbearbeitung",
+      "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "tag": "li",
+      "text": "Baugruppenmontage",
+      "href": null,
+      "cls": "menu-item menu-item-type-custom menu-item-object-custom menu-item-708"
+    },
+    {
+      "tag": "a",
+      "text": "Baugruppenmontage",
+      "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "tag": "li",
+      "text": "Service",
+      "href": null,
+      "cls": "menu-item menu-item-type-custom menu-item-object-custom menu-item-709"
+    },
+    {
+      "tag": "a",
+      "text": "Service",
+      "href": "https://cnc-schoebel.de/produktion/#service",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "tag": "h6",
+      "text": "Unternehmen",
+      "href": null,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "li",
+      "text": "Unternehmen",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-713"
+    },
+    {
+      "tag": "a",
+      "text": "Unternehmen",
+      "href": "https://cnc-schoebel.de/unternehmen/",
+      "cls": "elementor-item"
+    },
+    {
+      "tag": "li",
+      "text": "Maschinenpark",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-712"
+    },
+    {
+      "tag": "a",
+      "text": "Maschinenpark",
+      "href": "https://cnc-schoebel.de/maschinenpark/",
+      "cls": "elementor-item"
+    },
+    {
+      "tag": "h6",
+      "text": "Kontaktieren Sie Uns",
+      "href": null,
+      "cls": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "p",
+      "text": "Wiegenfeldring 4 85570 Markt Schwaben",
+      "href": null,
+      "cls": ""
+    },
+    {
+      "tag": "li",
+      "text": "schoebel@cnc-schoebel.de",
+      "href": null,
+      "cls": "elementor-icon-list-item"
+    },
+    {
+      "tag": "a",
+      "text": "schoebel@cnc-schoebel.de",
+      "href": "mailto:schoebel@cnc-schoebel.de",
+      "cls": ""
+    },
+    {
+      "tag": "a",
+      "text": "Facebook-f",
+      "href": "https://cnc-schoebel.de/impressum/#",
+      "cls": "elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac"
+    },
+    {
+      "tag": "a",
+      "text": "Twitter",
+      "href": "https://cnc-schoebel.de/impressum/#",
+      "cls": "elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132"
+    },
+    {
+      "tag": "li",
+      "text": "Impressum",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item menu"
+    },
+    {
+      "tag": "a",
+      "text": "Impressum",
+      "href": "https://cnc-schoebel.de/impressum/",
+      "cls": "elementor-item elementor-item-active"
+    },
+    {
+      "tag": "li",
+      "text": "Datenschutz",
+      "href": null,
+      "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-34"
+    },
+    {
+      "tag": "a",
+      "text": "Datenschutz",
+      "href": "https://cnc-schoebel.de/datenschutz/",
+      "cls": "elementor-item"
+    },
+    {
+      "tag": "p",
+      "text": "© 2024 All Rights Reserved.",
+      "href": null,
+      "cls": "elementor-heading-title elementor-size-default"
+    }
+  ],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Impressum"
+    },
+    {
+      "level": 2,
+      "text": "Kontakt"
+    },
+    {
+      "level": 2,
+      "text": "Umsatzsteuer-ID"
+    },
+    {
+      "level": 2,
+      "text": "Redaktionell verantwortlich"
+    },
+    {
+      "level": 2,
+      "text": "Verbraucher­streit­beilegung/Universal­schlichtungs­stelle"
+    },
+    {
+      "level": 6,
+      "text": "Produktion"
+    },
+    {
+      "level": 6,
+      "text": "Unternehmen"
+    },
+    {
+      "level": 6,
+      "text": "Kontaktieren Sie Uns"
+    }
+  ],
+  "paragraphs": [
+    "Schöbel Hermann CNC Frästechnik GmbH Wiegenfeldring 4 85570 Markt Schwaben",
+    "Handelsregister: HRB 148536 Registergericht: Amtsgericht München",
+    "Vertreten durch: Johannes Seilbeck Martin Herzog",
+    "Telefon: +49 8121 93000 Telefax: +49 8121 93008 E-Mail: schoebel@cnc-schoebel.de",
+    "Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE229129476",
+    "Johannes Seilbeck Martin Herzog Wiegenfeldring 4 85570 Markt Schwaben",
+    "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+    "Ihr Partner für Zerspanung. Wir fertigen Ihre Teile.",
+    "Wiegenfeldring 4 85570 Markt Schwaben",
+    "© 2024 All Rights Reserved."
+  ],
+  "listItems": [
+    {
+      "text": "+49 8121 93 000",
+      "inNav": false
+    },
+    {
+      "text": "schoebel@cnc-schoebel.de",
+      "inNav": false
+    },
+    {
+      "text": "Produktion",
+      "inNav": true
+    },
+    {
+      "text": "Unternehmen",
+      "inNav": true
+    },
+    {
+      "text": "Kontakt",
+      "inNav": true
+    },
+    {
+      "text": "Zerspanung",
+      "inNav": true
+    },
+    {
+      "text": "Oberlächenbearbeitung",
+      "inNav": true
+    },
+    {
+      "text": "Baugruppenmontage",
+      "inNav": true
+    },
+    {
+      "text": "Service",
+      "inNav": true
+    },
+    {
+      "text": "Unternehmen",
+      "inNav": true
+    },
+    {
+      "text": "Maschinenpark",
+      "inNav": true
+    },
+    {
+      "text": "schoebel@cnc-schoebel.de",
+      "inNav": false
+    },
+    {
+      "text": "Impressum",
+      "inNav": true
+    },
+    {
+      "text": "Datenschutz",
+      "inNav": true
+    }
+  ],
+  "links": [
+    {
+      "text": "Zum Inhalt springen",
+      "href": "https://cnc-schoebel.de/impressum/#content",
+      "title": "",
+      "aria": "",
+      "cls": "skip-link screen-reader-text"
+    },
+    {
+      "text": "",
+      "href": "https://cnc-schoebel.de/",
+      "title": "",
+      "aria": "",
+      "cls": ""
+    },
+    {
+      "text": "Produktion",
+      "href": "https://cnc-schoebel.de/produktion/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item has-submenu"
+    },
+    {
+      "text": "Unternehmen",
+      "href": "https://cnc-schoebel.de/unternehmen/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item has-submenu"
+    },
+    {
+      "text": "Kontakt",
+      "href": "https://cnc-schoebel.de/kontakt/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item"
+    },
+    {
+      "text": "Zerspanung",
+      "href": "https://cnc-schoebel.de/produktion/#zerspanung",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "text": "Oberlächenbearbeitung",
+      "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "text": "Baugruppenmontage",
+      "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "text": "Service",
+      "href": "https://cnc-schoebel.de/produktion/#service",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item elementor-item-anchor"
+    },
+    {
+      "text": "Unternehmen",
+      "href": "https://cnc-schoebel.de/unternehmen/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item"
+    },
+    {
+      "text": "Maschinenpark",
+      "href": "https://cnc-schoebel.de/maschinenpark/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item"
+    },
+    {
+      "text": "schoebel@cnc-schoebel.de",
+      "href": "mailto:schoebel@cnc-schoebel.de",
+      "title": "",
+      "aria": "",
+      "cls": ""
+    },
+    {
+      "text": "Facebook-f",
+      "href": "https://cnc-schoebel.de/impressum/#",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac"
+    },
+    {
+      "text": "",
+      "href": "https://cnc-schoebel.de/impressum/#",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://cnc-schoebel.de/impressum/#",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132"
+    },
+    {
+      "text": "Impressum",
+      "href": "https://cnc-schoebel.de/impressum/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item elementor-item-active"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "https://cnc-schoebel.de/datenschutz/",
+      "title": "",
+      "aria": "",
+      "cls": "elementor-item"
+    }
+  ],
+  "buttons": [],
+  "navs": [
+    {
+      "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--dropdown elementor-nav-menu__container",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--dropdown elementor-nav-menu__container",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Produktion",
+          "href": "https://cnc-schoebel.de/produktion/"
+        },
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberflächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        },
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://cnc-schoebel.de/unternehmen/#karriere"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://cnc-schoebel.de/kontakt/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none",
+      "items": [
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberlächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberlächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--dropdown elementor-nav-menu__container",
+      "items": [
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberlächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Zerspanung",
+          "href": "https://cnc-schoebel.de/produktion/#zerspanung"
+        },
+        {
+          "text": "Oberlächenbearbeitung",
+          "href": "https://cnc-schoebel.de/produktion/#oberflaechenbearbeitung"
+        },
+        {
+          "text": "Baugruppenmontage",
+          "href": "https://cnc-schoebel.de/produktion/#baugruppenmontage"
+        },
+        {
+          "text": "Service",
+          "href": "https://cnc-schoebel.de/produktion/#service"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
+      "items": [
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu sm-vertical",
+      "items": [
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--dropdown elementor-nav-menu__container",
+      "items": [
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu sm-vertical",
+      "items": [
+        {
+          "text": "Unternehmen",
+          "href": "https://cnc-schoebel.de/unternehmen/"
+        },
+        {
+          "text": "Maschinenpark",
+          "href": "https://cnc-schoebel.de/maschinenpark/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none",
+      "items": [
+        {
+          "text": "Impressum",
+          "href": "https://cnc-schoebel.de/impressum/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://cnc-schoebel.de/datenschutz/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Impressum",
+          "href": "https://cnc-schoebel.de/impressum/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://cnc-schoebel.de/datenschutz/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu--dropdown elementor-nav-menu__container",
+      "items": [
+        {
+          "text": "Impressum",
+          "href": "https://cnc-schoebel.de/impressum/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://cnc-schoebel.de/datenschutz/"
+        }
+      ]
+    },
+    {
+      "cls": "elementor-nav-menu",
+      "items": [
+        {
+          "text": "Impressum",
+          "href": "https://cnc-schoebel.de/impressum/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://cnc-schoebel.de/datenschutz/"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "attrSrc": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "srcset": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png 2560w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-300x93.png 300w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1024x316.png 1024w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-768x237.png 768w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebe",
+      "alt": "",
+      "title": "",
+      "w": 1440,
+      "h": 444,
+      "dw": 177,
+      "dh": 54,
+      "loading": "",
+      "cls": "attachment-full size-full wp-image-624",
+      "visible": true,
+      "y": 58
+    },
+    {
+      "src": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "attrSrc": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "srcset": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png 2560w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-300x93.png 300w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1024x316.png 1024w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-768x237.png 768w, https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebe",
+      "alt": "",
+      "title": "",
+      "w": 1440,
+      "h": 444,
+      "dw": 177,
+      "dh": 54,
+      "loading": "",
+      "cls": "attachment-full size-full wp-image-624",
+      "visible": false,
+      "y": 58
+    },
+    {
+      "src": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "attrSrc": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "srcset": "",
+      "alt": "",
+      "title": "",
+      "w": 2560,
+      "h": 790,
+      "dw": 299,
+      "dh": 92,
+      "loading": "",
+      "cls": "attachment-full size-full wp-image-624 lazyloaded",
+      "visible": true,
+      "y": 1267
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "bgs": [],
+  "forms": [],
+  "sections": [
+    {
+      "id": "header_pop",
+      "cls": "elementor-element elementor-element-b4cd0da e-con-full e-flex e-con e-parent e-lazyloaded elementor-sticky elementor-sticky--effects elementor-sticky--active elementor-section--han",
+      "y": 0,
+      "h": 125,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "+49 8121 93 000 schoebel@cnc-schoebel.de Produktion Unternehmen Kontakt"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-4e87a129 e-flex e-con-boxed e-con e-child",
+      "y": 0,
+      "h": 45,
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": "",
+      "heading": "",
+      "text": "+49 8121 93 000 schoebel@cnc-schoebel.de"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-4683bae e-flex e-con-boxed e-con e-child",
+      "y": 45,
+      "h": 80,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "Produktion Unternehmen Kontakt"
+    },
+    {
+      "id": "header_pop",
+      "cls": "elementor-element elementor-element-b4cd0da e-con-full e-flex e-con e-parent e-lazyloaded elementor-sticky elementor-sticky--effects elementor-sticky__spacer",
+      "y": 0,
+      "h": 125,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": ""
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-4e87a129 e-flex e-con-boxed e-con e-child",
+      "y": 0,
+      "h": 45,
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": "",
+      "heading": "",
+      "text": ""
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-4683bae e-flex e-con-boxed e-con e-child",
+      "y": 45,
+      "h": 80,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": ""
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-9b29d51 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "y": 124,
+      "h": 1070,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "Impressum",
+      "text": "Impressum Schöbel Hermann CNC Frästechnik GmbH Wiegenfeldring 4 85570 Markt Schwaben Handelsregister: HRB 148536 Registergericht: Amtsgericht München Vertreten durch: Johannes Seilbeck Martin Herzog Kontakt Telefon: +49 8121 93000 Telefax: +49 8121 93008 E-Mail: schoebel@cnc-schoebel.de Umsatzsteuer"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-85cb273 e-flex e-con-boxed e-con e-child",
+      "y": 124,
+      "h": 1070,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "Impressum",
+      "text": "Impressum Schöbel Hermann CNC Frästechnik GmbH Wiegenfeldring 4 85570 Markt Schwaben Handelsregister: HRB 148536 Registergericht: Amtsgericht München Vertreten durch: Johannes Seilbeck Martin Herzog Kontakt Telefon: +49 8121 93000 Telefax: +49 8121 93008 E-Mail: schoebel@cnc-schoebel.de Umsatzsteuer"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-4817bab6 e-con-full e-flex e-con e-parent e-lazyloaded",
+      "y": 1195,
+      "h": 313,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(51, 51, 51) 77%)",
+      "heading": "",
+      "text": "Ihr Partner für Zerspanung. Wir fertigen Ihre Teile. Produktion Zerspanung Oberlächenbearbeitung Baugruppenmontage Service Unternehmen Unternehmen Maschinenpark Kontaktieren Sie Uns Wiegenfeldring 4 85570 Markt Schwaben schoebel@cnc-schoebel.de Facebook-f Twitter"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-3e040b2e e-con-full e-flex e-con e-child",
+      "y": 1267,
+      "h": 169,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "Ihr Partner für Zerspanung. Wir fertigen Ihre Teile."
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-1ddc8902 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+      "y": 1267,
+      "h": 169,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "Produktion Zerspanung Oberlächenbearbeitung Baugruppenmontage Service"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-6d2ffdd1 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child",
+      "y": 1267,
+      "h": 169,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "Unternehmen Unternehmen Maschinenpark"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-2cae249 e-con-full e-flex e-con e-child",
+      "y": 1267,
+      "h": 169,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "Kontaktieren Sie Uns Wiegenfeldring 4 85570 Markt Schwaben schoebel@cnc-schoebel.de Facebook-f Twitter"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-2532af59 e-con-full e-flex e-con e-parent",
+      "y": 1508,
+      "h": 45,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(51, 51, 51) 77%)",
+      "heading": "",
+      "text": "Impressum Datenschutz"
+    },
+    {
+      "id": "",
+      "cls": "elementor-element elementor-element-c81ff30 e-con-full e-flex e-con e-parent",
+      "y": 1553,
+      "h": 45,
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": "",
+      "heading": "",
+      "text": "© 2024 All Rights Reserved."
+    }
+  ],
+  "colors": [
+    [
+      "rgb(255, 255, 255)",
+      113
+    ],
+    [
+      "rgb(65, 65, 65)",
+      2
+    ],
+    [
+      "rgb(147, 0, 0)",
+      1
+    ]
+  ],
+  "backgrounds": [
+    [
+      "rgba(2, 1, 1, 0)",
+      3
+    ],
+    [
+      "rgb(255, 255, 255)",
+      1
+    ]
+  ],
+  "fonts": [
+    [
+      "Prompt, sans-serif",
+      93
+    ],
+    [
+      "Poppins, sans-serif",
+      18
+    ],
+    [
+      "Montserrat, sans-serif",
+      5
+    ]
+  ],
+  "fontSizes": [
+    [
+      "19.2px/400",
+      78
+    ],
+    [
+      "16px/300",
+      15
+    ],
+    [
+      "32px/800",
+      4
+    ],
+    [
+      "0px/400",
+      4
+    ],
+    [
+      "23px/300",
+      4
+    ],
+    [
+      "16px/400",
+      3
+    ],
+    [
+      "22px/600",
+      3
+    ],
+    [
+      "14px/300",
+      2
+    ],
+    [
+      "19.2px/300",
+      1
+    ],
+    [
+      "40px/800",
+      1
+    ],
+    [
+      "19.2px/700",
+      1
+    ]
+  ],
+  "docHeight": 1598
+}

@@ -1,0 +1,203 @@
+{
+  "blueBands": [
+    {
+      "cls": "btn-arrow",
+      "bg": "#98cbeb",
+      "box": "42x46",
+      "pad": "4px 12px"
+    },
+    {
+      "cls": "btn-arrow",
+      "bg": "#98cbeb",
+      "box": "42x46",
+      "pad": "4px 12px"
+    },
+    {
+      "cls": "btn-arrow",
+      "bg": "#98cbeb",
+      "box": "42x46",
+      "pad": "4px 12px"
+    },
+    {
+      "cls": "btn-arrow",
+      "bg": "#98cbeb",
+      "box": "42x46",
+      "pad": "4px 12px"
+    },
+    {
+      "cls": "btn-arrow",
+      "bg": "#98cbeb",
+      "box": "42x46",
+      "pad": "4px 12px"
+    },
+    {
+      "cls": "absolute abs-h-center",
+      "bg": "#a5d1ec",
+      "box": "1x939",
+      "pad": "0px"
+    }
+  ],
+  "newsletterWrap": {
+    "sel": "[class*=\"hs_cos\"], .newsletter, [id*=\"hbspt\"], [class*=\"subscribe\"]",
+    "box": "390x46 @x899",
+    "bg": "transparent",
+    "color": "#3d3d3d",
+    "font": "Roboto 16px/26px w400 ls:normal none",
+    "pad": "0px",
+    "r": "0px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "newsletterBand": {
+    "cls": "bg-brand-accent py-8",
+    "bg": "#98cbeb",
+    "box": "1440x110",
+    "pad": "32px 0px",
+    "disp": "block"
+  },
+  "newsletterHeading": {
+    "text": "Stay Up to Date on the Latest News, Events, and Mo",
+    "font": "Roboto 16px/26px w400 ls:normal",
+    "color": "#3d3d3d"
+  },
+  "flipCard": {
+    "sel": ".flip-card",
+    "box": "270x324 @x133",
+    "bg": "transparent",
+    "color": "#3d3d3d",
+    "font": "Roboto 16px/26px w400 ls:normal none",
+    "pad": "0px",
+    "r": "8px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "flipFront": {
+    "sel": ".flip-card-front",
+    "box": "270x324 @x133",
+    "bg": "transparent",
+    "color": "#3d3d3d",
+    "font": "Roboto 16px/26px w400 ls:normal none",
+    "pad": "0px",
+    "r": "6px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "flipInner": {
+    "sel": ".flip-card-inner",
+    "box": "270x324 @x133",
+    "bg": "transparent",
+    "color": "#3d3d3d",
+    "font": "Roboto 16px/26px w400 ls:normal none",
+    "pad": "0px",
+    "r": "6px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "linear-gradient(0deg, rgb(221, 241, 253), rgb(141, 199, 233))"
+  },
+  "cardBottom": {
+    "sel": ".card-bottom",
+    "box": "269x71 @x133",
+    "bg": "#193768",
+    "color": "#ffffff",
+    "font": "Raleway 18px/22.5px w700 ls:normal none",
+    "pad": "12px 40px",
+    "r": "0px 0px 6px 6px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "flipFrontText": {
+    "text": "1",
+    "font": "Roboto 42px/68.25px w700 ls:normal none",
+    "color": "#ffffff"
+  },
+  "flipNumber": {
+    "text": "1",
+    "cls": "step-num bg-brand-primary-1 text-white",
+    "bg": "#193768",
+    "color": "#ffffff",
+    "font": "Roboto 42px w700",
+    "box": "58x70",
+    "r": "0px 0px 6px 6px"
+  },
+  "moreLink": {
+    "sel": ".more-link",
+    "box": "119x26 @x251",
+    "bg": "transparent",
+    "color": "#193768",
+    "font": "Roboto 16px/26px w700 ls:normal uppercase",
+    "pad": "0px",
+    "r": "0px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "sectionNavLink": {
+    "sel": ".section-nav-link",
+    "box": "239x55 @x1201",
+    "bg": "#98cbeb",
+    "color": "#193768",
+    "font": "Raleway 14px/22.75px w700 ls:normal none",
+    "pad": "16px 16px 16px 20px",
+    "r": "6px 0px 0px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "certBox": {
+    "cls": "p-container relative pb-20 md:pb-0",
+    "bg": "transparent",
+    "pad": "0px 16px",
+    "r": "0px",
+    "box": "1170x1035"
+  },
+  "compareHeader": {
+    "sel": ".bg-brand-primary-1.text-white.uppercase",
+    "box": "1043x68 @x199",
+    "bg": "#193768",
+    "color": "#ffffff",
+    "font": "Raleway 22px/35.75px w600 ls:normal uppercase",
+    "pad": "16px",
+    "r": "8px 8px 0px 0px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "none"
+  },
+  "pattern": {
+    "sel": ".bg-uptive-pattern",
+    "box": "1440x1282 @x0",
+    "bg": "transparent",
+    "color": "#3d3d3d",
+    "font": "Roboto 16px/26px w400 ls:normal none",
+    "pad": "0px",
+    "r": "0px",
+    "bd": "0px solid #e5e7eb",
+    "sh": "none",
+    "bgi": "url(\"https://uptivemfg.com/wp-content/themes/industrial/resources/img/uptive-pattern-lighter.png\")"
+  },
+  "listItem": {
+    "font": "16px/26px",
+    "pad": "0px 0px 12px",
+    "marginLeft": "8px",
+    "markerColor": "#8dc6e8 (from CSS)",
+    "listStyle": "disc"
+  },
+  "pContainer": {
+    "maxWidth": "1170px",
+    "padding": "0px 16px",
+    "margin": "117.203px 135px",
+    "width": 1170
+  },
+  "scrolled": {
+    "headerHeightAfterScroll": 178,
+    "headerTop": 0,
+    "bg": "rgb(255, 255, 255)",
+    "shadow": "none",
+    "bannerDisplay": "block",
+    "bannerH": 60,
+    "headerClasses": " announcement-active"
+  }
+}

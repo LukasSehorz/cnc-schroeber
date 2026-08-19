@@ -1,0 +1,370 @@
+{
+  "home": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zerspanung_Start.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "258342"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Automation.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "60431"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-logo.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "1576"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/player_full_enter_alt/v1/24px.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "438"
+    },
+    {
+      "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "272"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/zeXl8Qu27fY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCtAqoFRbYEiyg_LVoJCVmHG8q-7w",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "87899"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Hermle_Aluminium.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "58080"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte8.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "95635"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte9.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "28777"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte7.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "62881"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte5.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "29691"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte6.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "44020"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "55556"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "4184"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte4.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "43614"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte3.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "49227"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC_Baugruppenmontage.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "293829"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Oberflaechenbearbeitung.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "146026"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte1.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "26758"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte2.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "44625"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Service.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "208040"
+    }
+  ],
+  "produktion": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-logo.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "1576"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CNC-Fraesen.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "82017"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Bauteile_Fertigung.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "249415"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Serienfertigung.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "34953"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_CNC-Drehen.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "47824"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Lager.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "120029"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Zuschnitt.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "85294"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_CAM-Programmierung.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "60435"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_Gleitschleifen_Aluminium.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "130172"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/07/Schoebel_chemische_Oberflaechenbearbeitung.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "32337"
+    }
+  ],
+  "unternehmen": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-logo.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "1576"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel_Fertigung_Kontakt.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "255824"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/08/Schoebel-Zertifikat-2024-1-724x1024.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "151493"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Martin-Herzog.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "25083"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/07/Geschaeftsfuehrung-Schoebel_Johannes-Seilbeck.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "23667"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Icon.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "4184"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "55556"
+    }
+  ],
+  "maschinenpark": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-logo.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "1576"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "55556"
+    }
+  ],
+  "kontakt": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "55556"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-logo.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "1576"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/08/Hermle_Automation_Kontakt.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "225408"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/06/Schoebel_Projekte8.jpg",
+      "type": "image/jpeg",
+      "status": 200,
+      "len": "95635"
+    }
+  ],
+  "impressum": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "55556"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    }
+  ],
+  "datenschutz": [
+    {
+      "url": "https://cnc-schoebel.de/wp-content/uploads/2024/05/Schoebel-CNC_Logo-1536x474.png",
+      "type": "image/png",
+      "status": 200,
+      "len": "11370"
+    },
+    {
+      "url": "https://cnc-schoebel.de/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-widget-a.svg",
+      "type": "image/svg+xml",
+      "status": 200,
+      "len": "2010"
+    }
+  ]
+}

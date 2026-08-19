@@ -1,0 +1,283 @@
+[
+  {
+    "file": "scroll-00000.jpg",
+    "y": 0,
+    "active": 0,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-00150.jpg",
+    "y": 150,
+    "active": 1,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in",
+        "op": "0.678875",
+        "tr": "none",
+        "txt": ""
+      }
+    ]
+  },
+  {
+    "file": "scroll-00300.jpg",
+    "y": 300,
+    "active": 1,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in",
+        "op": "0.988379",
+        "tr": "none",
+        "txt": ""
+      }
+    ]
+  },
+  {
+    "file": "scroll-00450.jpg",
+    "y": 450,
+    "active": 1,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-00600.jpg",
+    "y": 600,
+    "active": 1,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-00750.jpg",
+    "y": 750,
+    "active": 1,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-00900.jpg",
+    "y": 900,
+    "active": 2,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in-left",
+        "op": "0.997523",
+        "tr": "matrix(1, 0, 0, 1, -0.24772, 0)",
+        "txt": "OUR PROCESS"
+      }
+    ]
+  },
+  {
+    "file": "scroll-01050.jpg",
+    "y": 1050,
+    "active": 3,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-01200.jpg",
+    "y": 1200,
+    "active": 7,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in",
+        "op": "0.746268",
+        "tr": "none",
+        "txt": "1 SHARE YOUR FILE WITH OUR EXPERTS: Uplo"
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.746268",
+        "tr": "none",
+        "txt": "2 WE INSPECT YOUR PART DESIGN: Contact O"
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.746268",
+        "tr": "none",
+        "txt": "3 YOU REVIEW OUR RECOMMENDATIONS AND/OR "
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.746268",
+        "tr": "none",
+        "txt": "4 PLACE YOUR ORDER AND KICKOFF OUR NEW P"
+      }
+    ]
+  },
+  {
+    "file": "scroll-01350.jpg",
+    "y": 1350,
+    "active": 7,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in",
+        "op": "0.997717",
+        "tr": "none",
+        "txt": "1 SHARE YOUR FILE WITH OUR EXPERTS: Uplo"
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.997717",
+        "tr": "none",
+        "txt": "2 WE INSPECT YOUR PART DESIGN: Contact O"
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.997717",
+        "tr": "none",
+        "txt": "3 YOU REVIEW OUR RECOMMENDATIONS AND/OR "
+      },
+      {
+        "cls": "fade-in",
+        "op": "0.997717",
+        "tr": "none",
+        "txt": "4 PLACE YOUR ORDER AND KICKOFF OUR NEW P"
+      }
+    ]
+  },
+  {
+    "file": "scroll-01500.jpg",
+    "y": 1500,
+    "active": 7,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-01650.jpg",
+    "y": 1650,
+    "active": 7,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-01800.jpg",
+    "y": 1800,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-01950.jpg",
+    "y": 1950,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02100.jpg",
+    "y": 2100,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02250.jpg",
+    "y": 2250,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02400.jpg",
+    "y": 2400,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02550.jpg",
+    "y": 2550,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02700.jpg",
+    "y": 2700,
+    "active": 9,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-02850.jpg",
+    "y": 2850,
+    "active": 11,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03000.jpg",
+    "y": 3000,
+    "active": 11,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03150.jpg",
+    "y": 3150,
+    "active": 11,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03300.jpg",
+    "y": 3300,
+    "active": 13,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03450.jpg",
+    "y": 3450,
+    "active": 13,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03600.jpg",
+    "y": 3600,
+    "active": 13,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03750.jpg",
+    "y": 3750,
+    "active": 15,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-03900.jpg",
+    "y": 3900,
+    "active": 15,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-04050.jpg",
+    "y": 4050,
+    "active": 15,
+    "total": 30,
+    "inflight": []
+  },
+  {
+    "file": "scroll-04200.jpg",
+    "y": 4200,
+    "active": 17,
+    "total": 30,
+    "inflight": [
+      {
+        "cls": "fade-in-right",
+        "op": "0.989656",
+        "tr": "matrix(1, 0, 0, 1, 1.03437, 0)",
+        "txt": "Why It Matters For a customer, time is m"
+      }
+    ]
+  }
+]

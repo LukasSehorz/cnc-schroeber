@@ -1,0 +1,490 @@
+{
+  "tables": [
+    {
+      "caption": "",
+      "rows": [
+        [
+          "Fräsmaschine",
+          ""
+        ],
+        [
+          "Baujahr",
+          "2023"
+        ],
+        [
+          "Steuerung",
+          "Heidenhain TNC 640"
+        ],
+        [
+          "Verfahrwege X/Y/Z (mm)",
+          "450/600/330"
+        ],
+        [
+          "Vorschub (m/min)",
+          "50"
+        ],
+        [
+          "Spindeldrehzahl (U/min)",
+          "18.000"
+        ],
+        [
+          "Werkzeugmagazin Plätze",
+          "55"
+        ],
+        [
+          "Messtechnik",
+          "Blum Laser zur Werkzeugvermessung Messtaster zur Bauteilvermessung"
+        ],
+        [
+          "Sonstiges",
+          "Innere Kühlmittelzufuhr sowie innere Blasluft Simultanbearbeitung möglich (Torqueantrieb in C- Achse) Nullpunktspannsystem"
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "tabs": [],
+  "slides": [
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-prev swiper-slide-duplicate-next",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-active",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-duplicate swiper-slide-next swip",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-prev swiper-slide-duplicate-next",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-active",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide swiper-slide-duplicate swiper-slide-next swip",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-f3ac095 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-6be8e39 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-5fec534 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9306633 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9bfc5ae swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-22ef605 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-11a32aa swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-e64af00 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-421e56b swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-0f90453 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-53e3c71 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-2d33334 swiper-slide swiper-slide-duplicate swiper-slide-prev",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9306633 swiper-slide swiper-slide-active",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9bfc5ae swiper-slide swiper-slide-next",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-22ef605 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-11a32aa swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-e64af00 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-421e56b swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-0f90453 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-53e3c71 swiper-slide",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-2d33334 swiper-slide swiper-slide-duplicate-prev",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9306633 swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-9bfc5ae swiper-slide swiper-slide-duplicate swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-22ef605 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-11a32aa swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-e64af00 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-421e56b swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-0f90453 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-53e3c71 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    },
+    {
+      "cls": "elementor-repeater-item-2d33334 swiper-slide swiper-slide-duplicate",
+      "txt": "",
+      "bg": "none"
+    }
+  ]
+}

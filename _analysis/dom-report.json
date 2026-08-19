@@ -1,0 +1,677 @@
+{
+  "onView": [
+    {
+      "sel": "div.gallery.img-4.gallery-grid.home-grid.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 866,
+      "h": 545,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": ""
+    },
+    {
+      "sel": "h3.fade-in-left.text-r-22.text-center.font-semibold.uppercase.text-brand-copy.relative.md:-top-11",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1768,
+      "h": 26,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "OUR PROCESS"
+    },
+    {
+      "sel": "div.fade-in-right.prose.mx-auto.max-w-md.text-center.pb-8.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1839,
+      "h": 100,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "While other rapid manufacturing companies want to take your design file and generate an au"
+    },
+    {
+      "sel": "div.mb-20.md:mb-0.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1939,
+      "h": 324,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": "1 SHARE YOUR FILE WITH OUR EXPERTS: Upload Your Design File 1 Our team of experts will pro"
+    },
+    {
+      "sel": "div.mb-20.md:mb-0.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1939,
+      "h": 324,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": "2 WE INSPECT YOUR PART DESIGN: Contact Our Engineering Team 2 We’ll help ensure your desig"
+    },
+    {
+      "sel": "div.mb-20.md:mb-0.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1939,
+      "h": 324,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": "3 YOU REVIEW OUR RECOMMENDATIONS AND/OR QUOTE: Connect With a Sales Specialist 3 We’ll wor"
+    },
+    {
+      "sel": "div.mb-20.md:mb-0.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 1939,
+      "h": 324,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": "4 PLACE YOUR ORDER AND KICKOFF OUR NEW PARTNERSHIP: Start Your Consultation Today 4 We’ll "
+    },
+    {
+      "sel": "div.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 2392,
+      "h": 1035,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Our Partnership Doesn’t End There We understand that each part is just one step in your di"
+    },
+    {
+      "sel": "div.pt-10.md:pt-0.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 2392,
+      "h": 1035,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "TRUSTED BY THE BEST *Please note that each of our locations may only hold specific certifi"
+    },
+    {
+      "sel": "div.break-out.md:order-2.break-out-right.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 3522,
+      "h": 385,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": ""
+    },
+    {
+      "sel": "div.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 3549,
+      "h": 331,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "What Drives Us to be Different We believe our customers are the driving force behind innov"
+    },
+    {
+      "sel": "div.break-out.fade-in-left.break-out-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 4003,
+      "h": 385,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": ""
+    },
+    {
+      "sel": "div.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 4069,
+      "h": 254,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "What We Do We leverage both traditional and advanced additive manufacturing processes (3D "
+    },
+    {
+      "sel": "div.break-out.md:order-2.break-out-right.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 4484,
+      "h": 385,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": ""
+    },
+    {
+      "sel": "div.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 4550,
+      "h": 254,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Why We Educate Educating our customers is critical to empowering you to make informed deci"
+    },
+    {
+      "sel": "div.break-out.fade-in-left.break-out-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 4965,
+      "h": 385,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": ""
+    },
+    {
+      "sel": "div.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 5044,
+      "h": 228,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Why It Matters For a customer, time is money, and any delays in product development can le"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 5980,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Customer-Centric, Fast, and Easy Quoting Process"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 5980,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Automated Quote Process with Limited Personalization"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6138,
+      "h": 156,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Personalized Consultative Service with Direct Access to Engineers and Design Experts"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6138,
+      "h": 156,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Multiple Layers of Tiresome, Automated Communication and Project Managers"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6326,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Fast Turnaround Times with Options for Same-Day Prototypes"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6326,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Longer Lead Times and Less Flexibility When You Need Personal Attention"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6485,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Expert Guidance to Ensure Long-Term Manufacturability and Scalability"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6485,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Limited or No Focus on Design for Manufacturability"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6643,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Collaborative, Long-Term Partnerships Focused on Innovation and Growth"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6643,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "Transactional, Limited Focus on Long-Term Relationships"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6802,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, -100, 0)",
+      "text": "Owns and Operates Multiple Sites Across the US and Mexico"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.fade-in-right.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6802,
+      "h": 127,
+      "transition": "0.5s",
+      "opacity": "0",
+      "transform": "matrix(1, 0, 0, 1, 100, 0)",
+      "text": "No Physical Locations, Outsources Manufacturing to 3rd Parties"
+    },
+    {
+      "sel": "a.btn.fade-in.on-view-ready",
+      "dataOnView": "",
+      "cssAdd": "active",
+      "docY": 6968,
+      "h": 46,
+      "transition": "1.3s",
+      "opacity": "0",
+      "transform": "none",
+      "text": "Experience The Difference"
+    }
+  ],
+  "header": {
+    "sel": "header#site-header.announcement-active",
+    "cs": {
+      "position": "sticky",
+      "top": "0px",
+      "transform": "none",
+      "transition": "all",
+      "background": "rgb(255, 255, 255)",
+      "height": "177.75px",
+      "zIndex": "99999"
+    },
+    "html": "<header id=\"site-header\" class=\" announcement-active\">\n            <div class=\"hidden md:block text-center bg-brand-primary-3 text-white uppercase p-2\" id=\"announcment-banner\"><div class=\"banner-logos\">\n<div class=\"banner-logo-item\"><a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/GoProto-UPTIVE-wht-2.png\" alt=\"GoProto is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/GoProto-UPTIVE-2.png\" alt=\"GoProto is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/RE3DTECH-UPTIVE-wht.png\" alt=\"RE3DTECH is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/RE3DTECH-UPTIVE-rgb.png\" alt=\"RE3DTECH is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://www.phoenixproto.com/rapid-prototype-tooling/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/Phoenix-Tool-Mold-UPTIVE-wht.png\" alt=\"Phoenix is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://www.phoenixproto.com/rapid-prototype-tooling/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/Phoenix-Tool-Mold-UPTIVE-rgb.png\" alt=\"Phoenix is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://www.stanfordville.com/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/STANFORDVILLE-UPTIVE-wht.png\" alt=\"Stanfordville is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://www.stanfordville.com/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/STANFORDVILLE-UPTIVE-rgb.png\" alt=\"Stanfordville is now Uptive\" width=\"100px\"></a></div>\n</div>\n</div>\n        <div class=\"mx-auto max-w-[1275px] relative z-50\">\n        <div class=\"md:flex flex-wrap md:justify-between md:items-center py-6 relative\">\n            <div class=\"inline-flex justify-between items-center w-full md:w-auto flex-initial\">\n                    <a href=\"/\" class=\"font-extrabold te"
+  },
+  "sections": [
+    {
+      "sel": "header#site-header.announcement-active",
+      "docY": 0,
+      "h": 178,
+      "position": "sticky",
+      "overflow": "visible",
+      "bg": "rgb(255, 255, 255)"
+    },
+    {
+      "sel": "section#hero.relative.overlay.bg-black.text-white.py-20.relative.flex.flex-col",
+      "docY": 178,
+      "h": 648,
+      "position": "relative",
+      "overflow": "hidden",
+      "bg": "rgb(0, 0, 0)"
+    },
+    {
+      "sel": "main#content",
+      "docY": 826,
+      "h": 6269,
+      "position": "static",
+      "overflow": "hidden auto",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 866,
+      "h": 593,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 1459,
+      "h": 272,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 1731,
+      "h": 612,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 2344,
+      "h": 1131,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 3474,
+      "h": 481,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 3955,
+      "h": 481,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 4436,
+      "h": 481,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 4917,
+      "h": 481,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 5398,
+      "h": 366,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section",
+      "docY": 5765,
+      "h": 1330,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "section.bg-brand-accent.py-8",
+      "docY": 7095,
+      "h": 110,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgb(152, 203, 235)"
+    },
+    {
+      "sel": "footer#colophon.site-footer",
+      "docY": 7205,
+      "h": 782,
+      "position": "static",
+      "overflow": "visible",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "div#a11y-speak-assertive.a11y-speak-region",
+      "docY": 7987,
+      "h": 1,
+      "position": "absolute",
+      "overflow": "hidden",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "sel": "div#a11y-speak-polite.a11y-speak-region",
+      "docY": 7987,
+      "h": 1,
+      "position": "absolute",
+      "overflow": "hidden",
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "stickyFixed": [
+    {
+      "sel": "header#site-header.announcement-active",
+      "position": "sticky",
+      "top": "0px",
+      "zIndex": "99999",
+      "h": 178
+    },
+    {
+      "sel": "form#search-form",
+      "position": "fixed",
+      "top": "0px",
+      "zIndex": "999",
+      "h": 60
+    },
+    {
+      "sel": "div.grecaptcha-badge",
+      "position": "fixed",
+      "top": "826px",
+      "zIndex": "auto",
+      "h": 60
+    }
+  ],
+  "videos": [],
+  "splide": [],
+  "heroCandidates": [
+    {
+      "sel": "link#qcld-slider-hero-style-css-css",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 0
+    },
+    {
+      "sel": "link#qcld-sliderhero-front-end-fontawesome-css-css",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 0
+    },
+    {
+      "sel": "section#hero.relative.overlay.bg-black.text-white.py-20.relative.flex.flex-col",
+      "transition": "all",
+      "opacity": "1",
+      "position": "relative",
+      "h": 648
+    },
+    {
+      "sel": "div.hero-content",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 254
+    },
+    {
+      "sel": "h1#hero-headline.text-white.font-semibold.text-r-44",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 106
+    },
+    {
+      "sel": "div#hero-copy.py-3",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 102
+    },
+    {
+      "sel": "div.hero-cta",
+      "transition": "all",
+      "opacity": "1",
+      "position": "static",
+      "h": 46
+    },
+    {
+      "sel": "img#hero-img.object-cover.object-left.h-full.w-full.absolute.top-0.left-0.z-10",
+      "transition": "opacity 1.3s",
+      "opacity": "1",
+      "position": "absolute",
+      "h": 648
+    }
+  ],
+  "bodyStart": "\n\n<header id=\"site-header\" class=\" announcement-active\">\n            <div class=\"hidden md:block text-center bg-brand-primary-3 text-white uppercase p-2\" id=\"announcment-banner\"><div class=\"banner-logos\">\n<div class=\"banner-logo-item\"><a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/GoProto-UPTIVE-wht-2.png\" alt=\"GoProto is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/GoProto-UPTIVE-2.png\" alt=\"GoProto is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/RE3DTECH-UPTIVE-wht.png\" alt=\"RE3DTECH is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://uptivemfg.com/solutions/\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/RE3DTECH-UPTIVE-rgb.png\" alt=\"RE3DTECH is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://www.phoenixproto.com/rapid-prototype-tooling/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/Phoenix-Tool-Mold-UPTIVE-wht.png\" alt=\"Phoenix is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://www.phoenixproto.com/rapid-prototype-tooling/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/Phoenix-Tool-Mold-UPTIVE-rgb.png\" alt=\"Phoenix is now Uptive\" width=\"100px\"></a></div>\n<div class=\"banner-logo-item\"><a href=\"https://www.stanfordville.com/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-hide\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/STANFORDVILLE-UPTIVE-wht.png\" alt=\"Stanfordville is now Uptive\" width=\"100px\"></a><br>\n<a href=\"https://www.stanfordville.com/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" class=\"mx-auto md:mx-0 hover-show\" style=\"max-width: 100px; width: 100%;\" src=\"https://uptivemfg.com/wp-content/uploads/2024/07/STANFORDVILLE-UPTIVE-rgb.png\" alt=\"Stanfordville is now Uptive\" width=\"100px\"></a></div>\n</div>\n</div>\n        <div class=\"mx-auto max-w-[1275px] relative z-50\">\n        <div class=\"md:flex flex-wrap md:justify-between md:items-center py-6 relative\">\n            <div class=\"inline-flex justify-between items-center w-full md:w-auto flex-initial\">\n                    <a href=\"/\" class=\"font-extrabold text-lg uppercase\" title=\"Uptive - Advanced Manufacturing\">\n                        <img id=\"site-logo\" style=\"max-width: 275px;\" width=\"275\" class=\"logow block h-full\" src=\"/wp-content/uploads/2024/06/Uptive-Advacned-Logo-3-Color-1.png\" alt=\"Uptive - Advanced Manufacturing\">\n                    </a>\n                <button class=\"lg:hidden\" aria-label=\"Toggle navigation\" data-nav-toggle=\"\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </button>\n            </div>\n            <div id=\"offcanvas\" class=\"offcanvas md:flex justify-between items-center\" style=\"top: 60px;\">\n                <nav id=\"nav\" class=\"md:mr-10 lg:mr-24\"><ul id=\"nav-menu\" class=\"md:flex lg:-mx-4 gap-4 items-center justify-center lg:gap-12\"><li id=\"item-4286\" class=\"item-container lv-1 nav-solutions item-4286 has-sub-menu\"><a href=\"https://uptivemfg.com/solutions/\" class=\"nav-link lv-1 nav-solutions item-4286 has-sub-menu\"><span data-nav-state=\"item-4286\"><svg class=\"nav-state-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"7\"><use href=\"#nav-arrow\"></use></svg></span>Solutions</a><ul class=\"sub-menu lv-1\"><li id=\"item-4288\" class=\"item-container lv-2 nav-rapid-prototyping item-4288\"><a href=\"https://uptivemfg.com/solutions/rapid-prototyping/\" class=\"nav-link lv-2 nav-rapid-prototyping item-4288\">Rapid Prototyping</a></li><li id=\"item-4289\" class=\"item-container lv-2 nav-additive-manufacturing item-4289\"><a href=\"https://uptivemfg.com/solutions/additive-manufacturing-services/\" class=\"nav-link lv-2 nav-additive-manufacturing item-4289\">Additive Manufacturing</a></li><li id=\"item-4290\" class=\"item-container lv-2 nav-cnc-machining item-4290\"><a href=\"https://uptivemfg.com/solutions/cnc-machining/\" class=\"nav-link lv-2 nav-cnc-machining item-4290\">CNC Machining</a></li><li id=\"item-4291\" class=\"item-container lv-2 nav-sheet-metal-fabrication item-4291\"><a href=\"https://uptivemfg.com/solutions/sheet-metal-fabrication/\" class=\"nav-link lv-2 nav-sheet-metal-fabrication item-4291\">Sheet Metal Fabrication</a></li><li id=\"item-4292\" class=\"item-container lv-2 nav-injection-molding-and-tooling item-4292\"><a href=\"https://uptivemfg.com/solutions/injection-tooling-and-molding/\" class=\"nav-link lv-2 nav-injection-molding-and-tooling item-4292\">Injection Molding and Tooling</a></li><li id=\"item-4287\" class=\"item-container lv-2 nav-post-processing-finishing item-4287\"><a href=\"https://uptivemfg.com/solutions/post-processing-finishing/\" class=\"nav-link lv-2 nav-post-processing-finishing item-4287\">Post Processing &amp; Finishing</a></li><li id=\"item-8388\" class=\"item-container lv-2 nav-urethane-casting item-8388\"><a href=\"https://uptivemfg.com/solutions/urethane-casting/\" class=\"nav-link lv-2 nav-urethane-casting item-8388\">Urethane Casting</a></li><li class=\"inav-cta-container\"><a class=\"inav-cta hidden md:block\" href=\"/get-quote/\">Upload Your Design File</a></li></ul></li><li id=\"item-4293\" class=\"item-container lv-1 nav-materials item-4293 has-sub-menu\"><a href=\"https://uptivemfg.com/materials/\" class=\"nav-link lv-1 nav-materials item-4293 has-sub-menu\"><span data-nav-state=\"item-4293\"><svg class=\"nav-state-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"7\"><use href=\"#nav-arrow\"></use></svg></span>Materials</a><ul class=\"sub-menu lv-1\"><li id=\"item-4294\" class=\"item-container lv-2 nav-metals item-4294\"><a href=\"https://uptivemfg.com/materials/metal-prototyping/\" class=\"nav-link lv-2 nav-metals item-4294\">Metals</a></li><li id=\"item-4295\" class=\"item-container lv-2 nav-polymers item-4295\"><a href=\"https://uptivemfg.com/materials/polymer-prototyping/\" class=\"nav-link lv-2 nav-polymers item-4295\">Polymers</a></li><li id=\"item-4296\" class=\"item-container lv-2 nav-composites item-4296\"><a href=\"https://uptivemfg.com/materials/composite-prototyping/\" class=\"nav-link lv-2 nav-composites item-4296\">Composites</a></li></ul></li><li id=\"item-4297\" class=\"item-container lv-1 nav-knowledge-base item-4297 has-sub-menu\"><a href=\"https://uptivemfg.com/knowledge-base/\" class=\"nav-link lv-1 nav-knowledge-base item-4297 has-sub-menu\"><span data-nav-state=\"item-4297\"><svg class=\"nav-state-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"7\"><use href=\"#nav-arrow\"></use></svg></span>Knowledge Base</a><ul class=\"sub-menu lv-1\"><li id=\"item-6898\" class=\"item-container lv-2 nav-frequently-asked-questions item-6898\"><a href=\"https://uptivemfg.com/faq/\" class=\"nav-link lv-2 nav-frequently-asked-questions item-6898\">Frequently Asked Questions</a></li><li id=\"item-4653\" class=\"item-container lv-2 nav-case-studies item-4653\"><a href=\"/case-studies/\" class=\"nav-link lv-2 nav-case-studies item-4653\">Case Studies</a></li><li id=\"item-4654\" class=\"item-container lv-2 nav-videos item-4654\"><a href=\"/videos/\" class=\"nav-link lv-2 nav-videos item-4654\">Videos</a></li><li id=\"item-4657\" class=\"item-container lv-2 nav-spec-sheets item-4657\"><a href=\"/spec-sheets/\" class=\"nav-link lv-2 nav-spec-sheets item-4657\">Spec Sheets</a></li><li id=\"item-4656\" class=\"item-container lv-2 nav-guides item-4656\"><a href=\"/guides/\" class=\"nav-link lv-2 nav-guides item-4656\">Guides</a></li><li id=\"item-4655\" class=\"item-container lv-2 nav-webinars item-4655\"><a href=\"/webinars/\" class=\"nav-link lv-2 nav-webinars item-4655\">Webinars</a></li><li id=\"item-4298\" class=\"item-container lv-2 nav-blog item-4298\"><a href=\"https://uptivemfg.com/blog/\" class=\"nav-link lv-2 nav-blog item-4298\">Blog</a></li></ul></li><li id=\"item-4304\" class=\"item-container lv-1 nav-industries item-4304 has-sub-menu\"><a href=\"https://uptivemfg.com/industries-served/\" class=\"nav-link lv-1 nav-industries item-4304 has-sub-menu\"><span data-nav-state=\"item-4304\"><svg class=\"nav-state-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"7\"><use href=\"#nav-arrow\"></use></svg></span>Industries</a><ul class=\"sub-menu lv-1\"><li id=\"item-4305\" class=\"item-container lv-2 nav-aerospace-defense item-4305\"><a href=",
+  "animatedEls": [],
+  "transitionEls": [
+    {
+      "sel": "span",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "a#nav-rfq-btn.btn.mr-4.lg:mr-0",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "div.btn-arrow",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "form#search-form",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "a.section-nav-link",
+      "transition": "color 0.3s ease-in-out, background-color 0.2s"
+    },
+    {
+      "sel": "svg.fill-current.inline-block",
+      "transition": "filter 0.01s, transform 0.5s"
+    },
+    {
+      "sel": "a.btn",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "img#hero-img.object-cover.object-left.h-full.w-full.absolute.top-0.left-0.z-10",
+      "transition": "opacity 1.3s"
+    },
+    {
+      "sel": "div.gallery.img-4.gallery-grid.home-grid.fade-in.on-view-ready",
+      "transition": "1.3s"
+    },
+    {
+      "sel": "a",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "h3.fade-in-left.text-r-22.text-center.font-semibold.uppercase.text-brand-copy.relative.md:-top-11",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.fade-in-right.prose.mx-auto.max-w-md.text-center.pb-8.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.mb-20.md:mb-0.fade-in.on-view-ready",
+      "transition": "1.3s"
+    },
+    {
+      "sel": "div.flip-card-inner.rounded-md",
+      "transition": "transform 0.8s"
+    },
+    {
+      "sel": "a.!text-white.!no-underline",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "a.!text-brand-primary-1.!no-underline",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "div.fade-in-left.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.pt-10.md:pt-0.fade-in-right.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.break-out.md:order-2.break-out-right.fade-in-right.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.fade-in-right.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "a.text-brand-primary-1.uppercase.font-bold.text-r-16.inline-flex.gap-1.items-center.more-link",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "div.break-out.fade-in-left.break-out-left.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "div.text-r-18.font-medium.px-3.md:px-24.text-brand-primary-1.fade-in-left.on-view-ready",
+      "transition": "0.5s"
+    },
+    {
+      "sel": "a.btn.fade-in.on-view-ready",
+      "transition": "1.3s"
+    },
+    {
+      "sel": "input.hs-button.primary.large",
+      "transition": "0.3s"
+    },
+    {
+      "sel": "div.grecaptcha-badge",
+      "transition": "right 0.3s"
+    }
+  ],
+  "scrollHeight": 7988
+}

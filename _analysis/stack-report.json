@@ -1,0 +1,586 @@
+{
+  "detect": {
+    "windowLibs": [
+      "jQuery",
+      "wp"
+    ],
+    "windowFuzzy": [
+      "scrollbars",
+      "scrollX",
+      "scrollY",
+      "onscroll",
+      "onscrollend",
+      "onwebkitanimationend",
+      "onwebkitanimationiteration",
+      "onwebkitanimationstart",
+      "onanimationcancel",
+      "onanimationend",
+      "onanimationiteration",
+      "onanimationstart",
+      "cancelAnimationFrame",
+      "requestAnimationFrame",
+      "scroll",
+      "scrollBy",
+      "scrollTo",
+      "webkitCancelAnimationFrame",
+      "webkitRequestAnimationFrame",
+      "ondevicemotion",
+      "onpagereveal",
+      "onscrollsnapchange",
+      "onscrollsnapchanging"
+    ],
+    "scripts": [
+      "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.clarity.ms/tag/x831l23j1b?ref=gtm",
+      "https://bat.bing.com/bat.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-855404720&cx=c&gtm=4e6831",
+      "https://www.googletagmanager.com/gtag/js?id=G-SXX02M9P28&cx=c&gtm=4e6831",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-KLZ3KK5J",
+      "https://use.typekit.net/pgd8wll.js",
+      "https://uptivemfg.com/wp-includes/js/jquery/jquery.min.js",
+      "https://uptivemfg.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/page_conditional_logic.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js",
+      "https://uptivemfg.com/wp-includes/js/plupload/moxie.min.js",
+      "https://uptivemfg.com/wp-includes/js/plupload/plupload.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/js/fields.js",
+      "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/js/admin.js",
+      "https://js.hsforms.net/forms/embed/v2.js",
+      "https://uptivemfg.com/wp-includes/js/dist/dom-ready.min.js",
+      "https://uptivemfg.com/wp-includes/js/dist/hooks.min.js",
+      "https://uptivemfg.com/wp-includes/js/dist/i18n.min.js",
+      "https://uptivemfg.com/wp-includes/js/dist/a11y.min.js",
+      "https://uptivemfg.com/wp-includes/js/jquery/ui/core.min.js",
+      "https://uptivemfg.com/wp-includes/js/jquery/ui/datepicker.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/datepicker-legacy.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/datepicker.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js",
+      "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js",
+      "https://uptivemfg.com/wp-content/themes/industrial/resources/js/app.js?v=52cbac6",
+      "https://cdn.callrail.com/companies/622138620/c9a99ac65b21a36fe7ba/12/swap.js",
+      "https://www.google.com/recaptcha/enterprise.js?render=6Le-FoYsAAAAAMWTCNbUTZJTXmnkPRciif93mMWZ",
+      "https://uptivemfg.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js"
+    ],
+    "inlineScriptSnippets": [],
+    "htmlClass": "wf-inactive wf-kallisto-n8-inactive wf-kallisto-n3-inactive wf-kallisto-n5-inactive",
+    "bodyClass": "home wp-singular page-template-default page page-id-3700 wp-theme-industrial",
+    "htmlStyle": null,
+    "bodyStyle": null,
+    "htmlComputed": {
+      "scrollBehavior": "smooth",
+      "overflow": "visible",
+      "height": "7977.27px"
+    },
+    "bodyComputed": {
+      "overflow": "visible",
+      "position": "static",
+      "transform": "none",
+      "height": "7977.27px"
+    },
+    "transformedWrappers": [
+      {
+        "tag": "FORM",
+        "id": "search-form",
+        "cls": "",
+        "transform": "matrix(1, 0, 0, 1, 0, -100)",
+        "position": "fixed",
+        "willChange": "auto"
+      }
+    ],
+    "docHeight": 7977,
+    "title": "UPTIVE | Custom Manufacturing for Prototypes & Production"
+  },
+  "css": {
+    "keyframes": [
+      {
+        "name": "gformLoader",
+        "text": "@keyframes gformLoader { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(360deg); }\n}"
+      },
+      {
+        "name": "components-animate__appear-animation",
+        "text": "@keyframes components-animate__appear-animation { \n  0% { transform: translateY(-2em) scaleY(0) scaleX(0); }\n  100% { transform: translateY(0px) scaleY(1) scaleX(1); }\n}"
+      },
+      {
+        "name": "components-animate__slide-in-animation",
+        "text": "@keyframes components-animate__slide-in-animation { \n  100% { transform: translateX(0px); }\n}"
+      },
+      {
+        "name": "components-animate__loading",
+        "text": "@keyframes components-animate__loading { \n  0% { opacity: 0.5; }\n  50% { opacity: 1; }\n  100% { opacity: 0.5; }\n}"
+      },
+      {
+        "name": "components-button__busy-animation",
+        "text": "@keyframes components-button__busy-animation { \n  0% { background-position: 200px 0px; }\n}"
+      },
+      {
+        "name": "slide-in-left",
+        "text": "@keyframes slide-in-left { \n  0% { transform: translateX(-100%); }\n  100% { transform: translateX(0px); }\n}"
+      },
+      {
+        "name": "slide-in-right",
+        "text": "@keyframes slide-in-right { \n  0% { transform: translateX(100%); }\n  100% { transform: translateX(0px); }\n}"
+      },
+      {
+        "name": "slide-out-left",
+        "text": "@keyframes slide-out-left { \n  0% { transform: translateX(0px); }\n  100% { transform: translateX(-100%); }\n}"
+      },
+      {
+        "name": "slide-out-right",
+        "text": "@keyframes slide-out-right { \n  0% { transform: translateX(0px); }\n  100% { transform: translateX(100%); }\n}"
+      },
+      {
+        "name": "fade-in",
+        "text": "@keyframes fade-in { \n  0% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "fade-out",
+        "text": "@keyframes fade-out { \n  0% { opacity: 1; }\n  100% { opacity: 0; }\n}"
+      },
+      {
+        "name": "__wp-base-styles-fade-in",
+        "text": "@keyframes __wp-base-styles-fade-in { \n  0% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "__wp-base-styles-fade-out",
+        "text": "@keyframes __wp-base-styles-fade-out { \n  0% { opacity: 1; }\n  100% { opacity: 0; }\n}"
+      },
+      {
+        "name": "components-modal__appear-animation",
+        "text": "@keyframes components-modal__appear-animation { \n  0% { opacity: 0; transform: scale(0.9); }\n  100% { opacity: 1; transform: scale(1); }\n}"
+      },
+      {
+        "name": "components-modal__disappear-animation",
+        "text": "@keyframes components-modal__disappear-animation { \n  0% { opacity: 1; transform: scale(1); }\n  100% { opacity: 0; transform: scale(0.9); }\n}"
+      },
+      {
+        "name": "components-resizable-box__top-bottom-animation",
+        "text": "@keyframes components-resizable-box__top-bottom-animation { \n  0% { opacity: 0; transform: scaleX(0); }\n  100% { opacity: 1; transform: scaleX(1); }\n}"
+      },
+      {
+        "name": "components-resizable-box__left-right-animation",
+        "text": "@keyframes components-resizable-box__left-right-animation { \n  0% { opacity: 0; transform: scaleY(0); }\n  100% { opacity: 1; transform: scaleY(1); }\n}"
+      },
+      {
+        "name": "components-button__appear-animation",
+        "text": "@keyframes components-button__appear-animation { \n  0% { transform: scaleY(0); }\n  100% { transform: scaleY(1); }\n}"
+      },
+      {
+        "name": "components-validated-control__indicator-jump",
+        "text": "@keyframes components-validated-control__indicator-jump { \n  0% { opacity: 0; transform: translateY(-4px); }\n  100% { opacity: 1; transform: translateY(0px); }\n}"
+      },
+      {
+        "name": "hide-during-dragging",
+        "text": "@keyframes hide-during-dragging { \n  100% { position: fixed; transform: translate(9999px, 9999px); }\n}"
+      },
+      {
+        "name": "loadingpulse",
+        "text": "@keyframes loadingpulse { \n  0% { opacity: 1; }\n  50% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "__wp-base-styles-fade-in",
+        "text": "@keyframes __wp-base-styles-fade-in { \n  0% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "dataviews-pulse",
+        "text": "@keyframes dataviews-pulse { \n  0%, 100% { opacity: 1; }\n  50% { opacity: 0.5; }\n}"
+      },
+      {
+        "name": "__wp-base-styles-fade-in",
+        "text": "@keyframes __wp-base-styles-fade-in { \n  0% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "editor-post-publish-panel__slide-in-animation",
+        "text": "@keyframes editor-post-publish-panel__slide-in-animation { \n  100% { transform: translateX(0px); }\n}"
+      },
+      {
+        "name": "fa-spin",
+        "text": "@-webkit-keyframes fa-spin { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(359deg); }\n}"
+      },
+      {
+        "name": "fa-spin",
+        "text": "@keyframes fa-spin { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(359deg); }\n}"
+      },
+      {
+        "name": "splide-loading",
+        "text": "@keyframes splide-loading { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(1turn); }\n}"
+      },
+      {
+        "name": "lightboxLoader",
+        "text": "@keyframes lightboxLoader { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(1turn); }\n}"
+      },
+      {
+        "name": "gfadeIn",
+        "text": "@keyframes gfadeIn { \n  0% { opacity: 0; }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "gfadeOut",
+        "text": "@keyframes gfadeOut { \n  0% { opacity: 1; }\n  100% { opacity: 0; }\n}"
+      },
+      {
+        "name": "gslideInLeft",
+        "text": "@keyframes gslideInLeft { \n  0% { opacity: 0; transform: translate3d(-60%, 0px, 0px); }\n  100% { opacity: 1; transform: translateZ(0px); visibility: visible; }\n}"
+      },
+      {
+        "name": "gslideOutLeft",
+        "text": "@keyframes gslideOutLeft { \n  0% { opacity: 1; transform: translateZ(0px); visibility: visible; }\n  100% { opacity: 0; transform: translate3d(-60%, 0px, 0px); visibility: hidden; }\n}"
+      },
+      {
+        "name": "gslideInRight",
+        "text": "@keyframes gslideInRight { \n  0% { opacity: 0; transform: translate3d(60%, 0px, 0px); visibility: visible; }\n  100% { opacity: 1; transform: translateZ(0px); }\n}"
+      },
+      {
+        "name": "gslideOutRight",
+        "text": "@keyframes gslideOutRight { \n  0% { opacity: 1; transform: translateZ(0px); visibility: visible; }\n  100% { opacity: 0; transform: translate3d(60%, 0px, 0px); }\n}"
+      },
+      {
+        "name": "gzoomIn",
+        "text": "@keyframes gzoomIn { \n  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  100% { opacity: 1; }\n}"
+      },
+      {
+        "name": "gzoomOut",
+        "text": "@keyframes gzoomOut { \n  0% { opacity: 1; }\n  50% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  100% { opacity: 0; }\n}"
+      },
+      {
+        "name": "submenuAnimation",
+        "text": "@keyframes submenuAnimation { \n  0% { opacity: 0; transform: scaleY(0); }\n  80% { opacity: 1; }\n  100% { transform: scaleY(1); }\n}"
+      }
+    ],
+    "transitions": [],
+    "cubicBeziers": [],
+    "clipPaths": [],
+    "willChange": [],
+    "transforms": [],
+    "sheets": [
+      {
+        "href": null,
+        "count": 0
+      },
+      {
+        "href": null,
+        "count": 1
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dashicons.min.css",
+        "count": 351
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/css/admin.css",
+        "count": 7
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css",
+        "count": 17
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css",
+        "count": 217
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css",
+        "count": 407
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css",
+        "count": 0
+      },
+      {
+        "href": null,
+        "count": 46
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/components/style.min.css",
+        "count": 624
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/preferences/style.min.css",
+        "count": 14
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/block-editor/style.min.css",
+        "count": 879
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/reusable-blocks/style.min.css",
+        "count": 3
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/patterns/style.min.css",
+        "count": 10
+      },
+      {
+        "href": "https://uptivemfg.com/wp-includes/css/dist/editor/style.min.css",
+        "count": 1145
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/gutenberg/slider-hero-block/dist/blocks.style.build.css",
+        "count": 1
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/css/font-awesome.min.css",
+        "count": 672
+      },
+      {
+        "href": "https://uptivemfg.com/wp-content/themes/industrial/resources/css/site.css?v=52cbac6",
+        "count": 735
+      },
+      {
+        "href": null,
+        "count": 23
+      },
+      {
+        "href": null,
+        "count": 2
+      },
+      {
+        "href": null,
+        "count": 3
+      },
+      {
+        "href": null,
+        "count": 3
+      },
+      {
+        "href": null,
+        "count": 1
+      }
+    ],
+    "errors": []
+  },
+  "gsap": null,
+  "network": [
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dashicons.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/css/admin.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/components/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/preferences/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/block-editor/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/reusable-blocks/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/patterns/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-includes/css/dist/editor/style.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/gutenberg/slider-hero-block/dist/blocks.style.build.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/plugins/slider-hero-pro/css/font-awesome.min.css"
+    },
+    {
+      "t": "stylesheet",
+      "url": "https://uptivemfg.com/wp-content/themes/industrial/resources/css/site.css?v=52cbac6"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/jquery/jquery.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/jquery/jquery-migrate.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/jquery.json.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/gravityforms.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/page_conditional_logic.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/plupload/moxie.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/plupload/plupload.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/js/fields.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gforms-addon-for-country-and-state-selection/assets/js/admin.js"
+    },
+    {
+      "t": "script",
+      "url": "https://use.typekit.net/pgd8wll.js"
+    },
+    {
+      "t": "script",
+      "url": "https://js.hsforms.net/forms/embed/v2.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/dist/dom-ready.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/dist/hooks.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/dist/i18n.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/dist/a11y.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/jquery/ui/core.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-includes/js/jquery/ui/datepicker.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/datepicker-legacy.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/datepicker.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/themes/industrial/resources/js/app.js?v=52cbac6"
+    },
+    {
+      "t": "script",
+      "url": "https://www.google.com/recaptcha/enterprise.js?render=6Le-FoYsAAAAAMWTCNbUTZJTXmnkPRciif93mMWZ"
+    },
+    {
+      "t": "script",
+      "url": "https://uptivemfg.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KLZ3KK5J"
+    },
+    {
+      "t": "xhr",
+      "url": "https://forms.hsforms.com/embed/v3/form/45539839/04b288ac-ad3a-47ab-9c5c-ed278a593f00/json?hs_static_app=forms-embed&hs_static_app_version=1.11227&X-HubSpot-Static-App-Info=forms-embed-1.11227"
+    },
+    {
+      "t": "script",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+    },
+    {
+      "t": "script",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-SXX02M9P28&cx=c&gtm=4e6831"
+    },
+    {
+      "t": "script",
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-855404720&cx=c&gtm=4e6831"
+    },
+    {
+      "t": "script",
+      "url": "https://bat.bing.com/bat.js"
+    },
+    {
+      "t": "script",
+      "url": "https://www.clarity.ms/tag/x831l23j1b?ref=gtm"
+    },
+    {
+      "t": "script",
+      "url": "https://cdn.callrail.com/companies/622138620/c9a99ac65b21a36fe7ba/12/swap.js"
+    },
+    {
+      "t": "fetch",
+      "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=1&ae=g&auid=1737751085.1785924279&dt=UPTIVE%20%7C%20Custom%20Manufacturing%20for%20Prototypes%20%26%20Production&en=page_view&dl=https%3A%2F%2Fuptivemfg.com%2F&scrsrc=www.googletagmanager.com&rnd=1863733620.1785924279&navt=n&npa=1&ep.ads_data_redaction=0&gtm=45He6831v9179377135za200zd9179377135xea&gcd=13l3l3l2l1l1&dma_cps=a&dma=1&tag_exp=115938465~115938468~118395333~118897920~118897930~119896803&tft=1785924279039&tfd=28665&fmt=8"
+    },
+    {
+      "t": "fetch",
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1737751085.1785924279&gtm=45He6831v9179377135za200zd9179377135xea&fmt=8"
+    },
+    {
+      "t": "fetch",
+      "url": "https://region1.analytics.google.com/g/collect?v=2&tid=G-SXX02M9P28&gtm=45je6831v9119148146z89179377135za20gzb9179377135zd9179377135&_p=1785924274186&_gaz=1&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&ecid=673316010&_eu=AAAAAGAC&are=1&cid=181207933.1785924280&frm=0&pscdl=noapi&rcb=1&sr=1600x900&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&gaf=2&_s=1&tag_exp=115938465~115938469~118897920~118897930~119896803&sid=1785924279&sct=1&seg=0&dl=https%3A%2F%2Fuptivemfg.com%2F&dt=UPTIVE%20%7C%20Custom%20Manufacturing%20for%20Prototypes%20%26%20Production&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=29407"
+    },
+    {
+      "t": "fetch",
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=0&auid=1737751085.1785924279&dt=UPTIVE%20%7C%20Custom%20Manufacturing%20for%20Prototypes%20%26%20Production&tid=AW-11404907596&en=page_view&dl=https%3A%2F%2Fuptivemfg.com%2F&scrsrc=www.googletagmanager.com&rnd=1863733620.1785924279&navt=n&npa=1&gtm=45je6831v9119148146z89179377135za20gzb9179377135zd9179377135xec&gcd=13l3l3l2l1l1&dma_cps=a&dma=1&tag_exp=115938465~115938469~118897920~118897930~119896803&tft=1785924279817&tfd=29443&tids=AW-11404907596&fmt=8"
+    },
+    {
+      "t": "fetch",
+      "url": "https://region1.analytics.google.com/g/collect?v=2&tid=G-G6J7QZHSKR&gtm=45be6831v879167477z89179377135za20gzb9179377135zd9179377135&_p=1785924274186&_gaz=1&gcd=13l3l3l2l1l1&npa=1&dma_cps=a&dma=1&_eu=AAAAAGAC&are=1&cid=181207933.1785924280&frm=0&pscdl=noapi&rcb=3&sr=1600x900&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-gb&gaf=2&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~119896802&sid=1785924279&sct=1&seg=0&dl=https%3A%2F%2Fuptivemfg.com%2F&dt=UPTIVE%20%7C%20Custom%20Manufacturing%20for%20Prototypes%20%26%20Production&en=page_view&_fv=1&_ss=1&gap.plf=5&tfd=29622"
+    },
+    {
+      "t": "fetch",
+      "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&auid=1737751085.1785924279&dt=UPTIVE%20%7C%20Custom%20Manufacturing%20for%20Prototypes%20%26%20Production&tid=AW-855404720&en=page_view&dl=https%3A%2F%2Fuptivemfg.com%2F&scrsrc=www.googletagmanager.com&rnd=1863733620.1785924279&navt=n&npa=1&gtm=45be6831v879167477z89179377135za20gzb9179377135zd9179377135xec&gcd=13l3l3l2l1l1&dma_cps=a&dma=1&tag_exp=115616985~115938465~115938468~118897920~118897930~119896802&tft=1785924280001&tfd=29627&gap.plf=5&tids=AW-855404720&fmt=8"
+    },
+    {
+      "t": "script",
+      "url": "https://www.gstatic.com/recaptcha/releases/w_Yb7dGGXaKesJ7BMiqFJqBG/recaptcha__en.js"
+    }
+  ]
+}
