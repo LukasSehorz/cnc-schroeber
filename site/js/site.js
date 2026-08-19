@@ -137,26 +137,222 @@
     }
   }
 
-  /* --------------------------------------------------------- Einblendungen */
+  /* --------------------------------------------------------- Einblendungen
+
+     Jede Sektion bekommt eine eigene kleine Choreografie statt eines
+     einheitlichen Einblendens: der Kicker wischt auf, die Überschrift steigt
+     wortweise aus ihrer Grundlinie, Bilder ziehen sich von unten auf, Listen
+     und Kacheln laufen gestaffelt nach. Die Reihenfolge folgt der Leserichtung.
+     -------------------------------------------------------------------- */
+
+  /* Zerlegt eine Überschrift in maskierte Wörter und gibt die inneren
+     Hüllen zurück. Zeilenumbrüche und Auszeichnungen bleiben erhalten. */
+  function splitWords(el) {
+    if (!el || el.dataset.split === "1") return [];
+
+    var frag = document.createDocumentFragment();
+    var inners = [];
+
+    function wrap(content) {
+      var mask = document.createElement("span");
+      mask.className = "w";
+      var inner = document.createElement("span");
+      inner.className = "w__i";
+      if (typeof content === "string") inner.textContent = content;
+      else inner.appendChild(content);
+      mask.appendChild(inner);
+      frag.appendChild(mask);
+      inners.push(inner);
+    }
+
+    Array.prototype.slice.call(el.childNodes).forEach(function (node) {
+      if (node.nodeType === 3) {
+        node.textContent.split(/(\s+)/).forEach(function (part) {
+          if (part === "") return;
+          if (/^\s+$/.test(part)) frag.appendChild(document.createTextNode(part));
+          else wrap(part);
+        });
+      } else if (node.nodeName === "BR") {
+        frag.appendChild(node.cloneNode());
+      } else {
+        wrap(node.cloneNode(true));
+      }
+    });
+
+    if (!inners.length) return [];
+    el.innerHTML = "";
+    el.appendChild(frag);
+    el.dataset.split = "1";
+    return inners;
+  }
+
+  var CLIP_HIDDEN = "inset(0% 0% 100% 0%)";
+  var CLIP_SHOWN = "inset(0% 0% 0% 0%)";
+
+  function animateSection(section) {
+    function q(sel) {
+      return Array.prototype.slice.call(section.querySelectorAll(sel));
+    }
+
+    var tl = gsap.timeline({
+      scrollTrigger: { trigger: section, start: "top 78%", once: true }
+    });
+
+    /* Die Träger werden nur aufgedeckt, die Bewegung machen ihre Kinder. */
+    var holders = q("[data-reveal]");
+    if (holders.length) {
+      tl.to(holders, { opacity: 1, duration: 0.5, ease: "none", stagger: 0.06 }, 0);
+    }
+
+    var at = 0;
+
+    /* Kicker wischt von links auf. */
+    var kickers = q(".kicker");
+    if (kickers.length) {
+      tl.fromTo(kickers,
+        { clipPath: "inset(0% 100% 0% 0%)", opacity: 0 },
+        { clipPath: "inset(0% 0% 0% 0%)", opacity: 1, duration: 0.65, ease: "power3.out", stagger: 0.1 },
+        at);
+      at += 0.14;
+    }
+
+    /* Überschriften steigen wortweise auf. */
+    var heads = q("h1, h2, .quote p");
+    var headStart = at;
+    heads.forEach(function (h, i) {
+      var words = splitWords(h);
+      if (!words.length) return;
+      tl.fromTo(words,
+        { yPercent: 110 },
+        { yPercent: 0, duration: 0.95, ease: "power4.out", stagger: 0.042 },
+        headStart + i * 0.09);
+    });
+    if (heads.length) at += 0.2;
+
+    /* Fließtext und Aktionen folgen. */
+    var body = q(".prose, .lead, .hero__sub, .quote cite, .contact-list, .form, .form__note");
+    if (body.length) {
+      tl.fromTo(body,
+        { y: 18, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.8, ease: "power3.out", stagger: 0.08 },
+        at);
+      at += 0.1;
+    }
+
+    /* Bilder ziehen sich von unten auf und lösen den Zoom auf. */
+    var media = q("figure img, .offer__sign, .pagehead__media img");
+    if (media.length) {
+      tl.fromTo(media,
+        { clipPath: CLIP_HIDDEN, scale: 1.1 },
+        { clipPath: CLIP_SHOWN, scale: 1, duration: 1.15, ease: "power3.out", stagger: 0.09 },
+        Math.max(0, at - 0.35));
+    }
+
+    /* Kacheln decken sich nacheinander auf. */
+    var tiles = q(".tile");
+    if (tiles.length) {
+      tl.fromTo(tiles,
+        { clipPath: CLIP_HIDDEN, opacity: 0 },
+        { clipPath: CLIP_SHOWN, opacity: 1, duration: 1, ease: "power3.out", stagger: 0.1 },
+        at);
+    }
+
+    /* Kennzahlen, Prozessschritte und Personen steigen gestaffelt auf. */
+    var risers = q(".stat, .step, .person, .block");
+    if (risers.length) {
+      tl.fromTo(risers,
+        { y: 30, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.85, ease: "power3.out", stagger: 0.08 },
+        at);
+    }
+
+    /* Listenzeilen und Datenblätter laufen von links ein. Die Sprungnavigation
+       bleibt aussen vor, ihr Inline-Transform würde den Hover-Versatz aus dem
+       Stylesheet blockieren. */
+    var rows = q(".ticks li, .spec tr, .contact-list > div");
+    if (rows.length) {
+      tl.fromTo(rows,
+        { x: -14, opacity: 0 },
+        { x: 0, opacity: 1, duration: 0.6, ease: "power2.out", stagger: 0.035, clearProps: "transform" },
+        at + 0.1);
+    }
+
+    /* Galeriebilder erscheinen in der Fläche. */
+    var cells = q(".gallery figure");
+    if (cells.length) {
+      tl.fromTo(cells,
+        { scale: 0.92, opacity: 0 },
+        { scale: 1, opacity: 1, duration: 0.7, ease: "power3.out", stagger: 0.045 },
+        at);
+    }
+
+    /* Trennlinien und der Panelrahmen zeichnen sich. */
+    var lines = q("hr.rule, .stats, .panel");
+    if (lines.length) {
+      tl.fromTo(lines,
+        { scaleX: 0.965, opacity: 0 },
+        { scaleX: 1, opacity: 1, duration: 0.9, ease: "power3.out", transformOrigin: "left center" },
+        at);
+    }
+  }
 
   function buildReveals() {
     if (reduced) {
       gsap.set("[data-reveal]", { opacity: 1, y: 0 });
       return;
     }
+
+    var sections = Array.prototype.slice.call(
+      document.querySelectorAll("main > section, footer.foot")
+    );
+    sections.forEach(function (s) {
+      if (s.classList.contains("hero")) return; /* eigener Auftakt */
+      animateSection(s);
+    });
+
+    /* Alles ausserhalb einer Sektion sicherheitshalber aufdecken. */
     ScrollTrigger.batch("[data-reveal]", {
-      start: "top 88%",
+      start: "top 92%",
       once: true,
       onEnter: function (batch) {
-        gsap.to(batch, {
-          opacity: 1, y: 0,
-          duration: 0.9,
-          ease: "power3.out",
-          stagger: 0.07,
-          overwrite: true
-        });
+        gsap.to(batch, { opacity: 1, duration: 0.5, ease: "none", overwrite: "auto" });
       }
     });
+  }
+
+  /* ------------------------------------------------------- Auftakt Hero */
+
+  function buildIntro() {
+    var h1 = document.querySelector(".hero h1");
+    if (!h1 || reduced) return;
+
+    var words = splitWords(h1);
+    var sub = document.querySelector(".hero__sub");
+    var cta = document.querySelector(".hero__grid .act");
+    var labels = document.querySelectorAll(".hero__labels span");
+    var scroll = document.querySelector(".hero__scroll");
+
+    var tl = gsap.timeline({ delay: 0.25 });
+
+    if (labels.length) {
+      tl.fromTo(labels,
+        { opacity: 0, y: -10 },
+        { opacity: 1, y: 0, duration: 0.8, ease: "power3.out", stagger: 0.1 }, 0);
+    }
+    if (words.length) {
+      tl.fromTo(words,
+        { yPercent: 112 },
+        { yPercent: 0, duration: 1.05, ease: "power4.out", stagger: 0.06 }, 0.15);
+    }
+    if (sub) {
+      tl.fromTo(sub, { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.9, ease: "power3.out" }, 0.55);
+    }
+    if (cta) {
+      tl.fromTo(cta, { opacity: 0, x: -12 }, { opacity: 1, x: 0, duration: 0.8, ease: "power3.out" }, 0.65);
+    }
+    if (scroll) {
+      tl.fromTo(scroll, { opacity: 0 }, { opacity: 1, duration: 0.7, ease: "none" }, 0.9);
+    }
   }
 
   /* -------------------------------------------------------------- Zähler */
@@ -374,6 +570,7 @@
   function init() {
     measure();
     buildHeroTimeline();
+    buildIntro();
     buildTimeline();
     buildForm();
     buildReveals();

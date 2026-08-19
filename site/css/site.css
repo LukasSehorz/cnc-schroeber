@@ -1345,15 +1345,39 @@ html.is-pinned .brand__chip { opacity: 1; }
    22. Bewegung
    -------------------------------------------------------------------------- */
 
-/* Voreinstellung ist sichtbar. JS setzt data-anim erst, wenn es übernimmt. */
+/* Voreinstellung ist sichtbar. Ohne JS bleibt die Seite vollständig lesbar,
+   die Startzustände setzt site.js. */
 [data-reveal] { opacity: 1; }
-html[data-motion="on"] [data-reveal] {
-  opacity: 0;
-  transform: translateY(24px);
+html[data-motion="on"] [data-reveal] { opacity: 0; }
+/* Elemente mit eigener Choreografie regelt die Sektions-Timeline. */
+html[data-motion="on"] [data-reveal][data-solo] {
+  opacity: 1;
+  transform: none;
 }
+
+/* Wortmasken für Überschriften. Die Struktur baut site.js, dieses Regelwerk
+   greift also nur, wenn die Bewegung wirklich läuft. Innenabstand und
+   negativer Aussenabstand geben Ober- und Unterlängen Luft, sonst
+   beschneidet die Maske Umlautpunkte und das g. */
+.w {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  padding: 0.14em 0 0.18em;
+  margin: -0.14em 0 -0.18em;
+}
+.w__i {
+  display: inline-block;
+  will-change: transform;
+}
+
+/* Bilder, die sich beim Erreichen aufziehen. */
+.reveal-img { will-change: clip-path, transform; }
 
 @media (prefers-reduced-motion: reduce) {
   html[data-motion="on"] [data-reveal] { opacity: 1; transform: none; }
+  .w { overflow: visible; padding: 0; margin: 0; }
+  .w__i { transform: none !important; }
   .hero__scroll i { animation: none; }
   * { scroll-behavior: auto !important; }
 }
