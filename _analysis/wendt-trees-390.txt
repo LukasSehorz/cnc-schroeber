@@ -1,0 +1,214 @@
+
+
+===================== M S2_TEXTPIC50 =====================
+div#item-206.frame.frame-default.frame-type-t4m_textpic50.frame-layout-0.frame-space-before-large.frame-space-after-small.image-left.col-full-width box[y850..1629 h779 w390 x0] disp:block gcol:auto / span 12 mar:60/0/20/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y850..1629 h779 w390 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.left.responsive-50-100-100.cover box[y850..1075 h225 w350 x20] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/20/0/20 bord:0px/4px/0px/0px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1075..1075 h0 w346 x20] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1075..1075 h0 w0 x20] disp:inline
+        source box[y1075..1075 h0 w0 x20] disp:inline
+        source box[y1075..1075 h0 w0 x20] disp:inline
+        source box[y1075..1075 h0 w0 x20] disp:inline
+        img box[y850..1075 h225 w326 x20] disp:block pos:absolute(t0px r20px b0px l0px z1) maxW:100% fit:cover SRC:csm_wendt_maschinenbau_geschaeftsfuehrung_f8f25d5a1b.jpg nat:800x520
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Geschäftsführung von Wendt Maschinenbau stehen nebeneinander aufgestellt auf Sta"
+    div.bodytext box[y1075..1629 h554 w350 x40] disp:block pos:relative(t0px r0px b0px l0px z1) pad:40/20/40/20 mar:0/0/0/40 bg:rgb(237, 241, 243) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y1115..1143 h28 w310 x60] disp:block FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/20/0
+        h3 box[y1115..1143 h28 w310 x60] disp:block mar:0/0/20/0 FONT[22px/600/27.5px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Wie alles bei uns begann"
+      p box[y1163..1443 h281 w310 x60] disp:block mar:0/0/8/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Bei Wendt Maschinenbau verbinden wir Tradition mit modernster Technik und indivi"
+        strong box[y1206..1227 h21 w57 x210] disp:inline FONT[16px/700/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Seit 1991"
+      p box[y1451..1581 h130 w310 x60] disp:block mar:0/0/8/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Auf dem Bild v.l.n.r.: Moritz Neumann (ppa. Personal- und Rechnungswesen), Vales"
+        br box[y1451..1472 h21 w0 x185] disp:inline
+        span box[y1495..1516 h21 w46 x237] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(33, 33, 33)/Rajdhani] TXT:"Hurtzig"
+
+===================== M S3_CARD_A =====================
+div#item-72.frame.frame-default.frame-type-t4m_imageteaser.frame-layout-0.frame-space-before-small.image-right.col-s-100.col-m-50.col-l-33 box[y1669..2217 h548 w390 x0] disp:block gcol:auto / span 12 mar:20/0/0/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y1669..2217 h548 w390 x0] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.cover box[y1669..2217 h548 w390 x0] disp:block pos:absolute(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1669..1669 h0 w390 x0] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1669..1669 h0 w0 x0] disp:inline
+        source box[y1669..1669 h0 w0 x0] disp:inline
+        source box[y1669..1669 h0 w0 x0] disp:inline
+        source box[y1669..1669 h0 w0 x0] disp:inline
+        img.ready box[y1669..2217 h548 w370 x0] disp:block pos:absolute(t0px r20px b0px l0px z1) maxW:100% fit:cover trans:all 1s ease 0s SRC:csm_wendt_maschinenbau_teamgeist_01_2f9424dd7b.jpg nat:1024x800
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div.bodytext box[y1922..2197 h275 w370 x20] disp:block pos:relative(t0px r0px b0px l0px z3) pad:20/20/20/20 mar:253.2/0/20/20 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y1942..1967 h25 w330 x40] disp:block mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/20/0
+        h3 box[y1942..1967 h25 w330 x40] disp:block mar:0/0/20/0 FONT[20px/600/25px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          a box[y1941..1967 h26 w111 x40] disp:inline trans:color 0.3s ease 0s FONT[20px/600/25px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Unsere Werte"
+      p box[y1987..2138 h151 w330 x40] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Ehrlichkeit, Respekt und Nachhaltigkeit prägen unser Handeln bei Wendt Maschinen"
+      a.btn box[y2158..2174 h16 w130 x40] disp:inline-block mar:20/0/0/0 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+        span box[y2155..2176 h21 w130 x40] disp:inline FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Mehr erfahren "
+          span.icon box[y2158..2174 h16 w34 x136] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+            svg box[y2156..2176 h20 w20 x143] disp:block pos:absolute(t8px r-3px b-12px l17px zauto) tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+
+===================== M HERO =====================
+figure.image.cover.banner box[y0..260 h260 w390 x0] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/0/80/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  picture box[y260..260 h0 w390 x0] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    source box[y260..260 h0 w0 x0] disp:inline
+    source box[y260..260 h0 w0 x0] disp:inline
+    img box[y0..260 h260 w370 x20] disp:block pos:absolute(t0px r0px b0px l0px z1) mar:0/0/0/20 maxW:100% ar:auto 400 / 260 fit:cover SRC:csm_wendt_maschinenbau_gebaeude_02_7435473f11.jpg nat:400x260
+  figcaption box[y242..340 h98 w370 x0] disp:block pos:absolute(t241.984px r20px b-80px l0px z1) pad:80/20/0/20 bg:rgb(237, 241, 243) blend:multiply FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    h1 box[y322..340 h18 w330 x20] disp:block FONT[18px/100/18px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Über uns"
+
+===================== M HEADER =====================
+header.page-header box[y0..70 h70 w390 x0] disp:block pos:fixed(t0px r0px b774px l0px z10) maxW:390px trans:all 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div#logo box[y0..70 h70 w129 x0] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) bg:rgb(255, 255, 255) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.logo box[y18..53 h35 w129 x0] disp:block pos:absolute(t35px r0px b0px l0px zauto) tf:matrix(1, 0, 0, 1, 0, -17.5) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y18..18 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y18..53 h35 w831 x-351] disp:block pos:absolute(t0px r-766.656px b0px l64.3438px zauto) tf:matrix(1, 0, 0, 1, -415.5, 0) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+  nav#mainNavigation.main-navigation box[y18..53 h35 w4 x336] disp:block pos:absolute(t35px r50px b0px l336px zauto) bord:0px/4px/0px/0px rgb(52, 52, 52) tf:matrix(1, 0, 0, 1, 0, -17.5)
+    a.opener box[y18..53 h35 w35 x297] disp:flex pos:absolute(t0px r4px b0px l-39px z2) fdir:column jc:space-between pad:5/5/5/5 bg:rgb(255, 255, 255) trans:color 0.3s ease 0s
+      span.row box[y23..28 h5 w25 x302] disp:block cols[repeat(12, calc(8.333% - 20px))] gap:normal 20px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+      span.row box[y33..38 h5 w17 x302] disp:block cols[repeat(12, calc(8.333% - 20px))] gap:normal 20px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+      span.row box[y43..48 h5 w25 x302] disp:block cols[repeat(12, calc(8.333% - 20px))] gap:normal 20px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+    ul.level_1 box[y-9937..-9607 h330 w370 x10] disp:block pos:absolute(t45px r-44px b9660px l-326px z-1) pad:20/0/0/0 mar:-10000/0/0/0 bg:rgb(255, 255, 255) op:0 trans:margin-top, opacity, z-index 0s, 0.5s, 0.6s ease, ease, ease 0s, 0s, 0s
+      li.item.page16.parent box[y-9917..-9877 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20
+        a box[y-9917..-9877 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9909..-9886 h23 w100 x30] disp:inline FONT[18px/700/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Leistungen"
+            svg box[y-9901..-9892 h9 w14 x116] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Maschinenbau"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Stahlbau"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Teilefertigung / Zerspanung"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Vorrichtungsbau"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Konstruktion"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Maschinenpark"
+                svg box[y0..0 h0 w0 x0] disp:inline
+      li.item.page17.parent box[y-9877..-9837 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20
+        a box[y-9877..-9837 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9869..-9846 h23 w207 x30] disp:inline FONT[18px/700/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® Flexo Druckwerke"
+            svg box[y-9861..-9852 h9 w14 x223] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® speed"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® gear"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® mini"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® Zusatzkomponenten"
+                svg box[y0..0 h0 w0 x0] disp:inline
+      li.item.page46.parent box[y-9837..-9797 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20
+        a box[y-9837..-9797 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9829..-9806 h23 w78 x30] disp:inline FONT[18px/700/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Karriere"
+            svg box[y-9821..-9812 h9 w14 x94] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Stellenangebote"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Ausbildungsplätze"
+                svg box[y0..0 h0 w0 x0] disp:inline
+      li.item.page2.current-page.parent box[y-9797..-9757 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20
+        a box[y-9797..-9757 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9789..-9766 h23 w83 x30] disp:inline FONT[18px/700/40px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Über uns"
+            svg box[y-9781..-9772 h9 w14 x99] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Unsere Werte"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Engagement"
+                svg box[y0..0 h0 w0 x0] disp:inline
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item pad:0/0/5/0
+            a box[y0..0 h0 w0 x0] disp:inline pad:0/0/0/10 trans:color 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto zauto)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:inline FONT[18px/400/30px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Downloads / Zertifikate"
+                svg box[y0..0 h0 w0 x0] disp:inline
+      li.item.page12 box[y-9757..-9717 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20
+        a box[y-9757..-9717 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9749..-9726 h23 w69 x30] disp:inline FONT[18px/700/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Aktuelles"
+      li.item.page50 box[y-9717..-9677 h40 w370 x10] disp:list-item pos:relative(t0px r0px b0px l0px zauto) pad:0/20/0/20 bg:rgb(15, 130, 70)
+        a box[y-9717..-9677 h40 w330 x30] disp:block trans:color 0.3s ease 0s
+          span box[y-9709..-9686 h23 w79 x30] disp:inline FONT[18px/700/40px/ls1.8px/rgb(70, 210, 60)/Rajdhani/uppercase] TXT:"Kontakt"
+      ul.socials box[y-9677..-9607 h70 w370 x10] disp:flex pos:relative(t108.5px r0px b-108.5px l0px zauto) pad:20/20/20/20 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        li box[y-9657..-9627 h30 w30 x30] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/20/0/0 FONT[16px/400/40px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y-9657..-9627 h30 w30 x30] disp:flex ai:center jc:center bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y-9650..-9635 h15 w9 x41] disp:block FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y-9657..-9627 h30 w30 x80] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/20/0/0 FONT[16px/400/40px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y-9657..-9627 h30 w30 x80] disp:flex ai:center jc:center bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y-9650..-9635 h15 w15 x88] disp:block FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y-9657..-9627 h30 w30 x130] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/20/0/0 FONT[16px/400/40px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y-9657..-9627 h30 w30 x130] disp:flex ai:center jc:center bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y-9650..-9635 h15 w15 x138] disp:block FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y-9657..-9627 h30 w30 x180] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/20/0/0 FONT[16px/400/40px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y-9657..-9627 h30 w30 x180] disp:flex ai:center jc:center bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y-9650..-9635 h15 w15 x188] disp:block FONT[16px/400/40px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+  div#languageSelect box[y18..53 h35 w35 x345] disp:block pos:absolute(t35px r10px b0px l345px zauto) bg:rgb(70, 210, 60) tf:matrix(1, 0, 0, 1, 0, -17.5) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+    span box[y18..53 h35 w35 x345] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/700/20px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:"de "
+      svg box[y38..53 h15 w11 x357] disp:block pos:absolute(t20px r6.5px b0px l17.5px zauto) tf:matrix(1, 0, 0, 1, -5.5, 0) FONT[16px/700/20px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:" "
+    ul box[y0..0 h0 w0 x0] disp:none bg:rgb(15, 130, 70) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+      li box[y0..0 h0 w0 x0] disp:list-item FONT[16px/400/35px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+        a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/35px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:"EN"
+  ul.socials box[y0..0 h0 w0 x0] disp:none pad:0/0/0/10 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    li box[y0..0 h0 w0 x0] disp:list-item pos:relative(tauto rauto bauto lauto zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y0..0 h0 w0 x0] disp:list-item pos:relative(tauto rauto bauto lauto zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y0..0 h0 w0 x0] disp:list-item pos:relative(tauto rauto bauto lauto zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y0..0 h0 w0 x0] disp:list-item pos:relative(tauto rauto bauto lauto zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "

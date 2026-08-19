@@ -267,11 +267,115 @@
     });
   }
 
+  /* ---------------------------------------------------------- Zeitstrahl */
+
+  function buildTimeline() {
+    var tl = document.querySelector(".tl");
+    if (!tl) return;
+    var items = Array.prototype.slice.call(tl.querySelectorAll(".tl-item"));
+    if (!items.length) return;
+
+    if (reduced) {
+      items.forEach(function (i) { i.setAttribute("data-on", "true"); });
+      return;
+    }
+
+    /* Die Achse wächst mit dem Scrollfortschritt durch die Liste. */
+    ScrollTrigger.create({
+      trigger: tl,
+      start: "top 72%",
+      end: "bottom 78%",
+      scrub: 0.5,
+      onUpdate: function (self) {
+        tl.style.setProperty("--tl-progress", self.progress.toFixed(4));
+      }
+    });
+
+    /* Jeder Eintrag schaltet sich, sobald die Achse ihn erreicht hat. */
+    items.forEach(function (item) {
+      ScrollTrigger.create({
+        trigger: item,
+        start: "top 76%",
+        onEnter: function () { item.setAttribute("data-on", "true"); },
+        onLeaveBack: function () { item.setAttribute("data-on", "false"); }
+      });
+    });
+  }
+
+  /* ------------------------------------------------------------ Formular */
+
+  function buildForm() {
+    var form = document.getElementById("anfrageForm");
+    var wrap = document.getElementById("formWrap");
+    if (!form || !wrap) return;
+
+    function check(el) {
+      var ok = el.checkValidity();
+      el.setAttribute("aria-invalid", ok ? "false" : "true");
+      return ok;
+    }
+
+    /* Erst prüfen, wenn das Feld einmal verlassen wurde. Sofortiges Meckern
+       beim Tippen ist lästig. */
+    form.querySelectorAll("input, textarea").forEach(function (el) {
+      el.addEventListener("blur", function () {
+        if (el.value !== "" || el.required) check(el);
+      });
+      el.addEventListener("input", function () {
+        if (el.getAttribute("aria-invalid") === "true") check(el);
+      });
+    });
+
+    /* Gewählte Dateien benennen, der Systemtext trägt die Browsersprache. */
+    var file = form.querySelector('input[type="file"]');
+    var fileOut = form.querySelector("[data-filelist]");
+    if (file && fileOut) {
+      var hint = fileOut.textContent;
+      file.addEventListener("change", function () {
+        var n = file.files.length;
+        if (!n) { fileOut.textContent = hint; return; }
+        fileOut.textContent = n === 1
+          ? file.files[0].name
+          : n + " Dateien gewählt";
+      });
+    }
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      var fields = Array.prototype.slice.call(form.querySelectorAll("input, textarea"));
+      var bad = fields.filter(function (el) { return !check(el); });
+
+      if (bad.length) {
+        bad[0].focus();
+        if (lenis) lenis.scrollTo(bad[0], { offset: -(M.hdrH + 40), duration: 0.8 });
+        return;
+      }
+
+      var btn = form.querySelector('button[type="submit"]');
+      if (btn) { btn.disabled = true; btn.textContent = "Wird gesendet"; }
+
+      /* Demofassung ohne Serveranbindung. Für den Livebetrieb hier den
+         Versand an das Postfach der Firma einhängen. */
+      setTimeout(function () {
+        wrap.setAttribute("data-sent", "true");
+        var done = wrap.querySelector(".form-done");
+        if (done) {
+          done.setAttribute("tabindex", "-1");
+          done.focus({ preventScroll: true });
+        }
+        ScrollTrigger.refresh();
+      }, 700);
+    });
+  }
+
   /* -------------------------------------------------------------- Start */
 
   function init() {
     measure();
     buildHeroTimeline();
+    buildTimeline();
+    buildForm();
     buildReveals();
     buildCounters();
     buildMenu();

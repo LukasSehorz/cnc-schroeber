@@ -1,0 +1,511 @@
+
+
+===================== HEADER =====================
+header.page-header box[y0..100 h100 w1440 x0] disp:block pos:fixed(t0px r0px b800px l0px z10) maxW:1440px trans:all 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div#logo box[y0..100 h100 w240 x0] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) bg:rgb(255, 255, 255) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.logo box[y25..75 h50 w240 x0] disp:block pos:absolute(t50px r0px b0px l0px zauto) tf:matrix(1, 0, 0, 1, 0, -25) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y25..25 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y25..100 h75 w831 x-296] disp:block pos:absolute(t0px r-711px b-25px l119.984px zauto) tf:matrix(1, 0, 0, 1, -415.5, 0) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+  nav#mainNavigation.main-navigation box[y25..75 h50 w867 x523] disp:block pos:absolute(t50px r50px b0px l522.781px zauto) bord:0px/10px/0px/0px rgb(52, 52, 52) tf:matrix(1, 0, 0, 1, 0, -25)
+    a.opener box[y0..0 h0 w0 x0] disp:none pos:absolute(tauto r10px bauto lauto z2) jc:space-between pad:7.5/7.5/7.5/7.5 bg:rgb(255, 255, 255) trans:color 0.3s ease 0s
+      span.row box[y0..0 h0 w0 x0] disp:block cols[repeat(12, calc(8.333% - 50px))] gap:normal 50px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+      span.row box[y0..0 h0 w0 x0] disp:block cols[repeat(12, calc(8.333% - 50px))] gap:normal 50px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+      span.row box[y0..0 h0 w0 x0] disp:block cols[repeat(12, calc(8.333% - 50px))] gap:normal 50px ai:center jc:center bg:rgb(15, 130, 70) trans:all 0.5s ease 0s
+    ul.level_1 box[y25..75 h50 w857 x513] disp:flex pos:relative(t0px r10px b0px l-10px z1) ai:center bg:rgb(255, 255, 255) shadow:rgba(0, 0, 0, 0.15) -4px 4px 30px 0px trans:margin-top, opacity, z-index 0s, 0.5s, 0.6s ease, ease, ease 0s, 0s, 0s
+      li.item.page16.parent box[y25..75 h50 w140 x513] disp:list-item
+        a box[y25..75 h50 w140 x513] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w100 x533] disp:inline FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Leistungen"
+            svg box[y46..55 h9 w14 x619] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none pos:absolute(tcalc(100% + 10px) rauto bauto l0px zauto) pad:10/10/10/10 bg:rgb(255, 255, 255) bord:10px/0px/0px/0px rgba(0, 0, 0, 0) shadow:rgba(0, 0, 0, 0.15) -4px 4px 30px 0px
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Maschinenbau"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Stahlbau"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Teilefertigung / Zerspanung"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Vorrichtungsbau"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Konstruktion"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item bg:rgb(255, 255, 255)
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Maschinenpark"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+      li.item.page17.parent box[y25..75 h50 w247 x653] disp:list-item
+        a box[y25..75 h50 w247 x653] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w207 x673] disp:inline FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"ALVAR® Flexo Druckwerke"
+            svg box[y46..55 h9 w14 x866] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none pos:absolute(tcalc(100% + 10px) rauto bauto l0px zauto) pad:10/10/10/10 bg:rgb(255, 255, 255) bord:10px/0px/0px/0px rgba(0, 0, 0, 0) shadow:rgba(0, 0, 0, 0.15) -4px 4px 30px 0px
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"ALVAR® speed"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"ALVAR® gear"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"ALVAR® mini"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item bg:rgb(255, 255, 255)
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"ALVAR® Zusatzkomponenten"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+      li.item.page46.parent box[y25..75 h50 w118 x900] disp:list-item
+        a box[y25..75 h50 w118 x900] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w78 x920] disp:inline FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Karriere"
+            svg box[y46..55 h9 w14 x985] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none pos:absolute(tcalc(100% + 10px) rauto bauto l0px zauto) pad:10/10/10/10 bg:rgb(255, 255, 255) bord:10px/0px/0px/0px rgba(0, 0, 0, 0) shadow:rgba(0, 0, 0, 0.15) -4px 4px 30px 0px
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Stellenangebote"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item bg:rgb(255, 255, 255)
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Ausbildungsplätze"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+      li.item.page2.current-page.parent box[y25..75 h50 w123 x1019] disp:list-item
+        a box[y25..75 h50 w123 x1019] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w83 x1039] disp:inline FONT[18px/700/50px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Über uns"
+            svg box[y46..55 h9 w14 x1108] disp:inline
+        ul.level_2 box[y0..0 h0 w0 x0] disp:none pos:absolute(tcalc(100% + 10px) rauto bauto l0px zauto) pad:10/10/10/10 bg:rgb(255, 255, 255) bord:10px/0px/0px/0px rgba(0, 0, 0, 0) shadow:rgba(0, 0, 0, 0.15) -4px 4px 30px 0px
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Unsere Werte"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Engagement"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+          li.item.child box[y0..0 h0 w0 x0] disp:list-item bg:rgb(255, 255, 255)
+            a box[y0..0 h0 w0 x0] disp:block pos:relative(tauto rauto bauto lauto zauto) pad:0/20/60/25 mar:10/10/10/10 bg:rgb(87, 87, 87) trans:all 0.3s ease 0s
+              figure.image.thumbnail.cover box[y0..0 h0 w0 x0] disp:block pos:absolute(t0px rauto bauto l0px z1) bg:rgb(255, 255, 255)
+                picture box[y0..0 h0 w0 x0] disp:block
+              span box[y0..0 h0 w0 x0] disp:block pos:absolute(tauto rauto b0px l0px z3) pad:0/25/33.33/25 trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Downloads / Zertifikate"
+                svg box[y0..0 h0 w0 x0] disp:inline-block mar:0/0/0/5 trans:all 0.3s ease 0s
+      li.item.page12 box[y25..75 h50 w109 x1142] disp:list-item
+        a box[y25..75 h50 w109 x1142] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w69 x1162] disp:inline FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Aktuelles"
+      li.item.page50 box[y25..75 h50 w119 x1251] disp:list-item bg:rgb(15, 130, 70)
+        a box[y25..75 h50 w119 x1251] disp:block pad:0/20/0/20 trans:color 0.3s ease 0s
+          span box[y38..61 h23 w79 x1271] disp:inline FONT[18px/700/50px/ls1.8px/rgb(70, 210, 60)/Rajdhani/uppercase] TXT:"Kontakt"
+      ul.socials box[y0..0 h0 w0 x0] disp:none pos:relative(t100% r0px bauto lauto zauto) pad:25/0/25/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        li box[y0..0 h0 w0 x0] disp:inline-block pos:relative(tauto rauto bauto lauto zauto) ai:center jc:center FONT[16px/400/100px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y0..0 h0 w0 x0] disp:flex ai:center jc:center pad:0/20/0/20 mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y0..0 h0 w0 x0] disp:block FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y0..0 h0 w0 x0] disp:inline-block pos:relative(tauto rauto bauto lauto zauto) ai:center jc:center FONT[16px/400/100px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y0..0 h0 w0 x0] disp:flex ai:center jc:center pad:0/20/0/20 mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y0..0 h0 w0 x0] disp:block FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y0..0 h0 w0 x0] disp:inline-block pos:relative(tauto rauto bauto lauto zauto) ai:center jc:center FONT[16px/400/100px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y0..0 h0 w0 x0] disp:flex ai:center jc:center pad:0/20/0/20 mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y0..0 h0 w0 x0] disp:block FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        li box[y0..0 h0 w0 x0] disp:inline-block pos:relative(tauto rauto bauto lauto zauto) ai:center jc:center FONT[16px/400/100px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+          a box[y0..0 h0 w0 x0] disp:flex ai:center jc:center pad:0/20/0/20 mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            svg box[y0..0 h0 w0 x0] disp:block FONT[18px/700/50px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+  div#languageSelect box[y25..75 h50 w40 x1400] disp:block pos:absolute(t50px r0px b0px l1400px z9999) bg:rgb(70, 210, 60) tf:matrix(1, 0, 0, 1, 0, -25) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+    span box[y25..75 h50 w40 x1400] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/700/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:"de "
+      svg box[y38..75 h38 w11 x1415] disp:block pos:absolute(t12.5px r9px b0px l20px zauto) tf:matrix(1, 0, 0, 1, -5.5, 0) FONT[16px/700/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:" "
+    ul box[y0..0 h0 w0 x0] disp:none bg:rgb(15, 130, 70) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+      li box[y0..0 h0 w0 x0] disp:list-item FONT[16px/400/50px/lsnormal/rgb(52, 52, 52)/Rajdhani/uppercase] TXT:" "
+        a box[y0..0 h0 w0 x0] disp:inline trans:color 0.3s ease 0s FONT[16px/400/50px/lsnormal/rgb(255, 255, 255)/Rajdhani/uppercase] TXT:"EN"
+  ul.socials box[y75..125 h50 w60 x1380] disp:block pos:absolute(t100px r0px b-50px l1380px zauto) tf:matrix(1, 0, 0, 1, 0, -25) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    li box[y75..125 h50 w60 x1380] disp:flex pos:relative(t0px r0px b0px l0px zauto) ai:center jc:center pad:10/0/0/0 bord:0px/0px/0px/10px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y89..121 h33 w33 x1399] disp:flex ai:center jc:center mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y97..113 h16 w9 x1410] disp:block FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y125..175 h50 w60 x1380] disp:flex pos:relative(t0px r0px b0px l0px zauto) ai:center jc:center bord:0px/0px/0px/10px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y134..166 h33 w33 x1399] disp:flex ai:center jc:center mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y142..158 h16 w16 x1407] disp:block FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y175..225 h50 w60 x1380] disp:flex pos:relative(t0px r0px b0px l0px zauto) ai:center jc:center bord:0px/0px/0px/10px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y184..216 h33 w33 x1399] disp:flex ai:center jc:center mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y192..208 h16 w16 x1407] disp:block FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+    li box[y225..275 h50 w60 x1380] disp:flex pos:relative(t0px r0px b0px l0px zauto) ai:center jc:center bord:0px/0px/0px/10px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      a box[y234..266 h33 w33 x1399] disp:flex ai:center jc:center mar:10/0/10/0 bg:rgb(255, 255, 255) radius:100% shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+        svg box[y242..258 h16 w16 x1407] disp:block FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+
+===================== HERO_BANNER =====================
+figure.image.cover.banner box[y0..360 h360 w1440 x0] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  picture box[y360..360 h0 w1440 x0] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    source box[y360..360 h0 w0 x0] disp:inline
+    source box[y360..360 h0 w0 x0] disp:inline
+    img box[y0..360 h360 w1200 x240] disp:block pos:absolute(t0px r0.03125px b0px l0px z1) mar:0/0/0/239.99 maxW:100% ar:auto 400 / 260 fit:cover SRC:csm_wendt_maschinenbau_gebaeude_02_3b00335b41.jpg nat:1800x1170
+  figcaption box[y310..360 h50 w480 x0] disp:flex pos:absolute(t310px r960.062px b0px l0px z1) fdir:column jc:end pad:0/50/0/50 bg:rgb(237, 241, 243) blend:multiply FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    h1 box[y340..360 h20 w380 x50] disp:block FONT[20px/100/20px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Über uns"
+
+===================== S1_TEXTTEASER =====================
+div#item-66.frame.frame-default.frame-type-t4m_textteaser.frame-layout-0.col-full-width box[y360..826 h466 w1440 x0] disp:block gcol:auto / span 12 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y360..826 h466 w1440 x0] disp:flex pos:relative(t0px r0px b0px l0px zauto) gap:normal 50px jc:space-between pad:200/287.97/50/287.97 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    header box[y560..776 h216 w407 x288] disp:block FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      h2.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0 maxW:500px
+      h1 box[y560..655 h95 w407 x288] disp:block mar:0/0/30/0 maxW:500px FONT[38px/600/47.5px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Effiziente Fertigung auf höchstem Niveau"
+    div.bodytext box[y560..776 h216 w407 x745] disp:block FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      p box[y560..776 h216 w407 x745] disp:block maxW:500px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Als Systemlieferant bietet Wendt seinen Kunden ein Rundum-sorglos-Paket: Von der"
+
+===================== S2_TEXTPIC50 =====================
+div#item-206.frame.frame-default.frame-type-t4m_textpic50.frame-layout-0.frame-space-before-large.frame-space-after-small.image-left.col-full-width box[y976..1692 h716 w1440 x0] disp:block gcol:auto / span 12 mar:150/0/50/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y976..1692 h716 w1440 x0] disp:block pos:relative(t0px r0px b0px l0px zauto) pad:50/0/50/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.left.responsive-50-100-100.cover box[y976..1592 h616 w725 x0] disp:block pos:absolute(t0px r714.875px b100px l0px z1) bord:0px/10px/0px/0px rgb(52, 52, 52) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1405..1405 h0 w715 x0] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1405..1405 h0 w0 x0] disp:inline
+        source box[y1405..1405 h0 w0 x0] disp:inline
+        source box[y1405..1405 h0 w0 x0] disp:inline
+        source box[y1405..1405 h0 w0 x0] disp:inline
+        img box[y976..1592 h616 w665 x0] disp:block pos:absolute(t0px r50px b0px l0px z1) maxW:100% fit:cover SRC:csm_wendt_maschinenbau_geschaeftsfuehrung_1f4220b190.jpg nat:1200x780
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Geschäftsführung von Wendt Maschinenbau stehen nebeneinander aufgestellt auf Sta"
+    div.bodytext box[y1026..1642 h616 w715 x725] disp:flex pos:relative(t0px r0px b0px l0px z2) fdir:column jc:center pad:100/288/100/50 mar:0/0/0/725 bg:rgb(237, 241, 243) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y1126..1198 h73 w377 x775] disp:block FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0
+        h3 box[y1126..1168 h43 w377 x775] disp:block mar:0/0/30/0 FONT[34px/600/42.5px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Wie alles bei uns begann"
+      p box[y1198..1414 h216 w377 x775] disp:block mar:0/0/20/0 maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Bei Wendt Maschinenbau verbinden wir Tradition mit modernster Technik und indivi"
+        strong box[y1220..1241 h21 w57 x1084] disp:inline FONT[16px/700/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Seit 1991"
+      p box[y1434..1542 h108 w377 x775] disp:block maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Auf dem Bild v.l.n.r.: Moritz Neumann (ppa. Personal- und Rechnungswesen), Vales"
+        br box[y1434..1455 h21 w0 x900] disp:inline
+        span box[y1478..1499 h21 w46 x828] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(33, 33, 33)/Rajdhani] TXT:"Hurtzig"
+
+===================== S3_CARD_A =====================
+div#item-72.frame.frame-default.frame-type-t4m_imageteaser.frame-layout-0.frame-space-before-small.image-right.col-s-100.col-m-50.col-l-33 box[y1792..2591 h799 w447 x0] disp:block gcol:auto / span 4 mar:50/0/0/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y1792..2591 h799 w447 x0] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.cover box[y1792..2591 h799 w447 x0] disp:block pos:absolute(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1792..1792 h0 w447 x0] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1792..1792 h0 w0 x0] disp:inline
+        source box[y1792..1792 h0 w0 x0] disp:inline
+        source box[y1792..1792 h0 w0 x0] disp:inline
+        source box[y1792..1792 h0 w0 x0] disp:inline
+        img.ready box[y1792..2591 h799 w397 x0] disp:block pos:absolute(t0px r50px b0px l0px z1) maxW:100% fit:cover trans:all 1s ease 0s SRC:csm_wendt_maschinenbau_teamgeist_01_26820ea992.jpg nat:1600x1249
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div.bodytext box[y2152..2541 h389 w397 x50] disp:block pos:relative(t0px r0px b0px l0px z3) pad:50/50/50/50 mar:360/0/50/50 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y2202..2240 h38 w297 x100] disp:block mar:0/0/25/0 maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0 maxW:600px
+        h3 box[y2202..2240 h38 w297 x100] disp:block mar:0/0/30/0 maxW:600px FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          a box[y2201..2239 h38 w166 x100] disp:inline maxW:600px trans:color 0.3s ease 0s FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Unsere Werte"
+      p box[y2270..2443 h173 w297 x100] disp:block maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Ehrlichkeit, Respekt und Nachhaltigkeit prägen unser Handeln bei Wendt Maschinen"
+      a.btn box[y2473..2489 h16 w130 x100] disp:inline-block mar:30/0/0/0 maxW:600px trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+        span box[y2470..2491 h21 w130 x100] disp:inline maxW:600px FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Mehr erfahren "
+          span.icon box[y2473..2489 h16 w34 x196] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) maxW:600px trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+            svg box[y2471..2491 h20 w20 x203] disp:block pos:absolute(t8px r-3px b-12px l17px zauto) maxW:600px tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+
+===================== S3_CARD_B =====================
+div#item-73.frame.frame-default.frame-type-t4m_imageteaser.frame-layout-0.frame-space-before-small.image-right.col-s-100.col-m-50.col-l-33 box[y1792..2591 h799 w447 x497] disp:block gcol:auto / span 4 mar:50/0/0/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y1792..2591 h799 w447 x497] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.cover box[y1792..2591 h799 w447 x497] disp:block pos:absolute(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1792..1792 h0 w447 x497] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1792..1792 h0 w0 x497] disp:inline
+        source box[y1792..1792 h0 w0 x497] disp:inline
+        source box[y1792..1792 h0 w0 x497] disp:inline
+        source box[y1792..1792 h0 w0 x497] disp:inline
+        img.ready box[y1792..2591 h799 w397 x497] disp:block pos:absolute(t0px r50px b0px l0px z1) maxW:100% fit:cover trans:all 1s ease 0s SRC:csm_wendt_maschinenbau_gebaeude_01_79bba6c0e6.jpg nat:1600x994
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div.bodytext box[y2152..2541 h389 w397 x547] disp:block pos:relative(t0px r0px b0px l0px z3) pad:50/50/50/50 mar:360/0/50/50 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y2202..2240 h38 w297 x597] disp:block mar:0/0/25/0 maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0 maxW:600px
+        h3 box[y2202..2240 h38 w297 x597] disp:block mar:0/0/30/0 maxW:600px FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          a box[y2201..2239 h38 w155 x597] disp:inline maxW:600px trans:color 0.3s ease 0s FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Engagement"
+      p box[y2270..2443 h173 w297 x597] disp:block maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Nachhaltigkeit und soziale Verantwortung sind uns ein wichtiges Anliegen. Wir se"
+      a.btn box[y2473..2489 h16 w130 x597] disp:inline-block mar:30/0/0/0 maxW:600px trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+        span box[y2470..2491 h21 w130 x597] disp:inline maxW:600px FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Mehr erfahren "
+          span.icon box[y2473..2489 h16 w34 x693] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) maxW:600px trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+            svg box[y2471..2491 h20 w20 x700] disp:block pos:absolute(t8px r-3px b-12px l17px zauto) maxW:600px tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+
+===================== S3_CARD_C =====================
+div#item-74.frame.frame-default.frame-type-t4m_imageteaser.frame-layout-0.frame-space-before-small.image-right.col-s-100.col-m-50.col-l-33 box[y1803..2580 h777 w447 x993] disp:block gcol:auto / span 4 mar:50/0/0/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y1803..2580 h777 w447 x993] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.cover box[y1803..2580 h777 w447 x993] disp:block pos:absolute(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y1803..1803 h0 w447 x993] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y1803..1803 h0 w0 x993] disp:inline
+        source box[y1803..1803 h0 w0 x993] disp:inline
+        source box[y1803..1803 h0 w0 x993] disp:inline
+        source box[y1803..1803 h0 w0 x993] disp:inline
+        img.ready box[y1803..2580 h777 w397 x993] disp:block pos:absolute(t0px r50px b0px l0px z1) maxW:100% fit:cover trans:all 1s ease 0s SRC:csm_wendt_maschinenbau_notizblock_a3dd1962e9.jpg nat:1600x870
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div.bodytext box[y2163..2530 h367 w397 x1043] disp:block pos:relative(t0px r0px b0px l0px z3) pad:50/50/50/50 mar:360/0/50/50 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y2213..2251 h38 w297 x1093] disp:block mar:0/0/25/0 maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h4.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0 maxW:600px
+        h3 box[y2213..2251 h38 w297 x1093] disp:block mar:0/0/30/0 maxW:600px FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          a box[y2212..2250 h38 w134 x1093] disp:inline maxW:600px trans:color 0.3s ease 0s FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Downloads"
+      p box[y2281..2432 h151 w297 x1093] disp:block maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Alles, was Sie wissen müssen, auf einen Blick! In unserem Download-Bereich finde"
+      a.btn box[y2462..2478 h16 w130 x1093] disp:inline-block mar:30/0/0/0 maxW:600px trans:all 0.3s ease 0s FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+        span box[y2459..2480 h21 w130 x1093] disp:inline maxW:600px FONT[16px/500/16px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Mehr erfahren "
+          span.icon box[y2462..2478 h16 w34 x1190] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) maxW:600px trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+            svg box[y2460..2480 h20 w20 x1197] disp:block pos:absolute(t8px r-3px b-12px l17px zauto) maxW:600px tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+
+===================== S4_CTA_TEASER =====================
+div#item-465.frame.frame-indented-left.frame-type-t4m_imageteaser.frame-layout-0.frame-space-before-extra-large.frame-space-after-extra-large.image-right.col-s-100.col-m-50.col-l-50 box[y2791..3583 h792 w695 x0] disp:block gcol:auto / span 6 pad:0/0/0/288 mar:200/0/200/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y2791..3583 h792 w407 x288] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    figure.image.cover box[y2791..3583 h792 w407 x288] disp:block pos:absolute(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      picture box[y2791..2791 h0 w407 x288] disp:block FONT[16px/400/0px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        source box[y2791..2791 h0 w0 x288] disp:inline
+        source box[y2791..2791 h0 w0 x288] disp:inline
+        source box[y2791..2791 h0 w0 x288] disp:inline
+        source box[y2791..2791 h0 w0 x288] disp:inline
+        img.ready box[y2791..3583 h792 w357 x288] disp:block pos:absolute(t0px r50px b0px l0px z1) maxW:100% fit:cover trans:all 1s ease 0s SRC:csm_wendt_maschinenbau_kontakt_84ab90fda3.jpg nat:1600x1342
+      figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div.bodytext box[y3151..3533 h382 w357 x338] disp:block pos:relative(t0px r0px b0px l0px z3) pad:50/50/50/50 mar:360/0/50/50 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+      header box[y3201..3389 h188 w257 x388] disp:block mar:0/0/25/0 maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+        h3.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0 maxW:600px
+        h2 box[y3201..3389 h188 w257 x388] disp:block mar:0/0/30/0 maxW:600px FONT[30px/600/37.5px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Haben Sie noch Fragen oder möchten Sie Ihr Projekt mit uns besprechen?"
+      p box[y3419..3483 h65 w257 x388] disp:block maxW:600px FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Schreiben Sie uns eine Nachricht und wir melden uns innerhalb von 24 Stunden bei"
+
+===================== S4_FORM =====================
+div#item-467.frame.frame-indented-right.frame-type-form_formframework.t4maddress_addressXXX.frame-layout-0.frame-space-before-medium.frame-space-after-medium.col-s-100.col-m-50.col-l-50 box[y2882..3493 h611 w695 x745] disp:block gcol:auto / span 6 pad:0/288/0/0 mar:100/0/100/0 FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+  div.inner box[y2882..3493 h611 w407 x745] disp:block pos:relative(t0px r0px b0px l0px zauto) pad:50/50/67.5/50 bg:rgb(15, 130, 70) FONT[16px/400/21.6px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+    form#einfachesKontaktformular-467 box[y2932..3391 h460 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div box[y2932..2932 h0 w307 x795] disp:block
+        input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+        input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+      div.form-group box[y2932..2997 h65 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Anrede "
+          span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+        div.input box[y2932..2997 h65 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          select#einfachesKontaktformular-467-singleselect-1.form-control box[y2932..2972 h40 w307 x795] disp:inline-block ai:center pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) FONT[16px/400/normal/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:" "
+            option box[y0..0 h0 w0 x0] disp:block gap:8px ai:center pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Anrede*"
+            option box[y0..0 h0 w0 x0] disp:block gap:8px ai:center pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Frau"
+            option box[y0..0 h0 w0 x0] disp:block gap:8px ai:center pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Herr"
+            option box[y0..0 h0 w0 x0] disp:block gap:8px ai:center pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(15, 130, 70)/Rajdhani] TXT:"Divers"
+      div.row box[y2997..3127 h130 w307 x795] disp:flex ai:center jc:space-between maxW:100% FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div.col-12.col-sm-6.col-md-6.col-lg-6.col-xl-6.col-xxl-6 box[y2997..3062 h65 w143 x795] disp:block gcol:auto / span 12 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.form-group box[y2997..3062 h65 w143 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Vorname "
+              span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+            div.input box[y2997..3062 h65 w143 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              input#einfachesKontaktformular-467-text-1.form-control box[y2997..3037 h40 w143 x795] disp:inline-block pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+        div.col-12.col-sm-6.col-md-6.col-lg-6.col-xl-6.col-xxl-6 box[y2997..3062 h65 w143 x958] disp:block gcol:auto / span 12 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.form-group box[y2997..3062 h65 w143 x958] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Nachname "
+              span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+            div.input box[y2997..3062 h65 w143 x958] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              input#einfachesKontaktformular-467-name.form-control box[y2997..3037 h40 w143 x958] disp:inline-block pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+        div.col-12.col-sm-6.col-md-6.col-lg-6.col-xl-6.col-xxl-6 box[y3062..3127 h65 w143 x795] disp:block gcol:auto / span 12 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.form-group box[y3062..3127 h65 w143 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"E-Mail "
+              span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+            div.input box[y3062..3127 h65 w143 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              input#einfachesKontaktformular-467-email.form-control box[y3062..3102 h40 w143 x795] disp:inline-block pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+        div.col-12.col-sm-6.col-md-6.col-lg-6.col-xl-6.col-xxl-6 box[y3062..3127 h65 w143 x958] disp:block gcol:auto / span 12 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.form-group box[y3062..3127 h65 w143 x958] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Telefonnummer"
+            div.input box[y3062..3127 h65 w143 x958] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              input#einfachesKontaktformular-467-telephone-1.form-control box[y3062..3102 h40 w143 x958] disp:inline-block pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+      input#einfachesKontaktformular-467-hE63TNqlUQ4x2 box[y3127..3167 h40 w407 x-15189] disp:block pos:absolute(t245px r15934px b326.062px l50px zauto) pad:0/10/0/10 mar:0/0/0/-15984 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60) @data-id=hE63TNqlUQ4x2
+      div.form-group box[y3127..3192 h65 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Firma "
+          span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+        div.input box[y3127..3192 h65 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          input#einfachesKontaktformular-467-subject.form-control box[y3127..3167 h40 w307 x795] disp:inline-block pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+      div.form-group box[y3192..3283 h92 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        label.form-label box[y0..0 h0 w0 x0] disp:none FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Nachricht "
+          span.required box[y0..0 h0 w0 x0] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+        div.input box[y3192..3283 h92 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          textarea#einfachesKontaktformular-467-message.xxlarge.form-control box[y3212..3252 h40 w307 x795] disp:inline-block pad:10/10/10/10 mar:20/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+      div.form-group box[y3283..3391 h108 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div.input.checkbox box[y3283..3391 h108 w307 x795] disp:flex mar:0/0/34/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.form-check box[y3283..3391 h108 w35 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            label.add-on.form-check-label box[y3283..3308 h25 w35 x795] disp:block pad:0/10/0/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+              input#einfachesKontaktformular-467-checkbox-1.add-on box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255)
+              span box[y3283..3308 h25 w25 x795] disp:block bord:2px/2px/2px/2px rgb(255, 255, 255) FONT[0px/400/25px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Datenschutzerklärung "
+                span.required box[y3297..3297 h0 w0 x808] disp:inline FONT[0px/400/25px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"*"
+          div.form-text box[y3283..3391 h108 w272 x830] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Mit dem Absenden erklären Sie sich mit der Verarbeitung Ihrer personenbezogenen "
+      div.form-group box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          input#einfachesKontaktformular-467-securecheck-1.security-check-input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+      div.actions box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        nav.form-navigation box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.btn-toolbar box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            div.btn-group box[y3425..3425 h0 w307 x795] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              span.btn-group.next.submit box[y3425..3425 h0 w0 x795] disp:inline FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                button.btn.btn-primary box[y3425..3459 h34 w159 x943] disp:block pad:0/0/0/10 bg:rgb(15, 130, 70) shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px trans:all 0.3s ease 0s FONT[16px/500/32px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Jetzt absenden"
+
+===================== FOOTER =====================
+footer.page-footer box[y3893..4375 h482 w1440 x0] disp:block bg:rgb(15, 130, 70) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+  div.grid box[y3893..4328 h435 w1490 x-25] disp:grid cols[228px 228px 228px 228px 228px] gap:50px jc:center pad:50/50/0/50 mar:0/-25/0/-25 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+    div#item-63.frame.frame-default.frame-type-image.frame-layout-0.col-s-100.col-m-100.col-l-25 box[y3943..4328 h385 w228 x50] disp:block gcol:auto / span 1 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div.inner box[y3943..3992 h49 w228 x50] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div.ce-image.ce-center.ce-above box[y3943..3992 h49 w228 x50] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.media box[y3943..3992 h49 w228 x50] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" " @data-columns=1 @data-images=1
+            figure.image.responsive-25-50-100.default box[y3943..3992 h49 w228 x50] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              picture box[y3943..3992 h49 w228 x50] disp:block FONT[16px/400/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                source box[y3977..3998 h21 w0 x50] disp:inline
+                img.ready box[y3943..3992 h49 w126 x50] disp:inline maxW:100% fit:fill trans:all 1s ease 0s SRC:wendt-logo-white.svg nat:126x49
+              figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+    div#item-41.frame.frame-default.frame-type-text.frame-layout-0.col-s-100.col-m-50.col-l-25 box[y3943..4328 h385 w228 x328] disp:block gcol:auto / span 1 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div.inner box[y3943..4116 h173 w228 x328] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div.bodytext box[y3943..4116 h173 w228 x328] disp:block maxW:500px FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          p box[y3943..4116 h173 w228 x328] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Oeseder Straße 1 49124 Georgsmarienhütte T F 0049 (0)5401-8605-11"
+            strong box[y3943..3986 h43 w219 x328] disp:inline FONT[16px/700/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Wendt Maschinenbau GmbH & Co KG"
+            br box[y3965..3986 h21 w0 x349] disp:inline
+            br box[y3987..4008 h21 w0 x442] disp:inline
+            br box[y4008..4029 h21 w0 x498] disp:inline
+            br box[y4030..4051 h21 w0 x328] disp:inline
+            a box[y4051..4072 h21 w134 x348] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"0049 (0)5401-8605-0"
+            br box[y4051..4072 h21 w0 x482] disp:inline
+            br box[y4073..4094 h21 w0 x484] disp:inline
+            a box[y4095..4116 h21 w194 x328] disp:inline trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"info@wendt-maschinenbau.de"
+    div#item-42.frame.frame-default.frame-type-menu_subpages.frame-layout-0.col-s-100.col-m-50.col-l-25 box[y3943..4328 h385 w228 x606] disp:block gcol:auto / span 1 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div.inner box[y3943..4045 h102 w228 x606] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        ul box[y3943..4045 h102 w228 x606] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y3943..3977 h34 w228 x606] disp:list-item FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a.btn box[y3943..3977 h34 w89 x606] disp:inline-block trans:all 0.3s ease 0s FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              span box[y3950..3971 h21 w51 x606] disp:inline FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Kontakt"
+              span.icon box[y3943..3977 h34 w34 x661] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                svg box[y3950..3970 h20 w20 x668] disp:block pos:absolute(t17px r-3px b-3px l17px zauto) tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y3977..4011 h34 w228 x606] disp:list-item FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a.btn box[y3977..4011 h34 w110 x606] disp:inline-block trans:all 0.3s ease 0s FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              span box[y3984..4005 h21 w72 x606] disp:inline FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Impressum"
+              span.icon box[y3977..4011 h34 w34 x682] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                svg box[y3984..4004 h20 w20 x689] disp:block pos:absolute(t17px r-3px b-3px l17px zauto) tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y4011..4045 h34 w228 x606] disp:list-item FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a.btn box[y4011..4045 h34 w189 x606] disp:inline-block trans:all 0.3s ease 0s FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              span box[y4018..4039 h21 w151 x606] disp:inline FONT[16px/500/32px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Datenschutz & HinSchG"
+              span.icon box[y4011..4045 h34 w34 x761] disp:inline-block pos:relative(t0px r0px b0px l0px zauto) trans:all 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                svg box[y4018..4038 h20 w20 x768] disp:block pos:absolute(t17px r-3px b-3px l17px zauto) tf:matrix(1, 0, 0, 1, -10, -10) trans:transform 0.3s ease 0s FONT[16px/500/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+    div#item-64.frame.frame-default.frame-type-t4msocials_socials.t4msocials_socials.frame-layout-0.col-s-100.col-m-50.col-l-25 box[y3943..4328 h385 w228 x884] disp:block gcol:auto / span 1 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div.inner box[y3943..4328 h385 w228 x884] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        header box[y3943..3983 h40 w228 x884] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          h3.subline.empty box[y0..0 h0 w0 x0] disp:none mar:0/0/30/0
+          h2 box[y3943..3983 h40 w228 x884] disp:block mar:0/0/30/0 FONT[20px/400/20px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Besuchen Sie uns auch auf Social Media"
+        ul.socials.circle box[y4013..4047 h33 w228 x884] disp:flex mar:25/0/25/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y4013..4047 h33 w33 x884] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/25/0/0 radius:50% FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a box[y4013..4047 h33 w33 x884] disp:block bg:rgb(15, 130, 70) radius:50% shadow:rgba(0, 0, 0, 0.2) -2px 2px 5px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              svg box[y4022..4038 h17 w17 x892] disp:inline mar:8.33/8.33/8.33/8.33 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y4013..4047 h33 w33 x942] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/25/0/0 radius:50% FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a box[y4013..4047 h33 w33 x942] disp:block bg:rgb(15, 130, 70) radius:50% shadow:rgba(0, 0, 0, 0.2) -2px 2px 5px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              svg box[y4022..4038 h17 w17 x951] disp:inline mar:8.33/8.33/8.33/8.33 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y4013..4047 h33 w33 x1001] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/25/0/0 radius:50% FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a box[y4013..4047 h33 w33 x1001] disp:block bg:rgb(15, 130, 70) radius:50% shadow:rgba(0, 0, 0, 0.2) -2px 2px 5px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              svg box[y4022..4038 h17 w17 x1009] disp:inline mar:8.33/8.33/8.33/8.33 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          li box[y4013..4047 h33 w33 x1059] disp:block pos:relative(t0px r0px b0px l0px zauto) mar:0/25/0/0 radius:50% FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            a box[y4013..4047 h33 w33 x1059] disp:block bg:rgb(15, 130, 70) radius:50% shadow:rgba(0, 0, 0, 0.2) -2px 2px 5px 0px trans:color 0.3s ease 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              svg box[y4022..4038 h17 w17 x1067] disp:inline mar:8.33/8.33/8.33/8.33 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        img box[y4097..4297 h200 w228 x884] disp:inline mar:25/0/25/0 ar:auto 200 / 200 fit:fill SRC:wendt_icon_nachhaltigkeit.svg nat:150x150
+    div#item-565.frame.frame-default.frame-type-textpic.frame-layout-0.col-s-100.col-m-50.col-l-25 box[y3943..4328 h385 w228 x1162] disp:block gcol:auto / span 1 bord:0px/0px/0px/10px rgb(255, 255, 255) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      div.inner box[y3943..4219 h276 w218 x1172] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div.ce-textpic.media-right box[y3943..4219 h276 w218 x1172] disp:block ai:last baseline jc:start pad:0/50/25/50 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.bodytext box[y3943..4073 h130 w118 x1222] disp:block mar:0/0/20/0 maxW:500px FONT[16px/400/21.6px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:" "
+            p box[y3943..4073 h130 w118 x1222] disp:block FONT[16px/400/21.6px/lsnormal/rgb(70, 210, 60)/Rajdhani] TXT:"Unsere Website ist ausgezeichnet mit dem German Brand Award 2026"
+              br box[y3965..3986 h21 w0 x1242] disp:inline
+              br box[y4008..4029 h21 w0 x1280] disp:inline
+          div.media box[y4093..4194 h101 w39 x1222] disp:block mar:0/11.8/0/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" " @data-columns=1 @data-images=1
+            figure.image.responsive-25-25-50.default box[y4093..4194 h101 w39 x1222] disp:block pos:relative(t0px r0px b0px l0px zauto) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              picture box[y4093..4194 h101 w39 x1222] disp:block FONT[16px/400/0px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+                source box[y4179..4200 h21 w0 x1222] disp:inline
+                source box[y4179..4200 h21 w0 x1222] disp:inline
+                source box[y4179..4200 h21 w0 x1222] disp:inline
+                img.ready box[y4093..4194 h101 w39 x1222] disp:inline maxW:100% fit:fill trans:all 1s ease 0s SRC:csm_german-design-award-footer_bb6ae40cee.png nat:400x1037
+              figcaption box[y0..0 h0 w0 x0] disp:none pos:relative(tauto rauto bauto lauto z2)
+  div.copyright box[y4328..4375 h47 w1440 x0] disp:block pad:12.5/50/12.5/50 bg:rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"© 2026, Wendt Maschinenbau GmbH & Co KG"
+  div#t4mConsent.modal.hidden box[y0..0 h0 w0 x0] disp:block pos:fixed(t0px r1440px b900px l0px z-1) bg:rgba(0, 0, 0, 0.6) op:0 trans:opacity, z-index 0.5s, 0.5s ease, ease 0s, 0s FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+    div.container box[y-50..50 h100 w800 x-400] disp:block pos:absolute(t0px r-800px b-100px l0px zauto) pad:50/50/50/50 bg:rgb(15, 130, 70) maxW:800px tf:matrix(1, 0, 0, 1, -400, -50) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+      h2 box[y0..30 h30 w700 x-350] disp:block FONT[24px/700/30px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Cookies & Datenschutz"
+      p box[y30..73 h43 w700 x-350] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Wir setzen Cookies erst, wenn Sie dem zugestimmt haben. Die Cookies helfen uns, "
+      form box[y98..160 h62 w700 x-350] disp:block mar:25/0/0/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+        div box[y98..98 h0 w700 x-350] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+          input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+        div.details box[y0..0 h0 w0 x0] disp:none pad:50/50/50/50 mar:50/-50/50/-50 bg:rgba(0, 0, 0, 0.1) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          div.category box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            h3 box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[18.72px/700/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Notwendige Daten & Cookies"
+            ol.group box[y0..0 h0 w0 x0] disp:block pad:0/0/0/10 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              li box[y0..0 h0 w0 x0] disp:list-item mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" Name: session Provider: lokal Cookie lifetime: Sitzung "
+                input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+                input#consent-session box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255) @data-consent=session
+                label box[y0..0 h0 w0 x0] disp:block op:0.9 FONT[16px/400/21.6px/lsnormal/rgb(237, 241, 243)/Rajdhani] TXT:"Technisch notwendige Cookies"
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                p box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Notwendige Cookies ermöglichen grundlegende Funktionen und sind für die einwandf"
+              li box[y0..0 h0 w0 x0] disp:list-item mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" Name: leadinfo Provider: Leadinfo B.V. Cookie lifetime: - "
+                input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+                input#consent-leadinfo box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255) @data-consent=leadinfo
+                label box[y0..0 h0 w0 x0] disp:block op:0.9 FONT[16px/400/21.6px/lsnormal/rgb(237, 241, 243)/Rajdhani] TXT:"Leadinfo"
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                p box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"B2B Lead-Tracking"
+          div.category box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            h3 box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[18.72px/700/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Marketing und Statistik"
+            ol.group box[y0..0 h0 w0 x0] disp:block pad:0/0/0/10 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              li box[y0..0 h0 w0 x0] disp:list-item mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" Name: google-services Provider: Google Ireland Limited Cookie lifetime: 1 Jahr "
+                input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+                input#consent-google-services box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255) @data-consent=google-services
+                label box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Google-Services (Analytics, Ads und Tag-Manager)."
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                p box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Diese Dienste erfassen Informationen über die Webseiten-Nutzung. Die gewonnenen "
+          div.category box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+            h3 box[y0..0 h0 w0 x0] disp:block mar:0/0/10/0 FONT[18.72px/700/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Externe Medien"
+            ol.group box[y0..0 h0 w0 x0] disp:block pad:0/0/0/10 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+              li box[y0..0 h0 w0 x0] disp:list-item mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" Name: landkarten Provider: diverse Cookie lifetime: 1 Jahr "
+                input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+                input#consent-landkarten box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255) @data-consent=landkarten
+                label box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Landkarten"
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                p box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Erlaub das Laden von Grafiken (Kartendaten) von externen Quellen"
+              li box[y0..0 h0 w0 x0] disp:list-item mar:0/0/10/0 FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" Name: youtube Provider: Google Cookie lifetime: 1 Jahr "
+                input box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:0/0/25/0 bg:rgb(255, 255, 255) bord:0px/0px/2px/0px rgb(70, 210, 60)
+                input#consent-youtube box[y0..0 h0 w0 x0] disp:none mar:0/0/25/0 bg:rgb(255, 255, 255) @data-consent=youtube
+                label box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Youtube"
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                br box[y0..0 h0 w0 x0] disp:inline
+                p box[y0..0 h0 w0 x0] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Erlaubt die Einbindung von Youtube-Videos innerhalb dieser Website"
+        div.buttons box[y98..160 h62 w700 x-350] disp:block FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:" "
+          button.allow-all box[y101..135 h34 w127 x-347] disp:inline-block pad:0/10/0/10 mar:2.5/2.5/25/2.5 bg:rgb(255, 255, 255) shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px FONT[16px/700/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Alle akzeptieren"
+            span.icon box[y107..128 h21 w0 x-231] disp:inline
+              svg box[y0..0 h0 w0 x0] disp:none
+          button.allow-necessary box[y101..135 h34 w118 x-211] disp:inline-block pad:0/10/0/10 mar:2.5/2.5/25/2.5 bg:rgb(255, 255, 255) shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px op:0.6 FONT[16px/500/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Nur essenzielle"
+            span.icon box[y107..128 h21 w0 x-104] disp:inline
+              svg box[y0..0 h0 w0 x0] disp:none
+          button.allow-selected box[y0..0 h0 w0 x0] disp:none pad:0/10/0/10 mar:2.5/2.5/25/2.5 bg:rgb(255, 255, 255) shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px op:0.6 FONT[16px/500/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Auswahl speichern"
+            span.icon box[y0..0 h0 w0 x0] disp:inline
+              svg box[y0..0 h0 w0 x0] disp:none
+          button.show-details box[y101..135 h34 w127 x-84] disp:inline-block pad:0/10/0/10 mar:2.5/2.5/25/2.5 bg:rgb(255, 255, 255) shadow:rgba(0, 0, 0, 0.15) -4px 4px 14px 0px op:0.6 FONT[16px/500/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:" "
+            span.more box[y107..128 h21 w107 x-74] disp:inline FONT[16px/500/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Details anzeigen"
+            span.less box[y0..0 h0 w0 x0] disp:none FONT[16px/500/34px/lsnormal/rgb(52, 52, 52)/Rajdhani] TXT:"Details ausblenden"
+            span.icon box[y107..128 h21 w0 x33] disp:inline
+              svg box[y0..0 h0 w0 x0] disp:none
+  div#t4mConsentOpener box[y853..900 h47 w180 x1260] disp:block pos:fixed(t853.406px r0px b0px l1260.06px z99) pad:12.5/50/12.5/50 bg:rgb(70, 210, 60) FONT[16px/400/21.6px/lsnormal/rgb(255, 255, 255)/Rajdhani] TXT:"Datenschutz"
